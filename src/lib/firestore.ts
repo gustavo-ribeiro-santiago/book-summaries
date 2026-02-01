@@ -1,3 +1,5 @@
+'use client';
+
 import {
   collection,
   doc,
@@ -38,7 +40,7 @@ export interface Chapter {
 }
 
 // Books Collection
-export const booksCollection = collection(db, 'books');
+const booksCollection = collection(db, 'books');
 
 export async function createBook(data: Omit<Book, 'id' | 'createdAt' | 'updatedAt'>) {
   const docRef = await addDoc(booksCollection, {
@@ -126,4 +128,3 @@ export async function deleteChapter(bookId: string, chapterId: string) {
   const docRef = doc(db, 'books', bookId, 'chapters', chapterId);
   await deleteDoc(docRef);
 }
-
