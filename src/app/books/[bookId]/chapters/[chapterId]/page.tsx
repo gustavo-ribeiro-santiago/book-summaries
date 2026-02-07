@@ -7,7 +7,7 @@ import Navbar from '@/components/Navbar';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import MarkdownEditor from '@/components/MarkdownEditor';
-import { getBook, getChapter, updateChapter, Book, Chapter } from '@/lib/firestore';
+import { getBook, getChapter, getBookChapters, updateChapter, Book, Chapter } from '@/lib/firestore';
 
 export default function ChapterPage({
   params,
@@ -27,6 +27,7 @@ function ChapterDetail({ bookId, chapterId }: { bookId: string; chapterId: strin
   const router = useRouter();
   const [book, setBook] = useState<Book | null>(null);
   const [chapter, setChapter] = useState<Chapter | null>(null);
+  const [allChapters, setAllChapters] = useState<Chapter[]>([]);
   const [loading, setLoading] = useState(true);
   const [isEditing, setIsEditing] = useState(false);
 
@@ -36,9 +37,10 @@ function ChapterDetail({ bookId, chapterId }: { bookId: string; chapterId: strin
 
   const loadData = async () => {
     try {
-      const [bookData, chapterData] = await Promise.all([
+      const [bookData, chapterData, chaptersData] = await Promise.all([
         getBook(bookId),
         getChapter(bookId, chapterId),
+        getBookChapters(bookId),
       ]);
 
       if (!bookData || !chapterData) {
@@ -48,6 +50,7 @@ function ChapterDetail({ bookId, chapterId }: { bookId: string; chapterId: strin
 
       setBook(bookData);
       setChapter(chapterData);
+      setAllChapters(chaptersData);
     } catch (error) {
       console.error('Error loading chapter:', error);
     } finally {
@@ -64,6 +67,11 @@ function ChapterDetail({ bookId, chapterId }: { bookId: string; chapterId: strin
       console.error('Error saving chapter summary:', error);
     }
   };
+
+  // Find previous and next chapters
+  const currentIndex = allChapters.findIndex((c) => c.id === chapterId);
+  const prevChapter = currentIndex > 0 ? allChapters[currentIndex - 1] : null;
+  const nextChapter = currentIndex < allChapters.length - 1 ? allChapters[currentIndex + 1] : null;
 
   if (loading) {
     return (
@@ -157,20 +165,100 @@ function ChapterDetail({ bookId, chapterId }: { bookId: string; chapterId: strin
           )}
         </section>
 
-        {/* Navigation */}
+        {/* Chapter Navigation */}
         <div className="mt-12 pt-8 border-t border-paper-200">
-          <Link
-            href={`/books/${bookId}`}
-            className="inline-flex items-center gap-2 text-accent-600 hover:text-accent-700 font-medium"
-          >
-            <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
-              <path fillRule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clipRule="evenodd" />
-            </svg>
-            Back to Book
-          </Link>
+          <div className="flex items-center justify-between">
+            {/* Previous Chapter */}
+            <div className="flex-1">
+              {prevChapter ? (
+                <Link
+                  href={`/books/${bookId}/chapters/${prevChapter.id}`}
+                  className="group inline-flex flex-col items-start gap-1 text-left"
+                >
+                  <span className="text-sm text-ink-500 flex items-center gap-1 group-hover:text-accent-600 transition-colors">
+                    <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
+                      <path fillRule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                    Previous Chapter
+                  </span>
+                  <span className="font-medium text-ink-700 group-hover:text-accent-600 transition-colors line-clamp-1">
+                    {prevChapter.chapterNumber}. {prevChapter.title}
+                  </span>
+                </Link>
+              ) : (
+                <Link
+                  href={`/books/${bookId}`}
+                  className="inline-flex items-center gap-2 text-ink-500 hover:text-accent-600 transition-colors"
+                >
+                  <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                  Back to Book
+                </Link>
+              )}
+            </div>
+
+            {/* Center: Back to Book */}
+            <div className="hidden sm:flex flex-shrink-0 mx-4">
+              <Link
+                href={`/books/${bookId}`}
+                className="px-4 py-2 bg-paper-100 hover:bg-paper-200 rounded-lg text-ink-600 hover:text-ink-900 font-medium transition-colors flex items-center gap-2"
+              >
+                <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
+                  <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z" />
+                </svg>
+                All Chapters
+              </Link>
+            </div>
+
+            {/* Next Chapter */}
+            <div className="flex-1 flex justify-end">
+              {nextChapter ? (
+                <Link
+                  href={`/books/${bookId}/chapters/${nextChapter.id}`}
+                  className="group inline-flex flex-col items-end gap-1 text-right"
+                >
+                  <span className="text-sm text-ink-500 flex items-center gap-1 group-hover:text-accent-600 transition-colors">
+                    Next Chapter
+                    <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
+                      <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                    </svg>
+                  </span>
+                  <span className="font-medium text-ink-700 group-hover:text-accent-600 transition-colors line-clamp-1">
+                    {nextChapter.chapterNumber}. {nextChapter.title}
+                  </span>
+                </Link>
+              ) : (
+                <Link
+                  href={`/books/${bookId}`}
+                  className="inline-flex items-center gap-2 text-ink-500 hover:text-accent-600 transition-colors"
+                >
+                  Finish Book
+                  <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                </Link>
+              )}
+            </div>
+          </div>
+
+          {/* Chapter Progress Indicator */}
+          {allChapters.length > 1 && (
+            <div className="mt-6">
+              <div className="flex items-center justify-between text-sm text-ink-500 mb-2">
+                <span>Chapter {chapter.chapterNumber} of {allChapters.length}</span>
+                <span>{Math.round(((currentIndex + 1) / allChapters.length) * 100)}% complete</span>
+              </div>
+              <div className="w-full bg-paper-200 rounded-full h-2">
+                <div
+                  className="bg-accent-500 h-2 rounded-full transition-all duration-300"
+                  style={{ width: `${((currentIndex + 1) / allChapters.length) * 100}%` }}
+                />
+              </div>
+            </div>
+          )}
         </div>
       </main>
     </div>
   );
 }
-
