@@ -10,13 +10,14 @@
   },
   "dependencies": {
     "firebase": "^11.2.0",
+    "firebase-admin": "^13.6.1",
+    "highlight.js": "^11.11.1",
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-markdown": "^9.0.3",
-    "remark-gfm": "^4.0.0",
     "rehype-highlight": "^7.0.2",
-    "highlight.js": "^11.11.1"
+    "remark-gfm": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",

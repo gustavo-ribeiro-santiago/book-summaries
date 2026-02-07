@@ -12,47 +12,58 @@ service cloud.firestore {
       return isAuthenticated() && request.auth.uid == userId;
     }
     
+    // Helper function to check if user is an admin
+    function isAdmin() {
+      return isAuthenticated() 
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+    
+    // Admin collection - only readable by admins themselves
+    match /admins/{adminId} {
+      allow read: if isAuthenticated() && request.auth.uid == adminId;
+      allow write: if false; // Admins can only be added via Firebase Console or Admin SDK
+    }
+    
     // Books collection rules
     match /books/{bookId} {
-      // Allow read if user owns the book
-      allow read: if isOwner(resource.data.userId);
+      // Allow read if user owns the book OR is admin
+      allow read: if isOwner(resource.data.userId) || isAdmin();
       
-      // Allow create if user is authenticated and setting their own userId
-      allow create: if isAuthenticated() 
+      // Allow create if user is authenticated and setting their own userId OR is admin
+      allow create: if isAdmin() || (isAuthenticated() 
         && request.resource.data.userId == request.auth.uid
         && request.resource.data.title is string
-        && request.resource.data.author is string;
+        && request.resource.data.author is string);
       
-      // Allow update if user owns the book
-      allow update: if isOwner(resource.data.userId)
-        && request.resource.data.userId == resource.data.userId;
+      // Allow update if user owns the book OR is admin
+      allow update: if isAdmin() || (isOwner(resource.data.userId)
+        && request.resource.data.userId == resource.data.userId);
       
-      // Allow delete if user owns the book
-      allow delete: if isOwner(resource.data.userId);
+      // Allow delete if user owns the book OR is admin
+      allow delete: if isOwner(resource.data.userId) || isAdmin();
       
       // Chapters subcollection rules
       match /chapters/{chapterId} {
-        // Allow read if user owns the parent book
-        allow read: if isAuthenticated() 
-          && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid;
+        // Allow read if user owns the parent book OR is admin
+        allow read: if isAdmin() || (isAuthenticated() 
+          && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid);
         
-        // Allow create if user owns the parent book
-        allow create: if isAuthenticated()
+        // Allow create if user owns the parent book OR is admin
+        allow create: if isAdmin() || (isAuthenticated()
           && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid
           && request.resource.data.userId == request.auth.uid
           && request.resource.data.title is string
-          && request.resource.data.chapterNumber is number;
+          && request.resource.data.chapterNumber is number);
         
-        // Allow update if user owns the chapter
-        allow update: if isAuthenticated()
+        // Allow update if user owns the chapter OR is admin
+        allow update: if isAdmin() || (isAuthenticated()
           && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid
-          && request.resource.data.userId == resource.data.userId;
+          && request.resource.data.userId == resource.data.userId);
         
-        // Allow delete if user owns the chapter
-        allow delete: if isAuthenticated()
-          && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid;
+        // Allow delete if user owns the chapter OR is admin
+        allow delete: if isAdmin() || (isAuthenticated()
+          && get(/databases/$(database)/documents/books/$(bookId)).data.userId == request.auth.uid);
       }
     }
   }
 }
-
