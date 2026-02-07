@@ -30,14 +30,14 @@ const SUMMARIES_DIR = path.join(__dirname, '..', 'summaries', 'hwfip');
 // Chapter metadata (titles in UPPERCASE)
 const chaptersMetadata = [
   // Part One: Fundamental Techniques in Handling People
-  { number: 1, title: "IF YOU WANT TO GATHER HONEY, DON'T KICK OVER THE BEEHIVE" },
-  { number: 2, title: "THE BIG SECRET OF DEALING WITH PEOPLE" },
-  { number: 3, title: "HE WHO CAN DO THIS HAS THE WHOLE WORLD WITH HIM. HE WHO CANNOT WALKS A LONELY WAY" },
+  // { number: 1, title: "IF YOU WANT TO GATHER HONEY, DON'T KICK OVER THE BEEHIVE" },
+  // { number: 2, title: "THE BIG SECRET OF DEALING WITH PEOPLE" },
+  // { number: 3, title: "HE WHO CAN DO THIS HAS THE WHOLE WORLD WITH HIM. HE WHO CANNOT WALKS A LONELY WAY" },
   
   // Part Two: Ways to Make People Like You
-  { number: 4, title: "DO THIS AND YOU'LL BE WELCOME ANYWHERE" },
-  { number: 5, title: "A SIMPLE WAY TO MAKE A GOOD FIRST IMPRESSION" },
-  { number: 6, title: "IF YOU DON'T DO THIS, YOU ARE HEADED FOR TROUBLE" },
+  // { number: 4, title: "DO THIS AND YOU'LL BE WELCOME ANYWHERE" },
+  // { number: 5, title: "A SIMPLE WAY TO MAKE A GOOD FIRST IMPRESSION" },
+  // { number: 6, title: "IF YOU DON'T DO THIS, YOU ARE HEADED FOR TROUBLE" },
   { number: 7, title: "AN EASY WAY TO BECOME A GOOD CONVERSATIONALIST" },
   { number: 8, title: "HOW TO INTEREST PEOPLE" },
   { number: 9, title: "HOW TO MAKE PEOPLE LIKE YOU INSTANTLY" },
