@@ -14,7 +14,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Initialize Firebase Admin SDK
-const serviceAccount = require('./serviceAccountKey.json');
+const serviceAccount = require('../serviceAccountKey.json');
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
@@ -25,7 +25,7 @@ const db = admin.firestore();
 // Configuration
 const USER_ID = '5RCGILVnMvT1mrK0j7AfnuXAz8q2';
 const BOOK_TITLE = 'How to Win Friends and Influence People';
-const SUMMARIES_DIR = path.join(__dirname, '..', 'summaries', 'hwfip');
+const SUMMARIES_DIR = path.join(__dirname, '..', '..', 'summaries', 'hwfip');
 
 // Chapter metadata (titles in UPPERCASE)
 const chaptersMetadata = [
