@@ -1,0 +1,785 @@
+TO BUILD AND EVOLVE YOUR MACHINE . . .
+
+Most people get caught up in the blizzard of things coming at them. In contrast, successful people get above the blizzard so they can see the causes and effects at play. This higher-level perspective allows them to see themselves and others objectively as a machine, to understand who can and cannot do what well, and how everyone can fit together in a way that will produce the best outcomes.
+
+Now that you’ve learned the best ways to approach your machine’s two key components—its culture and its people—I’d like to turn to principles for managing and improving your machine.
+
+In the next chapter, I will go over my high-level principles for applying higher-level thinking to conceptualize your organization as a machine. This isn’t just a thought experiment; thinking in a machinelike way also has important practical ramifications for how you manage your team and how you design roles, responsibilities, and workflows.
+
+In Chapter Ten, Manage as Someone Operating a Machine to Achieve a Goal, I apply this approach to organizational design at its highest level.
+
+Once you understand how to build and run your machine, your next objective is to figure out how to improve it. We do this through the 5-Step Process I described as 1) identifying our goals, 2) encountering our problems; 3) diagnosing those problems to get at their root causes; 4) designing changes to get around the problems; and 5) doing what is needed. Think of any organization you know and you will see that they go through this evolutionary process with varying degrees of success. The world is littered with once-great organizations that deteriorated because the initial waves of excellence faded and the leadership failed to adequately adapt by changing the people and the designs. There are also a few organizations that keep reinventing themselves to go on to new heights of greatness.
+
+The subsequent chapters of this section explain how the 5-Step Process works within an organization, and what you need to do to make sure you get the most out of it. To be effective, you must look down upon your machines as would an organizational engineer, comparing the outputs with the goals, and constantly modifying the people and the designs to make the outputs better. Most importantly, you must orchestrate your people. How well you do this will determine your success.
+
+Finally, you’ll read two chapters on making sure the idea meritocracy runs as designed, both at the day-to-day and the strategic level. Chapter Fifteen, Use Tools and Protocols to Shape How Work Is Done, describes the importance of systemization and tools to ensure the idea meritocracy functions as intended. And in Chapter Sixteen, And for Heaven’s Sake, Don’t Overlook Governance! I explain that while, at first, I underestimated the importance of governance to ensuring that an organization operates effectively over time, as I’ve transitioned myself out of running Bridgewater day to day, I’ve learned a number of important principles for how governance should function in an idea meritocracy.
+
+39We did this at Bridgewater and the figure came out to 301 percent.
+
+10Manage as Someone Operating a Machine to Achieve a Goal
+
+No matter what work you do, at a high level you are simply setting goals and building machines to help you achieve them. I built the machine that is Bridgewater by constantly comparing its actual outcomes to my mental map of the outcomes that itshouldbe producing, and finding ways to improve it.
+
+I won’t say anything specific about how you should set your own organization’s goals other than that the high-level principles about goal setting I covered inLife Principlesapply equally to individuals and organizations. I will, however, point out that in running your organization, you and the people you work with must be clear on how your lower-level goals—whether they’re to produce things cost-effectively, achieve high customer satisfaction, help a certain number of people in need, whatever—grow out of your higher-level goals and values.
+
+No matter how good you are at design, your machine will have problems. You or some other capable mechanic needs to identify those problems and look under the hood of the machine to diagnose their root causes. You or whoever is diagnosing those problems has to understand what the parts of the machine—the designs and the people—are like and how they work together to produce the outcomes. Thepeople are the most important part, since most everything, including the designs themselves, comes from people. Unless you have a clear understanding of your machine from a higher level—and can visualize all its parts and how they work together—you will inevitably fail at this diagnosis and fall short of your potential.
+
+At Bridgewater, the high-level goal of all of our machines is to create excellent outcomes for our clients—in the returns on their investments, of course, but also in the quality of our relationship and our thought partnership in understanding global economies and markets more broadly. Before we had anything else at Bridgewater, we had this commitment to excellence. Maintaining these extremely high standards has always been a challenge, especially as the pace of our growth and change accelerated. In the next several chapters, I will walk you through a case in which our client service outcomes began to slip and show how we used the 5-Step Process to improve our machine.
+
+But first, I want to share some high-level principles for building and evolving the machine that is any organization.
+
+10.1Look down on your machine and yourself within it from the higher level.
+
+Higher-level thinking isn’t something that’s done by higher-level beings. It’s simply seeing things from the top down. Think of it as looking at a photo of yourself and the world around you from outer space. From that vantage, you can see the relationships between the continents, countries, and seas. Then you can get more granular, by zooming into a closer-up view of your country, your city, your neighborhood, and finally your immediate environment. Having that macro perspective gives you much more insight than you’d get if you simply looked around your house through your own eyes.
+
+a.Constantly compare your outcomes to your goals.You must always be simultaneously trying to accomplish the goal andevaluating the machine (the people and the design), as all outcomes are reflections of how the machine is running. Whenever you identify a problem with your machine, you need to diagnose whether it is the result of a flaw in its design or in the way your people are handling their responsibilities.
+
+Sample size is important. Any problem can be a one-off imperfection or a symptom of root causes that will show up as problems repeatedly. If you look at enough problems, which one it is will become clear.
+
+b.Understand that a great manager is essentially an organizational engineer.Great managers are not philosophers, entertainers, doers, or artists. They are engineers. They see their organizations as machines and work assiduously to maintain and improve them. They create process-flow diagrams to show how the machine works and to evaluate its design. They build metrics to light up how well each of the individual parts of the machine (most importantly, the people) and the machine as a whole are working. And they tinker constantly with its designs and its people to make both better.
+
+They don’t do this randomly. They do it systematically, always keeping the cause-and-effect relationships in mind. And while they care deeply about the people involved, they cannot allow their feelings for them or their desire to spare them discomfort to stand in the way of the machine’s constant improvement. To do otherwise wouldn’t be good for either the individuals on the team or the team that the individuals are a part of.
+
+Of course, the higher up you are in an organization, the more important vision and creativity become, but you still must have the skills required to manage/orchestrate well. Some young entrepreneurs start with the vision and creativity and then develop their management skills as they scale their companies; others start with management skills and develop vision as they climb the ladder. But like great musicians, all great managers have both creativity and technical skills. And no manager at any level can expect to succeed without the skill set of an organizational engineer.
+
+c.Build great metrics.Metrics show how the machine is working by providing numbers and setting off alert lights in a dashboard. Metrics are an objective means of assessment and they tend to have a favorable impact on productivity. If your metrics are good enough, you can gain such a complete and accurate view of what your people are doing and how well they are doing it that you can almost manage via the metrics alone.
+
+In constructing your metrics, imagine the most important questions you need answered in order to know how things are going and imagine what numbers will give you the answers to them. Don’t look at the numbers that you have and try to adapt them to your purposes, because you won’t get what you need. Instead start with the most important questions and imagine the metrics that will answer them.
+
+Remember that any single metric can mislead; you need enough evidence to establish patterns. And of course the information that goes into the metrics must be assessed for accuracy. A reluctance to be critical can be detected by looking at the average grade each grader gives; those giving higher average grades might be easy graders and vice versa. Similarly helpful are “forced rankings,” in which people must rank co-worker performance from best to worst. Forced rankings are essentially the same thing as “grading on a curve.” Metrics that allow for independent grading across departments and groups are especially valuable.
+
+d.Beware of paying too much attention to what is coming at you and not enough attention to your machine.If you keep your focus on each individual task, you will inevitably get bogged down. If instead you pay attention to building and managing your machines, you will be rewarded many times over.
+
+e.Don’t get distracted by shiny objects.No matter how complete any project or plan, there will always be things that come out of nowhere and look like the most important or urgent or attractive thing to focus on. These shiny objects may be traps that will distract you from thinking in a machinelike way, so be on your guard for them and don’t let yourself be seduced.
+
+10.2Remember that for every case you deal with, your approach should have two purposes . . .
+
+. . . 1)to move you closer to your goal, and 2) to train and test your machine (i.e., your people and your design).The second purpose is more important than the first because it is how you build a solid organization that works well in all cases. Most people focus more on the first purpose, which is a big mistake.
+
+a.Everything is a case study.Think about what type of case it is and what principles apply to that type of case. By doing this and helping others to do this you’ll get better at handling situations as they repeat over and over again through time.
+
+b.When a problem occurs, conduct the discussion at two levels: 1) the machine level (why that outcome was produced) and 2) the case-at-hand level (what to do about it).Don’t make the mistake of just having the case-at-hand discussion, because then you are micromanaging (i.e., you are doing your managee’s thinking and your managee will mistakenly think that’s okay). When having the machine-level discussion, think clearly how things should have gone and explore why they didn’t go that way. If you are in a rush to determine what to do and you have to tell the person who works for you what to do, make sure to explain what you are doing and why.
+
+c.When making rules, explain the principles behind them.You don’t want the people you work with to merely pay lip service to your community’s rules; they should have a high sense of ethics that makes them want to abide by them and hold others accountable for abiding by them, while also working to perfect them. The way to achieve this is via principles that are sound and that have been tested through open discussion.
+
+d.Your policies should be natural extensions of your principles.Principles are hierarchical—some are overarching and some are less important—but they all should inform the policies that guide your individual decisions. It pays to think those policies through to ensure that they are consistent with each other and the principles they are derived from.
+
+When faced with a case that doesn’t have a clear policy to follow (for example, what to do about an employee whose job is to travel but who faces potential health risks because of his travel), one can’t just snatch an answer out of the blue without regard for higher-level principles. Policymakers must make policy in the same way that the judicial system creates case law—iteratively and incrementally, by dealing with specific cases and interpreting the law as it applies to them.
+
+That is how I have tried to operate. When a case arises, I lay out the principles behind how I am handling it and get in sync with others to see if we agree on those principles or must modify them to make them better. By and large, that’s how all Bridgewater’s principles and policies were developed.
+
+e.While good principles and policies almost always provide good guidance, remember that there are exceptions to every rule.While everyone has the right to make sense of things—and is in fact obliged to challenge principles and policies if they conflict with what they believe is the best approach—that’s not the same thing as having the right to change them. Changes in policies must be approved by those who made them (or someone else who has been made responsible for evolving them).
+
+When someone wishes to make an exception to an important policy at Bridgewater, they must write up a proposed alternative policy and escalate their request to the Management Committee.
+
+Exceptions should be extremely rare because policies that have frequent exceptions are ineffective. The Management Committee will formally consider it and either reject it, amend it, or adopt it.
+
+10.3Understand the differencesbetween managing, micromanaging, and not managing.
+
+Great managers orchestrate rather than do. Like the conductor of an orchestra, they do not play an instrument, but direct their people so that they play beautifully together. Micromanaging, in contrast, is telling the people who work for you exactly what tasks to do or doing their tasks for them. Not managing is having them do their jobs without your oversight and involvement. To be successful, you need to understand these differences and manage at the right level.
+
+a.Managers must make sure that what they are responsible for works well.They can do this by 1) managing others well (as explained above), 2) job slipping down to do work they’re not responsible for because others can’t do their jobs well, or 3) escalating what they can’t manage well. The first choice is optimal; the second signals that a change is needed in the people and the design; the third choice is harder still but mandatory.
+
+b.Managing the people who report to you should feel like skiing together.Like a ski instructor, you need to have close contact with your people on the slopes so that you can assess their strengths and weaknesses as they are doing their jobs. There should be a good back-and-forth as they learn by trial and error. With time you will be able to decide what they can and can’t handle on their own.
+
+c.An excellent skier is probably going to be a better ski coach than a novice skier.Believability applies to management too. The better your track record, the more value you can add as a coach.
+
+d.Youshould be able to delegate the details.If you keep getting bogged down in details, you either have a problem with managing or training, or you have the wrong people doing the job. The real sign of a master manager is that he doesn’t have to do practically anything. Managers should view the need to get involved in the nitty-gritty as a bad sign.
+
+At the same time, there’s danger in thinking you’re delegating details when you’re actually being too distant from what’s important and essentially are not managing. Great managers know the difference. They strive to hire, train, and oversee in a way in which others can superbly handle as much as possible on their own.
+
+10.4Know what your people are like and what makes them tick, because your people are your most important resource.
+
+Develop a full profile of each person’s values, abilities, and skills. These qualities are the real drivers of behavior, so knowing them in detail will tell you which jobs a person can and cannot do well, which ones they should avoid, and how the person should be trained. These profiles should change as the people change.
+
+If you don’t know your people well, you don’t know what you can expect from them. You’re flying blind and you have no one to blame but yourself if you don’t get the outcomes you’re expecting.
+
+a.Regularly take the temperature of each person who is important to you and to the organization.Probe your key people and urge them to bring up anything that might be bothering them. These problems might be ones you are unaware of, or they may be misunderstood by the person raising them. Whatever the case, it is essential that they be brought out into the open.
+
+b.Learn how much confidence to have in your people—don’t assume it.No manager should delegate responsibilities to people they don’t know well. It takes time to learn about people and how much confidence you can vest in them. Sometimes new people are offended when their managers don’t have confidence in how they are carrying out their responsibilities. They think it’s a criticism of their abilities when it’s simply a matter of the manager being realistic about the fact that he or she hasn’t had enough time or direct experience with them to form a point of view.
+
+c.Vary your involvement based on your confidence.Management largely consists of scanning and probing everything you are responsible for to identify suspicious signs. Based on what you see, you should vary your degree of digging, doing more for people and areas that look suspicious, and less where what you see instills confidence. At Bridgewater a host of tools (Issue Logs, metrics, daily updates, checklists) produce objective performance-related data. Managers should review and spot-check them regularly.
+
+10.5Clearly assign responsibilities.
+
+Eliminate any confusion about expectations and ensure that people view their failures to complete their tasks and achieve their goals as personal failures. The most important person on a team is the one who is given the overall responsibility for accomplishing the mission. This person must have both the vision to see what should be done and the discipline to make sure it’s accomplished.
+
+a.Remember who has what responsibilities.While that might sound obvious, people often fail to stick to their own responsibilities. Even senior people in organizations sometimes act like young kids just learning to play soccer, running after the ball in an effort to help but forgetting what position they are supposed to play. This can undermine rather than improve performance. So make surethat people remember how the team is supposed to work and play their positions well.
+
+b.Watch out for “job slip.”Job slip is when a job changes without being explicitly thought through and agreed to, generally because of changing circumstances or a temporary necessity. Job slip often leads to the wrong people handling the wrong responsibilities and confusion over who is supposed to do what.
+
+10.6Probe deep and hard to learn what you can expect from your machine.
+
+Constantly probe the people who report to you while making sure they understand that it’s good for them and everyone else to surface their problems and mistakes. Doing so is required to make sure you’re getting what you want, even from people who are doing their jobs well (though they can be given a bit more leeway).
+
+Probing shouldn’t just come from the top down. The people who work for you should constantly challenge you, so that you can become as good as you can be. In doing so, they will understand that they are just as responsible for finding solutions as you are. It’s much easier for people to remain spectators than to become players. Forcing them onto the field strengthens the whole team.
+
+a.Get a threshold level of understanding.When managing an area, you need to gain a rich enough understanding of the people, processes, and problems around you to make well-informed decisions. Without that understanding, you will believe the stories and excuses you are told.
+
+b.Avoid staying too distant.You need to know your people extremely well, provide and receive regular feedback, and have quality discussions. And while you don’t want to get distracted by gossip, you haveto be able to get a quick download from the appropriate people. Your job design needs to build in the time to do these things. If it doesn’t, you run the risk of not managing. The tools I have developed give me windows into what people are doing and what they are like, and I follow up on problems.
+
+c.Use daily updates as a tool for staying on top of what your people are doing and thinking.I ask each person who reports to me to take about ten to fifteen minutes to write a brief description of what they did that day, the issues pertaining to them, and their reflections. By reading these updates and triangulating them (i.e., seeing other people’s takes on what they are doing together), I can gauge how they are working together, what their moods are, and which threads I should pull on.
+
+d.Probe so you know whether problems are likely to occur before they actually do.If problems take you by surprise, it is probably because you are either too far removed from your people and processes or you haven’t adequately visualized how the people and processes might lead to various outcomes. When a crisis is brewing, contact should be close enough that there will be no surprises.
+
+e.Probe to the level below the people who report to you.You can’t understand how the person who reports to you manages others unless you know their direct reports and can observe how they behave.
+
+f.Have the people who report to the people who report to you feel free to escalate their problems to you.This is a great and useful form of upward accountability.
+
+g.Don’t assume that people’s answers are correct.People’s answers could be erroneous theories or spin, so you need to occasionally double-check them, especially when they sound questionable. Some managers are reluctant to do this, feeling it is the equivalent of saying they don’t trust their people. These managers need tounderstand that this process is how trust is earned or lost. Your people will learn to be much more accurate in what they tell you if they understand this—and you will learn who you can rely on.
+
+h.Train your ear.Over time, you’ll hear the same verbal cues indicating that someone is thinking about something badly or failing to apply principles appropriately. For example, listen for the anonymous “we” as a cue that someone is likely depersonalizing a mistake.
+
+i.Make your probing transparent rather than private.This helps assure the quality of the probing (because others can make their own assessments), and it will reinforce the culture of truth and transparency.
+
+j.Welcome probing.It’s important to welcome probing of yourself because no one can see themselves objectively. When you are being probed, it’s essential to stay calm. Your emotional “lower-level you” will probably react to probing with something like, “You’re a jerk because you’re against me and making me feel bad,” whereas your thoughtful “higher-level you” should be thinking, “It’s wonderful that we can be completely honest like this and have such a thoughtful exchange to help assure that I’m doing things well.” Listen to your higher-level you and don’t lose sight of how difficult it can be for the person doing the probing. Besides helping to make the organization and your relationship with the person who is probing you go well, working yourself through this difficult probing will build your character and your equanimity.
+
+k.Remember that people who see things and think one way often have difficulty communicating with and relating to people who see things and think another way.Imagine you had to describe what a rose smells like to someone who lacks a sense of smell. No matter how accurate your explanation, it will always fall short of the actual experience. The same thing is true of differences in ways of thinking. They are like blind spots, and if you have one (which we all do), it can be challenging to see what’sthere. Working through these differences requires a lot of patience and open-mindedness, as well as triangulating with other people who can help fill in the picture.
+
+l.Pull all suspicious threads.It’s worth pulling all suspicious threads because: 1) Small negative situations can be symptomatic of serious underlying problems; 2) Resolving small differences of perception may prevent more serious divergence of views; and 3) In trying to create a culture that values excellence, constantly reinforcing the need to point out and stare at problems—no matter how small—is essential (otherwise you risk setting an example of tolerating mediocrity).
+
+Prioritization can be a trap if it causes you to ignore the problems around you. Allowing small problems to go unnoticed and unaddressed creates the perception that it’s acceptable to tolerate such things. Imagine that all your little problems are small pieces of trash you’re stepping over to get to the other side of a room. Sure, what’s on the other side of the room may be very important, but it won’t hurt you to pick up the trash as you come to it, and by reinforcing the culture of excellence it will have positive second- and third-order consequences that will reverberate across your whole organization. While you don’t need to pick up every piece, you should never lose sight of the fact that you’re stepping over the trash nor that it’s probably not as hard as you think to pick up a piece or two as you go on your way.
+
+m.Recognize that there are many ways to skin a cat.Your assessment of how Responsible Parties are doing their jobs should not be based on whether they’re doing it your way but whether they’re doing it in a good way. Be careful about expecting a person who achieves success one way to do it a different way. That’s like insisting that Babe Ruth improve his swing.
+
+10.7Think like an owner,and expect the people you work with to do the same.
+
+It’s a basic reality that if you don’t experience the consequences of your actions, you’ll take less ownership of them. If you are an employee, and you get a paycheck for turning up and pleasing your boss, your mind-set will inevitably be trained to this cause-effect relationship. If you are a manager, make sure you structure incentives and penalties that encourage people to take full ownership of what they do and not just coast by. This includes straightforward things such as spending money like it’s their own and making sure their responsibilities aren’t neglected when they’re out of the office. When people recognize that their own well-being is directly connected to that of their community, the ownership relationship becomes reciprocal.
+
+a.Going on vacation doesn’t mean one can neglect one’s responsibilities.Thinking like an owner means making sure that your responsibilities are handled well regardless of what comes up. While you are away on vacation, it’s your responsibility to make sure nothing drops. You can do that via a combination of good planning and coordination before you go and staying on top of things while you are away. This needn’t take much time—it can be as little as an hour of good checking from afar and it doesn’t even have to be every day, so you can typically slip it in when it’s convenient.
+
+b.Force yourself and the people who work for you to do difficult things.It’s a basic law of nature: You must stretch yourself if you want to get strong. You and your people must act with each other like trainers in gyms in order to keep each other fit.
+
+10.8Recognize and deal withkey-man risk.
+
+Every key person should have at least one person who can replace him or her. It’s best to have those people designated as likely successors and to have them apprentice and help in doing those jobs.
+
+10.9Don’t treat everyone the same—treat them appropriately.
+
+It’s often said that it is neither fair nor appropriate to treat people differently. But in order to treat people appropriately youmusttreat them differently. That is because people and their circumstances are different. If you were a tailor you wouldn’t give all of your customers the same size suit.
+
+It is, however, important to treat people according to the same set of rules. That’s why I’ve tried to flesh out Bridgewater’s principles in enough depth that differences are accounted for. For example, if someone has worked at Bridgewater for many years, that factors into how they are treated. Likewise, while I find all dishonesty intolerable, I don’t treat all acts of dishonesty and all people who are dishonest the same.
+
+a.Don’t let yourself get squeezed.Plenty of people have threatened me over the years by saying they’d quit, bring a lawsuit, embarrass me in the press—you name it. While some people have advised me that it’s easier to just make such things go away, I’ve found doing that is almost always shortsighted. Giving in not only compromises your values, it telegraphs that the rules of the game have changed and opens you up to more of the same. Fighting for what’s right can be hard in the short term, of course. But I’m willing to take the punch. What I worry about is doing the right thing and not about what people think about me.
+
+b.Care about the people whowork for you.If you aren’t working with people you care about and respect, your job probably isn’t the one for you. I will be there for anyone who really needs me; when a whole community operates this way, it is very powerful and rewarding. Personal contact at times of personal difficulty is a must.
+
+10.10Know that great leadership is generally not what it’s made out to be.
+
+I don’t use the word “leadership” to describe what I do or what I think is good because I don’t believe that what most people think of as “good leadership” is effective. Most people think a good leader is a strong person who engenders confidence in others and motivates them to follow him/her, with the emphasis on “follow.” The stereotypical leader often sees questioning and disagreement as threatening and prefers people do what they’re told. As an extension of this paradigm, the leader bears the main burden of decision making. But because such leaders are never as all-knowing as they try to appear, disenchantment and even anger tends to set in. That’s why people who once loved their charismatic leaders often want to get rid of them.
+
+This traditional relationship between “leaders” and “followers” is the opposite of what I believe is needed to be most effective, and being maximally effective is the most important thing a “leader” must do. It is more practical to be honest about one’s uncertainties, mistakes, and weaknesses than to pretend they don’t exist. It is also more important to have good challengers than good followers. Thoughtful discussion and disagreement is practical because it stress-tests leaders and brings what they are missing to their attention.
+
+One thing that leaders should not do, in my opinion, is be manipulative. Sometimes leaders will use emotions to motivate people to do things that they would not do after reflecting clearly. When dealingwith intelligent people in an idea meritocracy, it is essential that one always appeal to their reason rather than their base emotions.
+
+The most effective leaders work to 1) open-mindedly seek out the best answers and 2) bring others along as part of that discovery process. That is how learning and getting in sync occurs. A truly great leader is appropriately uncertain but well equipped to deal with that uncertainty through open-minded exploration. All else being equal, I think the kind of leader who looks and acts like a skilled ninja will beat the kind of leader who looks and acts like a muscular action hero every time.
+
+a.Be weak and strong at the same time.Sometimes asking questions to gain perspective can be misperceived as being weak and indecisive. Of course it’s not. It’s necessary in order to become wise and it is a prerequisite for being strong and decisive.
+
+Always seek the advice of wise others and let those who are better than you take the lead. The objective is to have the best understanding to make the best possible leadership decisions. Be open-minded and assertive at the same time and get in tight sync with those who work with you, recognizing that sometimes not all or even the majority of people will agree with you.
+
+b.Don’t worry about whether or not your people like you and don’t look to them to tell you what you should do.Just worry about making the best decisions possible, recognizing that no matter what you do, most everyone will think you’re doing something—or many things—wrong. It is human nature for people to want you to believe their own opinions and to get angry at you if you don’t, even when they have no reason to believe that their opinions are good. So, if you’re leading well, you shouldn’t be surprised if people disagree with you. The important thing is for you to be logical and objective in assessing your probabilities of being right.
+
+It is not illogical or arrogant to believe that you know better than the average person, so long as you are appropriately open-minded. Infact, it is not logical to believe that what the average person thinks is better than what you and the most insightful people around you think, because you have earned your way into your higher-than-average position and you and those insightful people are more informed than the average person. If the opposite were true, then you and the average man shouldn’t have your respective jobs. In other words, if you don’t have better insights than them, you shouldn’t be a leader—and if you do have better insights than them, don’t worry if you are doing unpopular things.
+
+So how should you deal with your people? Your choices are either to ignore them (which will lead to resentment and your ignorance of what they are thinking), blindly do what they want (which wouldn’t be a good idea), or encourage them to bring their disagreements to the surface and work through them so openly and reasonably that everyone will recognize the relative merits of your thinking. Have the open disagreement and be happy to either win or lose the thought battles, as long as the best ideas win out. I believe that an idea meritocracy will not only produce better results than other systems but will also ensure more alignment behind appropriate yet unpopular decisions.
+
+c.Don’t give orders and try to be followed; try to be understood and to understand others by getting in sync.If you want to be followed, either for egotistical reasons or because you believe it more expedient to operate that way, you will pay a heavy price in the long run. When you are the only one thinking, the results will suffer.
+
+Authoritarian managers don’t develop their subordinates, which means those who report to them stay dependent. This hurts everyone in the long run. If you give too many orders, people will likely resent them, and when you aren’t looking, defy them. The greatest influence you can have over intelligent people—and the greatest influence they will have on you—comes from constantly getting in sync about what is true and what is best so that you all want the same things.
+
+10.11Hold yourself and your people accountable and appreciate them for holding you accountable.
+
+Holding people accountable means understanding them and their circumstances well enough to assess whether they can and should do some things differently, getting in sync with them about that, and, if they can’t adequately do what is required, removing them from their jobs. It is not micromanaging them, nor is it expecting them to be perfect (holding particularly overloaded people accountable for doing everything excellently is often impractical, not to mention unfair).
+
+But people can resent being held accountable, and you don’t want to have to tell them what to do all the time. Reason with them so that they understand the value of what you’re doing, but never let them off the hook.
+
+a.If you’ve agreed with someone that something is supposed to go a certain way, make sure it goes that way—unless you get in sync about doing it differently.People will often subconsciously gravitate toward activities they like rather than what’s required. If they lose sight of their priorities, you need to redirect them. This is part of why it’s important to get frequent updates from people about their progress.
+
+b.Distinguish between a failure in which someone broke their “contract” and a failure in which there was no contract to begin with.If you didn’t make an expectation clear, you can’t hold people accountable for it not being fulfilled. Don’t assume that something was implicitly understood. Common sense isn’t actually all that common—be explicit.If responsibilities keep falling between the cracks, consider editing the design of your machine.
+
+c.Avoid getting sucked down.This occurs when a manager is pulled down to doing the tasks of a subordinate without acknowledging the problem. The sucked-down phenomenon bears some resemblance to job slip, since it involves the manager’s responsibilities slipping into areas that should be left to others. But while job slipping can make sense on a temporary basis to push through to a goal, it’s also generally a signal that a part of the machine is broken and needs fixing. The sucked-down phenomenon is what happens when a manager chronically fails to properly redesign an area of responsibility to keep him or herself from having to do the job that others should be capable of doing well. You can tell this problem exists when the manager focuses more on getting tasks done than on operating his or her machine.
+
+d.Watch out for people who confuse goals and tasks, because if they can’t make that distinction, you can’t trust them with responsibilities.People who can see the goals are usually able to synthesize too. One way to test this: If you ask a high-level question like “How is goal XYZ going?” a good answer will provide a synthesis up-front of how XYZ is going overall and, if needed, will support it by accounting for the tasks that were done to achieve it. People who see the tasks and lose sight of the goals will just describe the tasks that were done.
+
+e.Watch out for the unfocused and unproductive “theoretical should.”A “theoretical should” occurs when people assume that others or themselves should be able to do something when they don’t actually know whether they can (as in “Sally should be able to do X, Y, Z”). Remember that to really accomplish things you need believable Responsible Parties who have a track record of success in the relevant area.
+
+A similar problem occurs when people discuss how to solve a problem by saying something vague and depersonalized like “We should do X, Y, Z.” It is important to identify who these people are by name rather than with a vague “we,” and to recognize that it is their responsibility to determine what should be done.
+
+It is especially pointless for a group of people who are not responsible to say things like “We should . . .” to each other. Instead, those people should be speaking to the Responsible Party about what should be done.
+
+10.12Communicate the plan clearly and have clear metrics conveying whether you are progressing according to it.
+
+People should know the plans and designs within their departments. If you decide to diverge from an agreed-upon path, be sure to communicate your thoughts to the relevant parties and get their views so that you are all clear about the new direction. This allows people to buy into the plan or express their lack of confidence and suggest changes. It also makes clear what the goals are and who is keeping up his or her end of the bargain and who is falling short. Goals, tasks, and assigned responsibilities should be reviewed at department meetings at least once a quarter, perhaps as often as once a month.
+
+a.Put things in perspective by going back before going forward.Before moving forward with a new plan, take the time to reflect on how the machine has been working up till now.
+
+Sometimes people have problems putting current conditions into perspective or projecting into the future. Sometimes they forget who or what caused things to go well or poorly. By asking them to “tell the story” of how we got here, or by telling the story yourself, you highlight important items that were done well or poorly in relation to their consequences, draw attention to the bigger picture and the overarching goals, specify the people who are responsible for specific goals and tasks, and help achieve agreement. Being able to connect all these items at multiple levels is essential for people to understand the plan, give feedback on it, and eventually believe in it.
+
+10.13Escalate when youcan’t adequately handle your responsibilities . . .
+
+. . . and make sure that the people who work for you are proactive about doing the same.Escalating means saying you don’t believe you can successfully handle a situation and that you are passing the Responsible Party job to someone else. The person you are escalating to—the person to whom you report—can then decide whether to coach you through it, take control themselves, have someone else handle it, or do something else.
+
+It’s critical that escalation not be seen as a failure but as a responsibility. All Responsible Parties will eventually face tests that they don’t know whether they can handle; what’s important is raising their concerns so their boss knows about the risks and both the boss and the escalating RP can get in sync about what to do about it. There is no greater failure than to fail to escalate a responsibility you cannot handle. Make sure your people are proactive; demand that they speak up when they can’t meet agreed-upon deliverables or deadlines. Such communication is essential to get in sync both on the case at hand and on what the person handling it is like.
+
+11Perceive and Don’t Tolerate Problems
+
+On your way to your goals, you will inevitably encounter problems. To be successful you must perceive and not tolerate them. Problems are like coal thrown into a locomotive engine because burning them up—inventing and implementing solutions for them—propels us forward. Every problem you find is an opportunity to improve your machine. Identifying and not tolerating problems is one of the most important and disliked things people can do.
+
+For a lot of people identifying problems is difficult to do. Most people would rather celebrate all the things that are going well while sweeping problems under the rug. Those people have their priorities exactly backward, and there is little that can be more harmful to an organization. Don’t undermine your progress in pursuit of a pat on the back; celebrate finding out what isnotgoing well so you can make it go better. Thinking about problems that are difficult to solve may make you anxious, butnotthinking about them (and therefore not dealing with them) should make you even more anxious.
+
+Having this kind of anxiety about what can go wrong is extremely useful. It is what drives one to develop systems and metrics for monitoring the outcomes your machine is producing and motivates thosewho manage well to constantly taste-test the outputs of the system and to look for problems in its nooks and crannies. Having that constant worry and doing the double-checking is important to maintaining quality control. Making sure that little problems don’t exist is important because, if they’re allowed to continue, they will grow into big problems. To convey the point, I will tell you about a case in which we initially failed to maintain excellence, then perceived the problem, got at its root causes, designed changes, and pushed those changes through to produce excellent results.
+
+When I started Bridgewater, I was responsible for everything. I made the company’s investment decisions and its management decisions and then I built the organization to support me and eventually to carry on excellently without me. As Bridgewater grew, the standard I set was uncompromising and straightforward: The analysis we provide to clients should always be of the same quality it would be if I did it myself. That’s because when clients ask what “we” think, they aren’t asking what just anyone thinks—they want to know what I and the other CIOs, who are in charge of our investments, are thinking. To achieve that goal, Bridgewater’s Client Service Department either handles the questions they get from clients themselves or passes them on to people with various levels of expertise who are assigned to answer questions based on their level of difficulty. The client advisor (who is a knowledgeable professional designed to be the interface between Bridgewater and the client) has to understand the questions well enough to know who they should be routed to, and they need to review the answers before they go back to the client to ensure they are excellent. To be certain that always happens, I created a checks-and-balances system in which some of our best investment thinkers both draft memos to clients themselves and quality-control their colleagues’ work, grading it to provide traceable metrics that can be followed to monitor how well things are going and make changes as needed.
+
+In 2011, as a part of my management transition, I handed the oversight of this process to others, and several months later one of the people in the Client Service Department began noticing problems. Itstarted with one memo, which two senior investment advisors noticed had gone out the door to a client even though it contained errors. Though these were minor errors, they were important errors to me. With my prodding, the new management team began investigating other memos and discovered that this poorly prepared memo wasn’t just a one-off; it was symptomatic of a more widespread breakdown in the quality control machine. Worse still, the investigation revealed the Responsible Parties were failing to perceive and diagnose these problems. And most worrisome, it wasn’t clear that, without my pushing, anyone else would have taken the time to investigate.
+
+This initial failure to perceive and not tolerate problems did not happen for lack of caring; it happened because most of the people in the process paid more attention to getting the tasks done than assessing whether the goals were being achieved. They had become more like rubber stampers than craftsmen, while the top people who were supposed to “taste the soup” to make sure it was excellent were focused on other things.
+
+Discovering this was disappointing to all of us, because it showed that the high standards that for so long had been the reasons for our success were slipping. Facing this reality was painful, but ultimately healthy. The existence of a problem like this one—whether from a flaw in the design of one’s machine or from one’s own or others’ inabilities—is not shameful. Acknowledging a weakness isn’t the same thing as accepting it. It’s a necessary first step toward overcoming it. The pain one feels, whether from shame and embarrassment, or frustration at one’s inability to get the better of it, is like the pain one feels at getting flabby that motivates one to go to the gym. As you’ll see in the following chapters, facing this problem led to important innovations and improvements.
+
+The following principles flesh out how to perceive and not tolerate the problems that come your way.
+
+11.1If you’re not worried, you needto worry—and if you’re worried, you don’t need to worry.
+
+That’s because worrying about what can go wrong will protect you and not worrying about what will go wrong will leave you exposed.
+
+11.2Design and oversee a machine to perceive whether things are good enough or not good enough, or do it yourself.
+
+This is usually done by having the right people—people who will probe, who can’t stand inferior work or products, and who can synthesize well—and by having good metrics.
+
+a.Assign people the job of perceiving problems, give them time to investigate, and make sure they have independent reporting lines so that they can convey problems without any fear of recrimination.Without these things in place, you can’t rely on people raising all the problems you need to hear about.
+
+b.Watch out for the “Frog in the Boiling Water Syndrome.”Apparently, if you throw a frog into a pot of boiling water it will jump out immediately, but if you put it in room-temperature water and gradually bring it to a boil, it will stay in the pot until it dies. Whether or not that’s true of frogs, I see something similar happen to managers all the time. People have a strong tendency to slowly get used to unacceptable things that would shock them if they saw them with fresh eyes.
+
+c.Beware of group-think:The fact that no one seems concerned doesn’t mean nothing is wrong.If you see something that seems unacceptable to you, don’t assume that the fact that others also know about it and aren’t screaming means it’s not a problem. This is an easy trap to fall into—and a deadly one. Whenever you see badness, point it out to the Responsible Party and hold them accountable for doing something about it. Never stop saying, “This meal stinks!”
+
+d.To perceive problems, compare how the outcomes are lining up with your goals.This means comparing the outcomes that the machine is producing to your visualization of the outcomes you expected so that you can note any deviations. If you expect improvement to be within a specific range . . .
+
+. . . and it ends up looking like this . . .
+
+. . . you will know that you need to get at the root cause to deal with it. If you don’t, the trajectory will probably continue.
+
+e.“Taste the soup.”Think of yourself as a chef and taste the soup before it goes out to the customers. Is it too salty or too bland? Managers need to do that too, or have someone in their machine do it for them, for every outcome they’re responsible for. People who are delegated this task are called “taste testers.”
+
+f.Have as many eyes looking for problems as possible.Encourage people to bring problems to you. If everyone in your area feels responsible for the area’s well-being and no one is afraid to speak up, you will learn about problems when they are still easy to fix and haven’t caused serious damage. Stay in sync with the people who are closest to the most important functions.
+
+g.“Pop the cork.”It’syour responsibility to make sure communications from your people flow freely, so encourage it by giving them plenty of opportunities to speak up. Don’t just expect them to provide you with regular and honest feedback—explicitly ask them for it.
+
+h.Realize that the people closest to certain jobs probably know them best.At the very least, they have perspectives you need to understand, so make sure you see things through their eyes.
+
+11.3Be very specific about problems; don’t start with generalizations.
+
+For example, don’t say, “Client advisors aren’t communicating well with the analysts.” Be specific: Name which client advisors aren’t doing this well and in which ways. Start with the specifics and then observe patterns.
+
+a.Avoid the anonymous “we” and “they,” because they mask personal responsibility.Things don’t just happen by themselves—they happen because specific people did or didn’t do specific things. Don’t undermine personal accountability with vagueness. Instead of the passive generalization or the royal “we,” attribute specific actions to specific people: “Harry didn’t handle this well.” Also avoid “We should . . .” or “We are . . .” and so on. Since individuals are the most important building blocks of any organization and since individuals are responsible for the ways things are done, mistakes must be connected to those individuals by name. Someone created the procedure that went wrong or made the faulty decision. Glossing over that can only slow progress toward improvement.
+
+11.4Don’t beafraid to fix the difficult things.
+
+In some cases, people accept unacceptable problems because they are perceived as too difficult to fix. Yet fixing unacceptable problems is a lot easier than not fixing them, because not fixing them will lead to more stress, more work, and chronic bad outcomes that could get you fired. So remember one of the first principles of management: You need to look at the feedback you’re getting on your machine and either fix your problems or escalate them, if need be, over and over again. There is no easier alternative than bringing problems to the surface and putting them in the hands of good problem solvers.
+
+a.Understand that problems with good, planned solutions in place are completely different from those without such solutions.Unidentified problems are the worst; identified problems without planned solutions are better, but worse for morale; identified problems with a good planned solution are better still; and solved problems are best. It’s really important to know which category a problem belongs to. The metrics you use to track the progress of your solution should be so clear and intuitive that they are obvious extensions of the plan.
+
+b.Think of the problems you perceive in a machinelike way.There are three steps to doing this well: First, note the problem; then determine who the RPs to raise it to are; and finally decide when the right time to discuss it is. In other words: what, who, when. Then follow through.
+
+12Diagnose Problems to Get at Their Root Causes
+
+When you encounter problems, your objective is to specifically identify the root causes of those problems—the specific people or designs that caused them—and to see if these people or designs have a pattern of causing problems.
+
+What are the most common reasons for failing to diagnose well?
+
+The most common mistake I see people make is dealing with their problems as one-offs rather than using them to diagnose how their machine is working so that they can improve it. They move on to fix problems without getting at their root causes, which is a recipe for continued failure. A thorough and accurate diagnosis, while more time-consuming, will pay huge dividends in the future.
+
+The second most common mistake people make is to depersonalize the diagnosis. Not connecting problems to the people who failed and not examining what it is about them that caused the failure will not lead to improvements of the individuals or the machines.
+
+The third biggest reason for failure is to not connect what one is learning in one diagnosis to what was learned in prior ones. It is important to determine whether the root cause of a particular problem (“Harry was careless”) ispart of a larger pattern (“Harry is often careless”) or not (“It’s unlike Harry to be careless”).
+
+In the case of our client service analytics team, I knew that unless we got to the root cause of the problems, standards would continue to decline. Bridgewater’s other leaders agreed. So I led a series of diagnostic sessions with the team, getting everyone at every level into the room to probe and find out what had gone wrong. I started with my mental map of how things should’ve gone—based on the machine I’d built—and asked the new managers to describe what had actually happened. Bad outcomes don’t justhappen; they occur because specific people make, or fail to make, specific decisions. A good diagnosis always gets to the level of determining what it is about those people that led to the bad outcomes. This can be uncomfortable but if someone isn’t suited for a job, they need to be moved out of it so that the same mistakes won’t keep occurring. Of course, nobody is perfect; everyone makes mistakes. So it is important to look at people’s track records and their specific strengths and weaknesses in doing a diagnosis.
+
+Coming out of these sessions, a few things were clear: Several of the new line managers who the top managers had brought in to run client service analytics didn’t have the right skills, synthesis abilities, or levels of caring to oversee the quality-control process; and the top managers were far too distant from the area and not probing adequately to make sure that everything was going well. This was the “what is”—the reality we faced that produced our problems. It wasn’t a pretty picture, but it was exactly what we needed to know in order to move to the next step of designing the changes we had to make.
+
+The following principles flesh out how to diagnose well, beginning with a basic overview.
+
+12.1To diagnose well, ask the following questions:
+
+1. Is the outcome good or bad?
+
+2. Who is responsible for the outcome?
+
+3. If the outcome is bad, is the Responsible Party incapable and/or is the design bad?
+
+If you keep those big questions in mind and anchor back to them, you should do well. What follows is a guide for getting the answers to these big-picture questions, mostly using a series of simple either/or questions to help you get to the synthesis you are looking for at each step. You should think of these as the answers you need before moving to the next step, leading all the way to the final diagnosis.
+
+You can, but don’t need to, follow these questions or this format exactly. Depending on your circumstances, you may be able to move through these questions quickly or you may need to ask some different, more granular questions.
+
+Is the outcome good or bad?And who is responsible for the outcome? If you can’t quickly get in sync that the outcome was bad and who specifically was responsible, you’re probably already headed for the weeds (in other words, into a discussion of tiny, irrelevant details).
+
+If the outcome is bad, is the RP incapable and/or is the design bad?The goal is to come to this synthesis, though to get there you may need to examine how the machine worked in this instance and build the synthesis from there.
+
+How should the machine have worked?You may have a mental map of who should have done what, or you may need to fill it in using other people’s mental maps. In any case, you need to learn who was responsible for doing what and what the principles say about how things should’vegone. Keep it simple! At this stage, a common pitfall is to delve into a granular examination of procedural details rather than stay at the level of the machine (the level of who was responsible for doing what). You should be able to crystallize your mental map in just a few statements, each connected to a specific person. If you are delving into details here, you are probably off track. Once you’ve established the mental map the key question is:
+
+Did the machine work as it should have?Yes or no.
+
+If not, what didn’t go as it should have? What broke?This is called the proximate cause and this step should be easy to get to if you laid out the mental map clearly. You can do this via yes/no questions as well because it should just require referring back to the key components of your mental map and pinpointing which the RP or RPs didn’t do well.
+
+Say your mental map of how the machine should have worked has two steps: that Harry should have either 1) done his assignment on time or 2) escalated that he couldn’t. All you have to do is pinpoint the two steps. 1) Did he do it on time? Yes or no. And if not, 2) did he escalate? Yes or no.
+
+It should be this simple. But this is when the conversation often gets dragged into gobbledygook, where someone goes into a detailed explanation of “what they did.” Remember: It’s your job to guide the conversation toward an accurate and clear synthesis.
+
+You also have to synthesize whether the problem was meaningful—that is, whether a capable person would have made the same mistake given the circumstances, or whether it’s symptomatic of something worth digging into. Don’t focus too much on rare events or the trivial problems—nothing and no one is perfect—but be sure you are not overlooking a clue to a systemic machine problem. It’s your job to make that determination.
+
+Why didn’t things go as they should have?This is where you have synthesized the root cause in order to determine whether the RP is capable or not—orwhether the issue is with the design. In order to anchor back to a synthesis rather than get lost in the details you might:
+
+• Try to tie the failure to the 5-Step Process. Which step was not done well? Everything ultimately fits into those five steps. But you may need to get more specific, so:
+
+• Try to crystallize the failure as a specific key attribute or set of attributes. Ask yes/no questions: Did the RP not manage well? Not perceive problems well? Not execute well?
+
+• Importantly, ask yourself this question: If X attribute is done well next time, will the bad outcome still occur? This is a good way of making sure you are logically connecting the outcome back to the case. Think of it this way: If your mechanic replaced that part in your car, would that fix it?
+
+• If the root cause is a faulty design, don’t stop there. Ask who was responsible for the faulty design and whether they are capable of designing well.
+
+Is the root cause a pattern?(Yes or no.) Any problem can be a one-off imperfection—or it could be a symptom of a root cause that will show up repeatedly. You need to determine which it is. In other words, if Harry failed to do the assignment due to reliability:
+
+• Does Harry have a reliability problem in general?
+
+• If so, is reliability required for the role?
+
+• Is Harry’s failure due to training or abilities?
+
+How should the people/machines evolve as a result?Confirm that the short-term resolution of the issue has been addressed, as needed. Determine the steps to be taken for long-term solutions and who is responsible for those steps. Specifically:
+
+• Are there responsibilities that need to be assigned or clarified?
+
+• Are there machine designs that need to be reworked?
+
+• Are there people whose fit for their roles needs to be reevaluated?
+
+For example, if you’ve determined that 1) it’s a pattern, 2) the RP is missing an attribute that’s required for the role, and 3) the attribute is missing due to the RP’s ability (not their training)—then you’ve likely been able to determine the answer to your most important question: the person is not capable and needs to be sorted from the role.
+
+The following principles further flesh out how to diagnose well.
+
+a.Ask yourself: “Who should do what differently?”I often hear people complaining about a particular outcome without attempting to understand the machine that caused it. In many cases, these complaints come from people who are seeing the cons of some decision but not the pros and don’t know how the Responsible Party weighed them to come to a decision. Since all outcomes ultimately come from people and designs, asking yourself “Who should do what differently?” will point you in the direction of the kind of understanding that you need to actually change outcomes in the future (versus just chirping about them).
+
+b.Identify at which step in the 5-Step Process the failure occurred.If a person is chronically failing, it is due to a lack of training or a lack of ability. Which is it? At which of the five steps did the person fail? Different steps require different abilities and if you can identify which abilities are lacking, you’ll go a long way toward diagnosing the problem.
+
+c.Identify the principles that were violated.Identify which principles apply to the case at hand, review them, and see if they would have helped. Think for yourself which principles are best for handling similar cases. This will help solve not only this problem but other problems like it.
+
+d.Avoid Monday morning quarterbacking.Evaluate the merits of a past decision based not on what you know now but only on whatyou could have reasonably known at the time the decision was made. Every decision has pros and cons; you can’t evaluate choices in retrospect without the appropriate context. Do this by asking yourself, “What should a quality person have known and done in that situation?” Also, have a deep understanding of the person who made the decision (how they think, the type of person they are, whether they learned from the situation, and so on).
+
+e.Don’t confuse the quality of someone’s circumstances with the quality of their approach to dealing with the circumstances.One can be good and the other can be bad, and it’s easy to confuse which is which. Such confusion is especially common in organizations that are doing new things and evolving fast but haven’t yet gotten the kinks out.
+
+I have always described Bridgewater as being “terrible and terrific at the same time.” For nearly forty years, we have consistently produced extraordinary results while struggling with lots of problems. It is easy to look at messy circumstances, think things must be terrible, and get frustrated. But the real challenge is to look at the long-term successes these messy circumstances have produced and understand how essential they are to the evolutionary process of innovation.
+
+f.Identifying the fact that someone else doesn’t know what to do doesn’t mean that you know what to do.It’s one thing to point out a problem; it’s another to have an accurate diagnosis and a quality solution. As described earlier, the litmus test for a good problem solver is 1) they are able to logically describe how to handle the problem and 2) they have successfully solved similar problems in the past.
+
+g.Remember that a root cause is not an action but a reason.Root causes are described in adjectives, not verbs, so keep asking “why” to get at them. Since most things are done or not done because someone decided to do them or not do them in a certain way, most root causes can be traced to specific people who have specific patterns ofbehavior. Of course, a normally reliable person can make the occasional error and if that’s the case, then it can be forgiven, but when a problem is attributable to a person, you have to ask why they made the mistake—and you have to be as accurate in diagnosing a fault in a person as you would be if he or she were a piece of equipment.
+
+A root cause discovery process might proceed like this:
+
+The problem was due to bad programming.
+
+Why was there bad programming?
+
+Because Harry programmed it badly.
+
+Why did Harry program it badly?
+
+Because he wasn’t well trained and because he was in a rush.
+
+Why wasn’t he well trained? Did his manager know that he wasn’t well trained and let him do the job anyway, or did he not know?
+
+Consider how personal the questioning is. It doesn’t stop at “Because Harry programmed it badly.” You must go deeper in order to understand what about the people and/or the design led to the failure. This is difficult for both the diagnoser and the RPs, and it often results in people bringing up all kinds of irrelevant details. Be on your guard because people will often look to cover themselves by diving into the weeds.
+
+h.To distinguish between a capacity issue and a capability issue, imagine how the person would perform at that particular function if they had ample capacity.Think back on how the person performed in similar functions when they had ample capacity. If the same kinds of problems came up, then the problem is very likely one of capabilities.
+
+i.Keep in mind that managers usually fail or fall short of their goals for one (or more) of five reasons.
+
+1.They are too distant.
+
+2.They have problems perceiving bad quality.
+
+3.They have lost sight of how bad things have become because they have gotten used to it.
+
+4.They have such high pride in their work (or such large egos) that they can’t bear to admit they are unable to solve their own problems.
+
+5.They fear adverse consequences from admitting failure.
+
+12.2Maintain an emerging synthesis by diagnosing continuously.
+
+If you don’t look into significant bad outcomes as they occur, you won’t be able to understand what things they are symptomatic of or how they are changing through time—i.e., are they getting better or worse?
+
+12.3Keep in mind that diagnoses should produce outcomes.
+
+If they don’t, there’s no purpose to them. At a minimum, a diagnosis should take the form of theories about root causes and clarity about what information needs to be gathered to find out more. At best, it should lead directly to a plan or design to fix the problem or problems.
+
+a.Remember that if you have the same people doing the same things, you should expect the same results.Einstein defined insanity as doing the same thing over and over and expecting different results. Don’t fall into this trap because you’ll have a hard time getting out of it.
+
+12.4Use the following “drill-down” technique to gain an 80/20 understanding of a department or sub-department that is having problems.
+
+A drill-down is a process that allows you to gain an understanding of the root causes of the biggest problems in a department or area so you can design a plan to make the area excellent. Drill-downs are not diagnoses, but a form of broad and deep probing. They’re not intended to uncover the causes of every problem: only the 20 or so percent of causes that produce 80 percent of the suboptimal effects. A drill-down takes place in two steps and is then followed by design and execution steps. If done well, the two drill-down steps can be done in about four hours. It is very important that the steps be done separately and independently, so as not to go in too many directions at once. Let me take you through the drill-down process, offering guidance and examples for each step.
+
+Step 1: List the Problems.Quickly inventory all the core problems. Be very specific, as this is the only way to effectively find solutions. Don’t generalize or use the plural “we” or “they.” Name the names of the people experiencing the problems.
+
+• Have all the relevant people from the area under scrutiny participate in the drill-down; you will benefit from their insights and it will drive their ownership of the solution.
+
+• Don’t focus on rare events or the trivial problems—nothing is perfect—but be sure they are not symptoms of systematic machine problems.
+
+• Don’t try to find solutions yet. Your focus in this step is strictly on listing the problems.
+
+Step 2:Identify the Root Causes.For each problem, identify the deep-seated reason behind the actions that caused each problem. Most problems happen for one of two reasons: 1) It isn’t clear who the Responsible Party is, or 2) The Responsible Party isn’t handling his/her responsibilities well.
+
+You must distinguish proximate causes from root causes. Proximate causes are the reasons or actions that led to the problem. When you start describing the qualities behind these reasons or actions, you are getting closer to the root cause.
+
+To get at the root cause, keep asking “Why?” For example:
+
+Problem:
+
+The team is continually working late and is on the verge of burning out.
+
+Why?
+
+Because we don’t have enough capacity to meet the demand put on the team.
+
+Why?
+
+Because we inherited this new responsibility without additional staff.
+
+Why?
+
+Because the manager did not understand the volume of work before accepting the responsibility.
+
+Why?
+
+Because the manager is bad at anticipating problems and creating plans. [Root Cause]
+
+Do not exclude any relevant people from the drill-down: Besides losing the benefit of their ideas, you’ll disenfranchise them from the game plan and reduce their sense of ownership. At the same time,remember that people tend to be more defensive than self-critical. It is your job as a manager to get at truth and excellence, not to make people happy. For example, the correct path might be to fire some people and replace them with better people, or put them in jobs they might not want. Everyone’s objective must be to get at the best answers, not the answers that will make the most people happy.
+
+You may find that multiple problems identified in Step 1 share the same root cause. Because you are doing a drill-down in a quick session, your root cause diagnoses may only be provisional—essentially alerts about things to watch out for.
+
+When Step 2 is completed, take a break to reflect; then come up with a plan.
+
+Step 3: Create a Plan.Step away from the group and develop a plan that addresses the root causes. Plans are like movie scripts, where you visualize who will do what through time to achieve the goals. They are developed by iterating through multiple possibilities, weighing the likelihood of goal achievement versus costs and risks. They should have specific tasks, outcomes, Responsible Parties, tracking metrics, and timelines. Allow the key people involved to discuss the plan thoroughly. Not everyone needs to agree on the plan but the Responsible Parties and other key people must be in sync.
+
+Step 4: Execute the Plan.Execute the agreed-upon plan and transparently track its progress. At least monthly, report on the planned and actual progress to date and the expectations for the coming period, and hold people publicly accountable for delivering their outcomes successfully and on time. Make adjustments to the plan as required to reflect reality.
+
+12.5Understand that diagnosisis foundational to both progress and quality relationships.
+
+If you and others are open-minded and engage in a quality back-and-forth, not only will you find better solutions, you will also get to know each other better. It is an opportunity for you to assess your people and to help them grow—and vice versa.
+
+13Design Improvements to Your Machine to Get Around Your Problems
+
+Once you’ve successfully diagnosed the problems standing in the way of your achieving your goals, you need to design paths for solving them. Designs need to be based on deep and accurate understandings (which is why diagnosis is so important); for me, it’s an almost visceral process of staring at problems and using the pain they cause me to stimulate my creative thinking.
+
+This is exactly how it was for the team responsible for client service analytics—and especially for Bridgewater’s co-CEO David McCormick, who was then head of the Client Service Department. Coming out of the diagnosis, he moved quickly to design and implement changes. He fired the team members who had allowed standards to slip and reflected deeply on what new designs he could implement to get the right people into the right roles. In selecting his new Responsible Parties for client service analytics, he picked one of our top investment thinkers who also had extremely high standards (and was very outspoken about cases where he saw them slipping) and paired him with one of our most experienced managers, who knew how to build the right process flows and make sure everything that needed to happen would go precisely as planned.
+
+But that wasn’t all. When coming up with a design, it’s impor-tant to take time to reflect and make sure you’re looking at the problems from the highest level. David knew it would be a mistake to look only at this one part of the department, because the same slip in quality that had happened there was likely to have occurred in other places too. He needed to think creatively to come up with a design that would build a durable culture of pervasive excellence throughout the entire department. This led to his invention of “Quality Day,” biannual meetings in which members of the Client Service Department would review each other’s mock presentations and memos and give direct feedback on what was good and what wasn’t. More importantly, the meetings were a chance to step back and assess whether the ways of ensuring quality were working as expected—by bringing in a bunch of tough, independent thinkers to offer criticism and get the process realigned on what good looks like.
+
+Of course, there were many more details to all of David’s plans for transforming the department. But the important thing is how all the details and plans extended from a high-level visualization of what was required. Only when you have such a sketch can you begin to fill it in with specifics. Those specifics will be your tasks; write them down so you don’t forget them.
+
+While the best designs are drawn from a rich understanding of actual problems, when you’re just starting out on something, you often have to design based on anticipated problems as opposed to actual ones. That’s why having systematic ways of tracking issues (the Issue Log) and what people are like (the Dot Collector) is so useful: Instead of just relying on your best guesses of what might go wrong, you can look at data from prior “at bats” for yourself and others and come to the design process with understanding rather than having to start from scratch.
+
+The most talented designers I know are people who can visualize over time, running through different collections of people from the scale of small teams to entire organizations, accurately anticipating the kinds of results they’ll produce. They excel at design and systemization. Hence the overriding principle of this chapter: Design and systemize your machine. Creativity is also important to this process,as is character, because the most important problems to design around are often the hardest, and you need to come up with original ways of addressing them and be willing to make hard choices (especially when it comes to people and who should do what).
+
+The following principles delve into designing and how to do it well.
+
+13.1Build your machine.
+
+Focus on each task or case at hand and you will be stuck dealing with them one by one. Instead, build a machine by observing what you’re doing and why, extrapolating the relevant principles from the cases at hand, and systemizing that process. It typically takes about twice as long to build a machine as it does to resolve the task at hand, but it pays off many times over because the learning and efficiency compound into the future.
+
+13.2Systemize your principles and how they will be implemented.
+
+If you have good principles that guide you from your values to your day-to-day decisions but you don’t have a systematic way of making sure they’re regularly applied, they’re not of much use. It’s essential to build your most important principles into habits and help others do so as well. Bridgewater’s tools and culture are designed to do just that.
+
+a.Create great decision-making machines by thinking through the criteria you are using to make decisions while you are making them.Whenever I make an investment decision, I observe myself making it and think about the criteria I used. I ask myself how I would handle another one of those situations and write down my principles for doing so. Then I turn them into algorithms. I am now doing the same for management and I have gotten in the habit of doing it for all my decisions.
+
+Algorithms are principles in action on a continuous basis. I believe that systemized, evidence-based decision making willradically improve the quality of management. Human managers process information spontaneously using poorly thought-out criteria and are unproductively affected by their emotional biases. These all lead to suboptimal decisions. Imagine what it would be like to have a machine that processes high-quality data using high-quality decision-making principles/criteria. Like the GPS in your car, it would be invaluable, whether you follow all of its suggestions or not. I believe that such tools will be essential in the future, and as I write these words, I am a short time away from getting a prototype online.
+
+13.3Remember that a good plan should resemble a movie script.
+
+The more vividly you can visualize how the scenario you create will play out, the more likely it is to happen as you plan. Visualize who will do what when and the result they’ll produce. This is your mental map of your machine. Recognize that some people are better or worse at visualization. Accurately assess your own abilities and those of others so you can use the most capable people to create your plans.
+
+a.Put yourself in the position of pain for a while so that you gain a richer understanding of what you’re designing for.Either literally or vicariously (through reading reports, job descriptions, etc.), temporarily insert yourself into the workflow of the area you’re looking at to gain a better understanding of what it is that you are dealing with. As you design, you’ll be able to apply what you’ve learned, and revise the machine appropriately as a result.
+
+b.Visualize alternative machines and their outcomes, and then choose.A good designer is able to visualize the machine and its outcomes in various iterations. First they imagine how Harry, Larry, and Sally can operate in various ways with various tools and different incentives and penalties; then they replace Harry with George, and so on, thinking through what the products and people and financeswould look like month by month (or quarter by quarter) under each scenario. Then they choose.
+
+c.Consider second- and third-order consequences, not just first-order ones.The outcome you get as a first-order consequence might be desirable, while the second- or third-order consequences could be the opposite. So focusing solely on first-order consequences, which people tend to do, can lead to bad decision making. For example, if you asked me if I’d like to not have rainy days, I probably would say yes if I didn’t consider the second- and third-order consequences.
+
+d.Use standing meetings to help your organization run like a Swiss clock.Regularly scheduled meetings add to overall efficiency by ensuring that important interactions and to-do’s aren’t overlooked, eliminating the need for inefficient coordination, and improving operations (because repetition leads to refinement). It pays to have standardized meeting agendas that ask the same feedback questions in each meeting (such as how effective the meeting was) and nonstandard meeting agendas that include things done infrequently (such as quarterly budget reviews).
+
+e.Remember that a good machine takes into account the fact that people are imperfect.Design in such a way that you produce good results even when people make mistakes.
+
+13.4Recognize that design is an iterative process. Between a bad “now” and a good “then” is a “working through it” period.
+
+That “working through it” period is when you try out different processes and people, seeing what goes well or poorly, learning from the iterations, and moving toward the ideal systematic design. Even witha good future design picture in mind, it will naturally take some mistakes and learning to get to a good “then” state.
+
+People frequently complain about this kind of iterative process because it tends to be true that people are happier with nothing at all than with something imperfect, even though it would be more logical to have the imperfect thing. That kind of thinking doesn’t make sense, so don’t let it distract you.
+
+a.Understand the power of the “cleansing storm.”In nature, cleansing storms are big infrequent events that clear out all the overgrowth that’s accumulated during good times. Forests need these storms to be healthy—without them, there would be more weak trees and a buildup of overgrowth that stifles other growth. The same is true for companies. Bad times that force cutbacks so only the strongest and most essential employees (or companies) survive are inevitable and can be great, even though they seem terrible at the time.
+
+13.5Build the organization around goals rather than tasks.
+
+Giving each department a clear focus and the appropriate resources to achieve its goals makes the diagnosis of resource allocations more straightforward and reduces job slip. As an example of how this works, at Bridgewater we have a Marketing Department (goal: to market) that is separate from our Client Service Department (goal: to service clients), even though they do similar things and there would be advantages to having them work together. But marketing and servicing clients are two distinct goals; if they were merged, the department head, salespeople, client advisors, analysts, and others would be giving and receiving conflicting feedback. If asked why clients were receiving relatively poor attention, the answer might be: “We have incentives to raise sales.” If asked why they weren’t making sales, the merged department might explain that they need to take care of their clients.
+
+a.Build your organization from the top down.An organization is the opposite of a building: Its foundation is at the top, so make sure you hire managers before you hire their reports. Managers can help design the machine and choose the people who complement it. People overseeing departments need to be able to think strategically as well as run the day-to-day. If they don’t anticipate what’s coming up, they’ll run the day-to-day off a cliff.
+
+b.Remember that everyone must be overseen by a believable person who has high standards.Without strong oversight, there is potential for inadequate quality control, inadequate training, and inadequate appreciation of excellent work. Never just trust people to do their jobs well.
+
+c.Make sure the people at the top of each pyramid have the skills and focus to manage their direct reports and a deep understanding of their jobs.A few years ago, someone at Bridgewater proposed that our facilities group (the people who take care of the building and grounds, food service, office supplies, etc.) should begin to report to our head of technology because of the overlap in the two areas (computers are a facility too, they use electricity, and so on). But having the people who are responsible for janitorial services and meals report to a technology manager would be as inappropriate as having technology people report to the person taking care of facilities. These functions, even if they’re considered “facilities” in the broadest sense, are very different, as are the respective skill sets. Similarly, at another time, we talked about putting the folks who work on client agreements under the same manager as those who do counterparty agreements. But that would have been a mistake because the skills required to reach agreements with clients are very different from the skills required to reach agreements with counterparties. It would be wrong to conflate both departments under the general heading of “agreements,” because each calls for specific knowledge and skills.
+
+d.In designing your organization, remember that the 5-Step Process is the path to success and that different people are good at different steps.Assign specific people to do each of these steps based on their natural inclinations.
+
+For example, the big-picture visionary should be responsible for goal setting, the taste tester should be assigned the job of identifying and not tolerating problems, the logical detective who doesn’t mind probing people should be the diagnoser, the imaginative designer should craft the plan to make the improvements, and the reliable taskmaster should make sure the plan gets executed. Of course, some people can do more than one of these things—generally people do two or three well. Virtually nobody can do them all well. A team should consist of people with all of these abilities and they should know who is responsible for which steps.
+
+e.Don’t build the organization to fit the people.Managers will often take the people who work in their organization as a given and try to make the organization work well with them. That’s backward. Instead, they should imagine the best organization and then make sure the right people are chosen for it. Jobs should be created based on the work that needs to be done, not what people want to do or which people are available. You can always search outside to find the people who click best for a particular role. First come up with the best workflow design, then sketch it out on an organizational chart, visualize how the parts interact, and specify what qualities are required for each job. Only after all that is done should you choose the people to fill the slots.
+
+f.Keep scale in mind.Your goals must be the right size to warrant the resources that you allocate to them. An organization might not be big enough to justify having both a sales and an analytics group, for example. Bridgewater successfully evolved from a one-cell organization, in which most people were involved in everything, to a multi-cellular organization because we retained our ability to focus efficiently as we grew.
+
+Temporarily sharing or rotating resources is fine and is not the same as a merging of responsibilities. On the other hand, the efficiency of an organization decreases as the number of people and/or its complexity increases, so keep things as simple as possible. And the larger the organization, the more important are information technology management and cross-departmental communication.
+
+g.Organize departments and sub-departments around the most logical groupings based on “gravitational pull.”Some groups naturally gravitate toward one another. That gravitational pull might be based on common goals, shared abilities and skills, workflow, physical location, and so forth. Imposing your own structure without acknowledging these magnetic pulls will likely result in inefficiency.
+
+h.Make departments as self-sufficient as possible so that they have control over the resources they need to achieve their goals.We do this because we don’t want to create a bureaucracy that forces departments to requisition resources from a pool that lacks the focus to do the job.
+
+i.Ensure that the ratios of senior managers to junior managers and of junior managers to their reports are limited to preserve quality communication and mutual understanding.Generally, the ratio should not be more than 1:10, and preferably closer to 1:5. Of course, the appropriate ratio will vary depending on how many people your direct reports have reporting to them, the complexity of the jobs they’re doing, and a manager’s ability to handle several people or projects at once. The number of layers from top to bottom and the ratio of managers to their direct reports will limit the size of an effective organization.
+
+j.Consider succession and training in your design.This is a subject I wish I had thought about much earlier in my career. To ensure that your organization continues to deliver results, you need to build a perpetual motion machine that can work well without you. This involvesmore than the mechanics of your own “stepping out,” but the selection and training and governance of the new leaders who “step up,” and most importantly, the preservation of the culture and its values.
+
+The best approach I’ve seen for doing this is what companies and organizations like GE, 3G, and the Chinese Politburo do, which is to build a pyramid-like “succession pipeline” in which the next generation of leaders is exposed to the thinking and decision making of the current leaders so they can both learn and be tested.
+
+k.Don’t just pay attention to your job; pay attention to how your job will be done if you are no longer around.I wrote about key-man risk earlier, which applies the most to those with the largest areas of responsibility, especially the head of an organization. If that’s you, then you should designate the people who could replace you and have them do your job for a while so they can be vetted and tested. These results should be documented in a manual that the appropriate people can go to if you should be hit by a bus. If all the key people in the organization do this, you will have a strong “farm team,” or at least a clear understanding of vulnerabilities and a plan to deal with them. Remember that a ninja manager is somebody who can sit back and watch beauty happen—i.e., an orchestrator. If you are always trying to hire somebody who is as good as or better than you at your job, that will both free you up to go on to other things and build your succession pipeline.
+
+Beyond that, visualizing your replacement is an enlightening and productive experience. In addition to taking stock of what you are doing and coming up with both bad and good names, you will start to think about how to get your best people into slots that don’t yet exist. Knowing that you will have to test them by letting them do your job without interference, you will be motivated to train them properly before the test. And, of course, the stress-testing will help you learn and adapt, which will lead to better results.
+
+l.Use “double-do” rather than “double-check” to make sure mission-critical tasks are done correctly.Double-checking has a much higherrate of errors than double-doing, which is having two different people do the same task so that they produce two independent answers. This not only ensures better answers but will allow you to see the differences in people’s performance and abilities. I use double-do’s in critical areas such as finance, where large amounts of money are at risk.
+
+And because an audit is only as effective as the auditor is knowledgeable, remember that a good double-check can only be done by someone capable of double-doing. If the person double-checking the work isn’t capable of doing the work himself, how could he possibly evaluate it accurately?
+
+m.Use consultants wisely and watch out for consultant addiction.Sometimes hiring an external consultant is the best fit for your design. Doing so can get you precisely the amount of specialized expertise you need to tackle a problem. When you can outsource you don’t have to worry about managing, and that’s a real advantage. If a position is part-time and requires highly specialized knowledge, I would prefer to have it done by consultants or outsiders.
+
+At the same time, you need to beware of the chronic use of consultants to do work that should be done by employees. This will cost you in the long run and erode your culture. Also make sure you are careful not to ask consultants to do things that they don’t normally do. They will almost certainly revert to doing things in their usual way; their own employers will demand that.
+
+When evaluating whether to use a consultant, consider the following factors:
+
+1. Quality Control.When someone doing work for you is an employee, you are responsible for the quality of their work. But when the person working for you works for another company, you’re operating by their standards, so it’s important to know whether their standards are as high or higher than yours.
+
+2. Economics.If a full-time person is required, it is almost certainly more cost-effective to create a position. Consultants’daily rates add up to considerably more than the annualized cost of a full-time person.
+
+3. Institutionalization of Knowledge.Someone who is around your environment on an ongoing basis will gain knowledge and an appreciation of your culture that no outsider can.
+
+4. Security.Having outsiders do the job substantially increases your security risks, especially if you can’t see them at work (and monitor whether they follow proper precautions, like not leaving sensitive documents on their desks).
+
+You have to consider whether you should be outsourcing or developing capabilities in-house. Though temps and consultants are good for a quick fix, they won’t augment your capacities in the long term.
+
+13.6Create an organizational chart to look like a pyramid, with straight lines down that don’t cross.
+
+The whole organization should look like a series of descending pyramids, but the number of layers should be limited to minimize hierarchy.
+
+a.Involve the person who is the point of the pyramid when encountering cross-departmental or cross-sub-departmental issues.Imagine an organizational chart as a pyramid that consists of numerous pyramids.
+
+When issues involve parties not in the same part of the pyramid, it is generally desirable to involve the person who is at the point of the pyramid, and thus has the perspective and knowledge to weigh the trade-offs and make informed decisions.
+
+b.Don’t do work for people in another department or grab people from another department to do work for you unless you speak to the person responsible for overseeing the other department.If there is a dispute about this, it needs to be resolved at the point of the pyramid.
+
+c.Watch out for “department slip.”This happens when a support department mistakes its responsibility to provide support with a mandate to determine how the thing they are supporting should be done. An example of this sort of mistake would be if the facilities group thought it should determine what facilities we should have. While support departments should know the goals of the people they’re supporting and provide feedback regarding possible choices, they are not the ones to determine the vision.
+
+13.7Create guardrails when needed—and remember it’s better not to guardrail at all.
+
+Even when you find people who are great clicks for your design, there will be times when you’ll want to build guardrails around them. No one is perfect, everyone has strengths and weaknesses, and as hard as you look, you won’t always be able to find everything you want in one person. So look down on your machine and the people you choose for your roles, and think about where you might need to supplement your design by adding people or processes to ensure that each job is done excellently.
+
+Remember, guardrailing is meant to help people who can by and large do their jobs well—it’s intended to help good people perform better, not to help failing people reach the bar. If you’re trying to guardrail someone who is missing the core abilities required for their job, you should probably just fire them and look for someone else who will be a better click.
+
+A good guardrail typically takes the form of a team member whose strengths compensate for the weaknesses of the team member who needsto be guardrailed. A good guardrailing relationship should be firm without being overly rigid. Ideally, it should work like two people dancing—they’re literally pushing against each other, but with a lot of mutual give-and-take. Of course, having someone in a job who needs to be guardrailed is not as good as having someone in a job who will naturally do the right things. Strive for that.
+
+a.Don’t expect people to recognize and compensate for their own blind spots.I constantly see people form wrong opinions and make bad decisions, even though they’ve made the same kinds of mistakes before—and even though they know that doing so is illogical and harmful. I used to think that they would avoid these pitfalls when they became aware of their blind spots, but typically that’s not the case. Only very rarely do I hear someone recuse himself from offering an opinion because they aren’t capable of forming a good one in a particular area. Don’t bet on people to save themselves; proactively guardrail them or, better yet, put them in roles in which it’s impossible for them to make the types of decisions they shouldn’t make.
+
+b.Consider the clover-leaf design.In situations where you’re unable to identify one excellent Responsible Party for a role (which is always best), find two or three believable people who care deeply about producing excellent results and are willing to argue with each other and escalate their disagreements if necessary. Then set up a design in which they check and balance each other. Though it’s not optimal, such a system will have a high probability of effectively sorting the issues you need to examine and resolve.
+
+13.8Keep your strategic vision the same while making appropriate tactical changes as circumstances dictate.
+
+Bridgewater’s values and strategic goals have been the same since the beginning (to produce excellent results, meaningful work, and meaningful relationships through radical truth and transparency) but itspeople, systems, and tools have changed over forty-plus years as we have grown from a one-person company to a 1,500-person organization—and they can continue to change while maintaining values and strategic goals as newer generations replace older ones. That can happen for organizations in much the same way as it happens for families and communities. To help nurture that, it is desirable to reinforce the traditions and reasons for them, as well as to make sure the values and strategic goals are imbued in the successive leaders and the population as a whole.
+
+a.Don’t put the expedient ahead of the strategic.People often tell me they can’t deal with the longer-term strategic issues because they have too many pressing issues they need to solve right away. But rushing into ad hoc solutions while kicking the proverbial can down the road is a “path to slaughter.” Effective managers pay attention both to imminent problems and to problems that haven’t hit them yet. They constantly feel the tug of the strategic path because they worry about not getting to their ultimate goal and they are determined to continue their process of discovery until they do. While they might not have the answer right away, and they might not be able to come up with it by themselves, through a combination of creativity and character they eventually make all the necessary upward loops.
+
+b.Think about both the big picture and the granular details, and understand the connections between them.Avoid fixating on irrelevant details. You have to determine what’s important and what’s unimportant at each level. For example, imagine you are designing a house. First you need to start with the big picture: Your house will sit on a plot of land, and you have to think through where the water comes from, how the house gets hooked up to the power grid, and so on. Then you need to decide how many rooms it will have, where the doors will go, where you need windows, and so on. When designing the plan, you need to think about all of these things and connect them, but that doesn’t mean that you actually need to go out and pick the hinges for the door yourself. You just need to know that you’llneed a door with hinges and how it fits into the bigger picture of the house.
+
+13.9Have good controls so that you are not exposed to the dishonesty of others.
+
+Don’t assume that people are operating in your interest rather than their own. A higher percentage of the population than you might imagine will cheat if given the opportunity. When offered the choice of being fair with you or taking more for themselves, most people will take more for themselves. Even a tiny amount of cheating is intolerable, so your happiness and success will depend on your controls. I have repeatedly learned this lesson the hard way.
+
+a.Investigate and let people know you are going to investigate.Investigate and explain to people that you are going to investigate so there are no surprises. Security controls should not be taken personally by the people being checked, just like a teller shouldn’t view the bank counting the money in the drawer (rather than just accepting the teller’s count) as an indication that the bank thinks the teller is dishonest. Explain that concept to employees so that they understand it.
+
+But even the best controls will never be foolproof. For that reason (among many others), trustworthiness is a quality that should be appreciated.
+
+b.Remember that there is no sense in having laws unless you have policemen (auditors).The people doing the auditing should report to people outside the department being audited, and auditing procedures should not be made known to those being audited. (This is one of our few exceptions to radical transparency.)
+
+c.Beware of rubber-stamping.When a person’s role involves reviewing or auditing a high volume of transactions or things that otherpeople are doing, there’s a real risk of rubber-stamping. One particularly risky example is expense approvals. Make sure you have ways to audit the auditors.
+
+d.Recognize that people who make purchases on your behalf probably will not spend your money wisely.This is because 1) it is not their money and 2) it is difficult to know what the right price should be. For example, if somebody proposes a price of $125,000 for a consulting project, it is unpleasant, difficult, and confusing to figure out what the market rate is and then negotiate a better price. But the same person who’s reluctant to negotiate with the consultant will bargain furiously when he is hiring someone to paint his own house. You need to have proper controls, or better yet, a part of the organization that specializes in this kind of thing. There’s retail and there’s wholesale. You want to pay wholesale whenever possible.
+
+e.Use “public hangings” to deter bad behavior.No matter how carefully you design your controls and how rigorously you enforce them, malicious and grossly negligent people will sometimes find a way around them. So when you catch someone violating your rules and controls, make sure that everybody sees the consequences.
+
+13.10Have the clearest possible reporting lines and delineations of responsibilities.
+
+This applies both within and between departments. Dual reporting causes confusion, complicates prioritization, diminishes focus on clear goals, and muddies the lines of supervision and accountability—especially when the supervisors are in two different departments. When situations require dual reporting, managers need to be informed. Asking someone from another department to do a task without consulting with his or her manager is strictly prohibited (unless the request will take less than an hour or so). However,appointing co-heads of a department or a sub-department can work well if the managers are in sync and combine complementary and essential strengths; dual reporting in that case can work well if properly coordinated.
+
+a.Assign responsibilities based on workflow design and people’s abilities, not job titles.Just because someone is responsible for “Human Resources,” “Recruiting,” “Legal,” “Programming,” and so forth, doesn’t necessarily mean they are the appropriate person to do everything associated with those functions. For example, though HR people help with hiring, firing, and providing benefits, it would be a mistake to give them the responsibility of determining who gets hired and fired and what benefits are provided to employees.
+
+b.Constantly think about how to produce leverage.Leverage in an organization is not unlike leverage in the markets; you’re looking for ways to achieve more with less. At Bridgewater, I typically work at about 50:1 leverage, meaning that for every hour I spend with each person who works for me, they spend about fifty hours working to move the project along. At our sessions, we go over the vision and the deliverables, then they work on them, and then we review the work, and they move forward based on my feedback—and we do that over and over again. The people who work for me typically have similar relationships with those who work for them, though their ratios are typically between 10:1 and 20:1. I am always eager to find people who can do things nearly as well as (and ideally better than) I can so that I can maximize my output per hour.
+
+Technology is another great tool for providing leverage. To make training as easy to leverage as possible, document the most common questions and answers through audio, video, or written guidelines, and then assign someone to organize them and incorporate them into a manual, which is updated on a regular basis.
+
+Principles themselves are a form of leverage—they’re a way to compound your understanding of situations so that you don’t need to exert the same effort each time you encounter a problem.
+
+c.Recognize that it is far better to find a few smart people and give them the best technology than to have a greater number of ordinary people who are less well equipped.Great people and great technology both enhance productivity. Put them together in a well-designed machine and they improve it exponentially.
+
+d.Use leveragers.Leveragers are people who can go from conceptual to practical effectively and do the most to get your concepts implemented. Conceptualizing and managing takes only about 10 percent of the time needed for implementing, so if you have good leveragers, you can devote a lot more of your time to what’s most important to you.
+
+13.11Remember that almost everything will take more time and cost more money than you expect.
+
+Virtually nothing goes according to plan because one doesn’t plan for the things that go wrong. I personally assume things will take about one and a half times as long and cost about one and a half times as much because that’s what I’ve typically experienced. How well you and the people working with you manage will determine your expectations.
+
+14Do What You Set Out to Do
+
+The organization, like the individual, has to push through to results in order to succeed—this is step five in the 5-Step Process.
+
+While recently cleaning up a huge pile of work products from the 1980s and 1990s, I came across boxes and boxes full of research. There were thousands of pages, most covered with my scribbles, and I realized that they represented just a fraction of the effort I’d put in. At our fortieth-year celebration I was given copies of the almost ten thousand BridgewaterDaily Observationsthat we’d published. Every one of them expressed our deepest thinking and research about markets and economies. I also stumbled across the manuscript of an eight-hundred-page book that I wrote but then got too busy to publish, and countless other memos and letters to clients, research reports, and versions of the book you’re reading now. Why did I do all these things? Why do others work so hard to achieve their goals?
+
+From what I can see, we do it for different reasons. For me, the main reason is that I can visualize the results of pushing through so intensely that I experience the thrill of success even while I’m still struggling to achieve it. Similarly, I can visualize the tragic results of not pushingthrough. I am also motivated by a sense of responsibility; I have a hard time letting people I care about down. But that’s just what’s true for me. Others describe their motivation as attachment to the community and its mission. Some do it for approval and some do it for financial rewards. All these are perfectly acceptable motivations and should be used and harmonized in a way consistent with the culture.
+
+The way one brings people together to do this is key. This is what most people call “leadership.” What are the most important things that a leader needs to do in order to get their organizations to push through to results? Most importantly, they must recruit individuals who are willing to do the work that success requires. While there might be more glamour in coming up with the brilliant new ideas, most of success comes from doing the mundane and often distasteful stuff, like identifying and dealing with problems and pushing hard over a long time. This was certainly the case with the Client Service Department. Through a lot of relentless hard work in the years since the original problem turned up, the department has become an example to other teams at Bridgewater—and our client satisfaction levels remain consistently high. The great irony of all this is that none of our clients ever even noticed the problems we saw with the memos. Sending out work not up to our standards was bad—and I’m glad it was corrected. But it could’ve been much worse, tarnishing our reputation for delivering pervasive excellence. Once that happens, it becomes much harder to restore trust.
+
+14.1Work for goals that you and your organization are excited about . . .
+
+. . . and think about how your tasks connect to those goals.If you’re focused on the goal, excited about achieving it, and recognize that doing some undesirable tasks to achieve the goal is required, you will have the right perspective and will be appropriately motivated. If you’renot excited about the goal that you’re working for, stop working for it. Personally, I like visualizing exciting new and beautiful things that I want to make into realities. The excitement of visualizing these ideas and my desire to build them out is what pulls me through the thorny realities of life to make my dreams happen.
+
+a.Be coordinated and consistent in motivating others.Managing groups to push through to results can be done emotionally or intellectually, and by carrots or by sticks. While we each have our own reasons for working, there are unique challenges and advantages to motivating a community. The main challenge is the need to coordinate, i.e., to get in sync on the reasons for pursuing a goal and the best way to do it. For example, you wouldn’t want one group to be motivated and compensated so differently from another (one gets big bonuses for example, and another doesn’t under the same set of circumstances) that the differences cause problems. The main advantage of working in groups is that it’s easier to design a group to include all the qualities needed to be successful than to find all those qualities in one person. As with the steps in the 5-Step Process, some people are great at one step and some are terrible at that step. But it doesn’t matter which is the case when everyone is clear on each other’s strengths and weaknesses and the group is designed to deal with those realities.
+
+b.Don’t act before thinking. Take the time to come up with a game plan. The time you spend on thinking through your plan will be virtually nothing in relation to the amount of time that will be spent doing, and it will make the doing radically more effective.
+
+c.Look for creative, cut-through solutions.When people are facing thorny problems or have too much to do, they often think that they need to work harder. But if something seems hard, time-consuming, and frustrating, take some time to step back and triangulate with others on whether there might be a better way to handle it. Of course, many things that need getting done are just a slog, but it’s often the case that there are better solutions out there that you’re not seeing.
+
+14.2Recognize that everyonehas too much to do.
+
+How to do more than we think we can is a puzzle we all struggle with. Other than working harder for longer hours, there are three ways to fix the problem: 1) having fewer things to do by prioritizing and saying no, 2) finding the right people to delegate to, and 3) improving your productivity.
+
+Some people spend a lot of time and effort accomplishing very little while others do a lot in the same amount of time. What differentiates people who can do a lot from those who can’t is creativity, character, and wisdom. Those with more creativity invent ways to do things more effectively (for instance by finding good people, good technologies, and/or good designs). Those with more character are better able to wrestle with their challenges and demands. And those with more wisdom can maintain their equanimity by going to the higher level and looking down on themselves and their challenges to properly prioritize, realistically design, and make sensible choices.
+
+a.Don’t get frustrated.If nothing bad is happening to you now, wait a bit and it will. That is just reality. My approach to life is that it is what it is and the important thing is for me to figure out what to do about it and not spend time moaning about how I wish it were different. Winston Churchill hit the nail on the head when he said, “Success consists of going from failure to failure without loss of enthusiasm.” You will come to enjoy this process of careening between success and failure because it will determine your trajectory.
+
+It makes no sense to get frustrated when there’s so much that you can do, and when life offers so many things to savor. Your path through any problem is outlined in these principles—and in others you’ll discover yourself. There’s nothing you can’t accomplish if you think creatively and have the character to do the difficult things.
+
+14.3Use checklists.
+
+When people are assigned tasks, it is generally desirable to have them captured on checklists. Crossing items off a checklist will serve as both a task reminder and a confirmation of what has been done.
+
+a.Don’t confuse checklists with personal responsibility.People should be expected to do their whole job well, not just the tasks on their checklists.
+
+14.4Allow time for rest and renovation.
+
+If you just keepdoing, you will burn out and grind to a halt. Build downtime into your schedule just as you would make time for all the other stuff that needs to get done.
+
+14.5Ring the bell.
+
+When you and your team have successfully pushed through to achieve your goals, celebrate!
+
+15Use Tools and Protocols to Shape How Work Is Done
+
+Words alone aren’t enough.
+
+That’s something I learned from watching people struggle to get themselves to do things that are in their best interests. After I shared these principles with the people at Bridgewater and refined them, nearly everyone saw the connection between the principles and our excellent results and wanted to operate in accordance with them. But there’s a big difference betweenwantingto do something and actually being able to do it. Assuming people will do what they intellectually want to do is like assuming that people will lose weight simply because they understand why it’s beneficial for them to do it. It won’t happen until the proper habits are developed. In organizations, that happens with the help of tools and protocols.
+
+Take a minute to think about how this applies to your reading of this book, or reading books in general. How often have you read a book describing some behavioral change you’ve wanted to make but then failed to? How much behavioral change do you think will result from this book if you don’t have tools and protocols to help you? My guess is hardly any. Just as you can’t learn many things by reading a book (how to ride a bike, speak a language, etc.), it’s nearly impossibleto change a behavior without practicing it. That is why I plan to make the tools that I describe in the Appendix publicly available.
+
+15.1Having systemized principles embedded in tools is especially valuable for an idea meritocracy.
+
+That is because an idea meritocracy needs to operate in accordance with agreed-upon principles and to be evidence-based and fair instead of following the more autocratic and arbitrary decisions of the CEO and his or her lieutenants. Rather than be above the principles, the people responsible for running the organization must be evaluated, chosen, and—if needed—replaced in an evidence-based way according to rules, just like everyone else in the organization. Their strengths and weaknesses, like everyone’s, must be taken into consideration. Collecting objective data about all people is essential for this. And you need good tools to convert data into decisions in agreed-upon ways. Moreover, the tools allow the people and the system to work together in a symbiotic way to improve each other.
+
+a.To produce real behavioral change, understand that there must be internalized or habituated learning.Thankfully, technology has made internalized learning much easier today than it was when books were the primary way of conveying knowledge. Don’t get me wrong, the book was a powerful invention. Johannes Gutenberg’s printing press allowed easy dissemination of knowledge that helped people build on each other’s learnings. But experiential learning is so much more powerful. Now that technology makes it so easy to create experiential/virtual learning, I believe that we are on the brink of another step-change improvement in the quality of learning that will be as great as or even greater than Gutenberg’s.
+
+We have been trying to create internalized learning at Bridge-water for a long time, so how we do it has evolved a lot. Since we tape virtually all our meetings, we have been able to create virtual learningcase studies that allow everyone to participate without actually being in the room. People see the meeting transpire as though they were in it, and then the case study pauses and asks them for their own thinking on the matter at hand. In some cases, they input their reactions in real time as they watch. Their thinking is recorded and compared with others’ using expert systems that help us all understand more about how we think. With this information, we can better tailor their learning and their job assignments to their thinking styles.
+
+That is just one example of a number of tools and protocols we have developed to help our people learn and operate by our principles.
+
+b.Use tools to collect data and process it into conclusions and actions.Imagine that virtually everything important going on in your company can be captured as data, and that you can build algorithms to instruct the computer, as you would instruct a person, to analyze that data and use it in the way you agreed it should be used. In that way, you and the computer on your behalf could look at each person and all the people together and provide tailored guidance, just like your GPS provides you guidance by knowing all the traffic patterns and routes. You don’t have to make it mandatory to follow that guidance, though you can. Generally speaking, the system operates like a coach. And the coach can learn about its team: Data is collected about what people do so that if they make more insightful moves or less insightful moves, learning will occur and be used to create improvements. Because the thinking behind the algorithms is available to everyone, anyone can assess the quality of the logic and its fairness, and have a hand in shaping it.
+
+c.Foster an environment of confidence and fairness by having clearly-stated principles that are implemented in tools and protocols so that the conclusions reached can be assessed by tracking the logic and data behind them.In all organizations, it’s always the case that some of the people judged to be ineffective will argue that those judgments are wrong. When that happens, a data- and rules-based system with clearly laid-out criteria allows less room for such argumentsand greater belief that the system is fair. Though the system won’t be perfect, it is much less arbitrary—and can much more easily be examined for bias—than the much less specified and much less open decision making of individuals with authority. My ideal is to have a process in which everyone contributes criteria for good decision making and those criteria are assessed and selected by appropriately assigned (believable) people. If people maintain the right balance of open-mindedness and assertiveness so they understand where they are and aren’t believable to make decisions, having these open discussions on the criteria for assessing and managing people can be very powerful in building and reinforcing the idea meritocracy.
+
+We have early-stage tools that achieve these things and we are striving to refine them so that our people management system operates as effectively as our investment management system.
+
+Even with its imperfections, our evidence-based approach to learning about people, guiding them, and sorting them is much fairer and more effective than the arbitrary and subjective management systems that most organizations still rely on. I believe that the forces of evolution will push most organizations toward systems that combine human and computer intelligence to program principles into algorithms that substantially improve decision making.
+
+In the Appendix, I’ve provided detailed descriptions of a number of the tools and protocols that support this idea-meritocratic approach and reinforce the behaviors that people need to operate consistently with it. They are designed to help us achieve our goals of 1) learning what people are like, 2) sharing what people are like, 3) providing personalized training and development, 4) offering guidance and oversight in specific situations, and 5) helping managers sort people into the right roles or out of the company based on what they are like and what is required.
+
+You don’t need to use these same tools and protocols for your own idea meritocracy, but you should have ways of producing the internalized learning that it will require. While ours have evolved a lot, yours don’t have to be as fancy or automated. For example, providing aform or a template to help guide people through the steps required for them to manage their work or carry out a process will yield better results than expecting them to just remember—or figure it out—on their own.
+
+How you decide to use tools and protocols is up to you. The main point I want to make here is that they’re important.
+
+16And for Heaven’s Sake, Don’t Overlook Governance!
+
+All that I’ve said thus far will be useless if you don’t have good governance. Governance is the oversight system that removes the people and the processes if they aren’t working well. It is the process that checks and balances power to assure that the principles and interests of the community as a whole are always placed above the interests and power of any individual or faction. Because power will rule, power must be put in the hands of capable people in key roles who have the right values, do their jobs well, and will check and balance the power of others.
+
+I didn’t realize the importance of this sort of governance until after I transitioned out of the CEO role, because I was an entrepreneur and company builder (as well as an investment manager) who largely did what I thought was best. While I needed and developed double-checks on myself—I created a Management Committee that I put above me so that I had to report to it—I always had the power of my equity to change things, though I never used it. Some might say that I was a benevolent despot because while I had all the power (the complete voting rights), I exercised my power in an idea-meritocratic way, recognizing that the good of the whole was best for us all, and thatI needed to be double-checked. I certainly did not create the sort of governance system appropriate for Bridgewater, given its scale.
+
+For example, Bridgewater didn’t have a board of directors overseeing the CEOs, there were no internal regulations, no judicial system for people to appeal to, and no enforcement system, because we didn’t need them. I, with the help of others, simply created the rules and enforced them, though everyone had the right to appeal and overturn my and others’ judgments. Our principles were the equivalent of what the Articles of Confederation had been to the United States in its first years, and our policies were like our laws, but I never created a formal way of operating such as a “Constitution” or a justice system to enforce them and resolve disputes. As a result, when I stepped out and passed the power to others, confusions about decision rights arose. After conferring with some of the world’s greatest experts on governance, we put a new system in place based on these principles. Still, I want to make clear that I don’t consider myself an expert on governance and can’t vouch for the following principles as much as I can vouch for the previous ones, because they are still new as of this writing.
+
+16.1To be successful, all organizations must have checks and balances.
+
+By checks, I mean people who check on other people to make sure they’re performing well, and by balances, I mean balances of power. Even the most benevolent leaders are prone to becoming more autocratic, if for no other reason than because managing a lot of people and having limited time to do it requires them to make numerous difficult choices quickly, and they sometimes lose patience with arguments and issue commands instead. And most leaders are not so benevolent that they can be trusted to put the organization’s interests ahead of their own.
+
+a.Even in an idea meritocracy, merit cannot be the only determining factor in assigning responsibility and authority.Appropriate vestedinterests also need to be taken into consideration. For example, the owners of a company might have vested interests that they are perfectly entitled to that might be at odds with the vested interests of the people in the company who, based on the idea meritocracy, are most believable. That should not lead the owners to simply turn over the keys to those leaders. That conflict has to be worked out. Since the purpose of the idea meritocracy is to produce the best results, and the owners have the rights and powers to assess that, of course they will make the determination—though I recommend they choose wisely.
+
+b.Make sure that no one is more powerful than the system or so important that they are irreplaceable.For an idea meritocracy, it is especially important that its governance system is more powerful than any individual—and that it directs and constrains its leaders rather than the other way around. The Chinese leader Wang Qishan drew my attention to what happened in ancient Rome when Julius Caesar revolted against the government, defeated his fellow general Pompey, seized control of the Republic from the Senate, and named himself emperor for life. Even after he was assassinated and governance by the Senate was restored, Rome would never again be what it was; the era of civil strife that followed was more damaging than any foreign war.
+
+c.Beware of fiefdoms.While it’s great for teams and departments to feel a strong bond of shared purpose, loyalty to a boss or department head cannot be allowed to conflict with loyalty to the organization as a whole. Fiefdoms are counterproductive and contrary to the values of an idea meritocracy.
+
+d.Make clear that the organization’s structure and rules are designed to ensure that its checks-and-balances system functions well.Every organization has its own way of doing this. The diagram on the next page is a sketch of my conceptualization of how this should work for Bridgewater, which is currently an organization of about 1,500 people. The principles it follows, however, are universal; I believe that all organizations need some version of this basic structure.
+
+There are one to three chairmen working with seven to fifteen board members supported by staff, whose purpose is primarily to assess whether: 1) The people running the company are capable; 2) The company is operating in accordance with its agreed-upon principles and rules. The board has the power to select and replace the CEOs, but doesn’t engage in the micromanagement of the firm nor the people running it, though in the event of an emergency, they can drop into a more active role. (They can also help the CEOs to the extent they want it.) While Bridgewater’s idea meritocracy is ideally all-inclusive, there need to be various circles of authority, trust and access to information, and decision-making authority, which are shown in the chart’s three circles.
+
+e.Make sure reporting lines are clear.While this is important throughout the organization, it is especially important that the reporting lines of the board (those doing the oversight) are independent of the reporting lines of the CEOs (those doing the management), though there should be cooperation between them.
+
+f.Make sure decision rights are clear.Make sure it’s clear how much weight each person’s vote has so that if a decision must be made when there is still disagreement, there is no doubt how to resolve it.
+
+g.Make sure that the people doing the assessing 1) have the time to be fully informed about how the person they are checking on is doing, 2) have the ability to make the assessments, and 3) are not in a conflict of interest that stands in the way of carrying out oversight effectively.In order to assess well, one has to gain a threshold level of understanding and that takes time. Some people have the ability and the courage to hold people accountable, while most don’t; having such ability and courage is essential. And the person doing the assessing must not have conflicts of interest—such as being in a subordinate position to the person they are intended to check on—that stand in the way of holding them accountable, including recommending that they be fired.
+
+h.Recognize that decision makers must have access to the information necessary to make decisions and must be trustworthy enough to handle that information safely.That doesn’t mean that all people must have access and be trustworthy. It is possible to have subcommittees who have access to sensitive information and make recommendations to the board that are substantiated with enough information to make good judgments, but without disclosing the highly sensitive particulars.
+
+16.2Remember that in an idea meritocracy a single CEO is not as good as a great group of leaders.
+
+Dependence on one person produces too much key-man risk, limits the range of expertise (because nobody is good at everything), and fails to establish adequate checks and balances. It also creates a burden because there’s generally too much to do. That’s why we have a co-CEO model at Bridgewater that is essentially a partnership of two or three people who lead the firm.
+
+At Bridgewater the CEOs are overseen by a board largely via the executive chairman or chairmen. In our idea meritocracy, the CEOs are also held accountable by the employees of the company, even though these employees are subordinate to the CEOs. The challenge of having two or three people is for them to dance well together. If they can’t do that, and coordinate well with the chairmen, they have to notify the executive chairman or chairmen so changes can be made.
+
+For the same reason we have more than one CEO overseeing management of the company, we have more than one chief investment officer (there are currently three).
+
+16.3No governance systemof principles, rules, and checks and balances can substitute for a great partnership.
+
+All these principles, rules, and checks and balances won’t be worth much if you don’t have capable people in positions of power who instinctually want to operate for the good of the community based on the agreed-upon principles. A company’s leaders must have wisdom, competence, and the ability to have close, cooperative, and effective working relationships characterized by both thoughtful disagreement and commitment to following through with whatever the idea-meritocratic process decides.
+
+We work with others to get three things:
+
+1) Leverage to accomplish our chosen missions in bigger and better ways than we could alone.
+
+2) Quality relationships that together make for a great community.
+
+3) Money that allows us to buy what we need and want for ourselves and others.
+
+WORK PRINCIPLES: PUTTING IT ALL TOGETHER
+
+Since the relative importance of these three things varies by person, it is up to you to determine the quantities and mix you want. The important thing to realize is that they are mutually supportive. If you want to accomplish your mission, you will be better off having quality relationships with people committed to that mission and financial resources to put behind it. Similarly, if you want to have a great work community, you will need a shared mission and financial resources to support you, and if you want to make the most money possible, you will need clear goals and tight relationships to achieve them. In my life, I have been lucky to have much more of all three of these than I could have ever imagined. I have tried to convey the approach that worked for me—an idea meritocracy in which meaningful work and meaningful relationships are the goals and radical truth and radical transparency are the ways of achieving them—so that you can decide what, if any of it, is of use to you.
+
+Recognizing that I gave you a pile of principles that could be confusing, I want to make sure that the headline I’m trying to get acrosscomes through. It is that of all approaches to decision making,an idea meritocracy is the best.40It’s almost too obvious to warrant saying, but I will anyway: Knowing what you can and cannot expect from each person and knowing what to do to make sure the best ideas win out are the best way to make decisions. Idea-meritocratic decision making is better than traditional autocratic or democratic decision making in almost all cases.
+
+That’s not just theory. While there is no such thing as utopia just like there is no such thing as perfect, there is great—and there isn’t much doubt that the results of this idea-meritocratic approach have been pretty great for Bridgewater for more than forty years. Because this approach can work equally well in most organizations, I wanted to lay it out clearly and in detail. While you needn’t follow this idea-meritocratic approach exactly as I’ve done it, the big question is: Do you want to work in an idea meritocracy? If so, what is the best way for you to do that?
+
+An idea meritocracy requires people to do three things: 1) Put their honest thoughts on the table for everyone to see, 2) Have thoughtful disagreements where there are quality back-and-forths in which people evolve their thinking to come up with the best collective answers possible, and 3) Abide by idea-meritocratic ways of getting past the remaining disagreements (such as believability-weighted decision making). While an idea meritocracy doesn’t have to operate exactly in any particular way, it does have to by and large follow those three steps. Don’t worry about remembering all the particular principles that I gave you in this book. Just go after having an idea meritocracy and figure out what works for you by encountering your trade-offs and coming up with your principles for handling them.
+
+In my case, I wanted meaningful work and meaningful relationships, and I believed that being radically truthful and radically transparent were required to get those. Then I went after them and encountered problems that forced me to make choices. By writing down how I made these choices, I was able to flesh out my principles, which ledme to shape Bridgewater’s idea meritocracy with the people I worked with so that it would work well for us. As you set out on your own and encounter your own impediments, you might want to refer back to these principles because chances are that I’ve encountered many of the same impediments, did my wrestling with how to handle them, and laid out my thinking in principles. And then write down your own.
+
+Of course, people’s abilities to influence how their group works vary, and I don’t know your circumstances. But I do know that if you want to work in an idea-meritocratic way, you can find your own way of doing that. Maybe it will be by helping shape your organization from the top, maybe it will be by choosing the right organization for you, and maybe it will be by simply dealing with the people you work with in an idea-meritocratic way. No matter your position, you can always practice being open-minded and assertive at the same time, and thinking about your and others’ believabilities when deciding what to do.
+
+Above all else, my wishes for you are that: 1) You can make your work and your passion one and the same; 2) You can struggle well with others on your common mission to produce the previously mentioned rewards; 3) You can savor both your struggles and your rewards; and 4) You will evolve quickly and contribute to evolution in significant ways.
+
+40I’m not saying that it is always the best, as there are some cases where it’s not. I’m saying that I believe that it is almost always the best if it can be implemented well.
+
+It’s up to you to decide what you want to get out of life and what you want to give.

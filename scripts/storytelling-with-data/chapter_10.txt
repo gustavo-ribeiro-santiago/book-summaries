@@ -1,0 +1,177 @@
+chapter 10final thoughts
+
+Data visualization—and communicating with data in general—sits at the intersection of science and art. There is certainly some science to it: best practices and guidelines to follow, as we’ve discussed throughout this book. But there is also an artistic component. This is one of the reasons this area is so much fun. It is inherently diverse. Different people will approach things in varying ways and come up with distinct solutions to the same data visualization challenge. As we’ve discussed, there is no single “right” answer. Rather, there are often multiple potential paths for communicating effectively with data. Apply the lessons we’ve covered in this book to forgeyourpath, with the goal of using your artistic license to make the information easier for your audience to understand.
+
+You have learned a great deal over the course of this book that sets you up for success when it comes to communicating effectively with data. In this final chapter, we’ll discuss some tips on where to go from here and strategies for upskilling storytelling with data competency in your team and organization. Finally, we will end with a recap ofthe main lessons we’ve covered and send you off eager and ready to tell stories with data.
+
+Where to go from here
+
+Reading about effective storytelling with data is one thing. But how do you translate what we’ve learned to practical application? The simple way to get good at this is todo it: practice, practice, and practice some more. Look for opportunities in your work to apply the lessons we’ve learned. Note that it doesn’t have to be all or nothing—one way to make progress is through incremental improvements to existing or ongoing work. Consider also when you can leverage the entire storytelling with data process that we’ve covered from start to finish.
+
+Now I want to overhaul our entire monthly report!
+
+You likely see graphs differently than you did at the onset of our journey together. Rethinking the way you visualize data is a great thing. But don’t let overambitious goals overwhelm and hinder progress. Consider what incremental improvements you can make as you work toward storytelling with data nirvana. For example, if you’re considering overhauling your regular reports, an interim step could be to start thinking of the report as the appendix. Leave the data there for reference, but push it to the back so it doesn’t distract from the main message. Insert a few slides or a cover note up front and use this to pull out the interesting stories, leveraging the storytelling with data lessons we’ve covered. This way you can more easily focus your audience on the important stories and resulting actions.
+
+For some specific, concrete steps on where to go from here, I’ll outline five final tips: learn your tools well, iterate and seek feedback, allow ample time for this part of the process, seek inspiration fromothers, and—last but not least—have some fun while you’re at it! Let’s discuss each of these.
+
+Tip #1: learn your tools well
+
+For the most part, I’ve intentionally avoided discussion on tools because the lessons we’ve covered are fundamental and can be applied to varying degrees in any tool (for example, Excel or Tableau). Try not to let your tools be a limiting factor when it comes to communicating effectively with data. Pick one and get to know it as best you can. When you’re first starting out, a course to become familiar with the basics may be helpful. In my experience, however, the best way to learn a tool is to use it. When you can’t figure out how to do something, don’t give up. Continue to play with the program and search Google for solutions. Any frustration you encounter will be worth it when you can bend your tool to your will!
+
+You don’t need fancy tools in order to visualize data well. The examples we’ve looked at in this book were all created with Microsoft Excel, which I find is the most pervasive when it comes to business analytics.
+
+While I use mainly Excel for visualizing data, this isn’t your only option. There are a plethora of tools out there. The following is a very quick rundown of some of the popular ones currently used for creating data visualizations like the ones we’ve examined:
+
+Google spreadsheetsare free, online, and sharable, allowing multiple people to edit (as of this writing, there remain graph formatting constraints that make it challenging to apply some of the lessons we’ve covered when it comes to decluttering and drawing attention where you want it).
+
+Tableauis a popular out-of-the-box data visualization solution that can be great for exploratory analysis because it allows you to quickly create multiple views and nice-looking graphs from your data. It can be leveraged for the explanatory via the Story Pointsfeature. It is expensive, though a free Tableau Public option is available if uploading your data to a public server isn’t an issue.
+
+Programming languages—likeR, D3(JavaScript),Processing, andPython—have a steeper learning curve but allow for greater flexibility, since you can control the specific elements of the graphs you create and make those specifications repeatable through code.
+
+Some people useAdobe Illustrator, either alone or together with graphs created in an application like Excel or via a programming language, for easier manipulation of graph elements and a professional look and feel.
+
+How I use PowerPoint
+
+For me, PowerPoint is simply the mechanism that allows me to organize a handout or present on the big screen. I nearly always start from a totally blank slide and do not leverage the built-in bullets that too easily turn content from presentation to teleprompter.
+
+You can build graphs directly in PowerPoint; however, I tend not to do this. There is greater flexibility in Excel (where, in addition to the graph, you can also have some elements of a visual—for example, titles or axis labels—directly in the cells, which is sometimes useful). Because of this, I create my visuals in Excel, then copy and paste into PowerPoint as an image. If I am using text together with a visual—for example, to draw attention to a specific point—I typically do that via a text box in PowerPoint.
+
+The animation feature within PowerPoint can be useful for progressing through a story with iterations of the same visual, as shown in Chapter 8 or some of the case studies in Chapter 9. When using animation in PowerPoint, use only simple Appear or Disappear (in some instances, Transparency can also be useful); steer clear of any animation that causes elements to fly in or fade out—this is the presentation software equivalent of 3D graphs—unnecessary and distracting!
+
+Another essential basic tool for visualizing data that I did not include in the preceding list ispaper—which brings me to my next tip.
+
+Tip #2: iterate and seek feedback
+
+I’ve presented the storytelling with data process as a linear path. That’s not often the case in reality. Rather, it takes iterating to get from early ideas to a final solution. When the best course for visualizing certain data is unclear, start with a blank piece of paper. This enables you to brainstorm without the constraints of your tools or what you know how to do in your tools. Sketch out potential views to see them side-by-side and determine what will work best for getting your message across to your audience. I find that we form less attachment to our work product—which can make iterating easier—when we are working on paper rather than on our computers. There is also something freeing about drawing on blank paper that may make it easier to identify new approaches if you’re feeling stuck. Once you have your basic approach sketched, consider what you have at your disposal—tools, or internal or external experts—to actually create the visual.
+
+When creating your visual in your graphing application (for example, Excel) and refining to get from good to great, you can leverage what I call the “optometrist approach.” Create a version of the graph (let’s call it A), then make a copy of it (B) and make a single change. Then determine which looks better—A or B. Often, the practice of seeing slight variations next to each other makes it quickly clear which view is superior. Progress in this manner, preserving the latest “best” visual and continuing to make minor modifications in a copy (so you always have the prior version to go back to in case the modification worsens it) to iterate toward your ideal visual.
+
+At any point, if the best path is unclear, seek feedback. The fresh set of eyes that a friend or colleague can bring to the data visualization endeavor is invaluable. Show someone else your visual and have them talk you through their thought process: what they pay attention to, what observations they make, what questions they have,and any ideas they may have for better getting your point across. These insights will let you know if the visual you’ve created is on the mark or, in the case when it isn’t, give you an idea of where to make changes and focus continued iteration.
+
+When it comes to iterating, there is one thing you need perhaps more than anything else in order to be successful:time.
+
+Tip #3: devote time to storytelling with data
+
+Everything we’ve discussed throughout this book takes time. It takes time to build a robust understanding of the context, time to understand what motivates our audience, time to craft the 3-minute story and form the Big Idea. It takes time to look at the data in different ways and determine how to best show it. It takes time to declutter and draw attention and iterate and seek feedback and iterate some more to create an effective visual. It takes time to pull it all together into a story and form a cohesive and captivating narrative.
+
+It takes even more time to do all of this well.
+
+One of my biggest tips for success in storytelling with data is to allow adequate time for it. If we don’t consciously recognize that this takes time to do well and budget accordingly, our time can be entirely eaten up by the other parts of the analytical process. Consider the typical analytical process: you start with a question or hypothesis, then you collect the data, then you clean the data, and then you analyze the data. After all of that, it can be tempting to simply throw the data into a graph and call it “done.”
+
+But we simply aren’t doing ourselves—or our data—justice with this approach. The default settings of our graphing application are typically far from ideal. Our tools do not know the story we aim to tell. Combine these two things and you run the risk of losing a great deal of potential value—including the opportunity to drive action and effect change—if adequate time isn’t spent on this final step in the analytical process: the communication step. This is the only part ofthe entire process that your audience actuallysees.Devote time to this important step. Expect it to take longer than you think to allow sufficient time to iterate and get it right.
+
+Tip #4: seek inspiration through good examples
+
+Imitation really is the best form of flattery. If you see a data visualization or example of storytelling with data that you like, consider how you might adapt the approach for your own use. Pause to reflect on what makes it effective. Make a copy of it and create a visual library that you can add to over time and refer to for inspiration. Emulate the good examples and approaches that you see.
+
+Said more provocatively—imitationis a good thing.We learn by emulating experts. That’s why you see people with their sketchpads and easels at art museums—they are interpreting great works. My husband tells me that while learning to play the jazz saxophone, he would listen to the masters repeatedly—narrowing at times to a single measure played at a slower speed that he would practice until he could repeat the notes perfectly. This idea of using great examples as an archetype to learn applies to data visualization as well.
+
+There are a number of great blogs and resources on the topic of data visualization and communicating with data that contain many good examples. Here are a few of my current personal favorites (including my own!):
+
+Eager Eyes(eagereyes.org, Robert Kosara): Thoughtful content on data visualization and visual storytelling.
+
+FiveThirtyEight’s Data Lab(fivethirtyeight.com/datalab, various authors): I like their typically minimalist graphing style on a large range of news and current events topics.
+
+Flowing Data(flowingdata.com, Nathan Yau): Membership gets you premium content, but there are a lot of great free examples of data visualization as well.
+
+The Functional Art(thefunctionalart.com, Alberto Cairo): An introduction to information graphics and visualization, with great concise posts highlighting advice and examples.
+
+The Guardian Data Blog(theguardian.com/data, various authors): News-related data, often with accompanying article and visualizations, by the British news outlet.
+
+HelpMeViz(HelpMeViz.com, Jon Schwabish): “Helping people with everyday visualizations,” this site allows you to submit a visual to receive feedback from readers or scan the archives for examples and corresponding conversations.
+
+Junk Charts(junkcharts.typepad.com, Kaiser Fung): By self-proclaimed “web’s first data viz critic,” focuses on what makes graphics work and how to make them better.
+
+Make a Powerful Point(makeapowerfulpoint.com, Gavin McMahon): Fun, easy-to-digest content on creating and giving presentations and presenting data.
+
+Perceptual Edge(perceptualedge.com, Stephen Few): No-nonsense content on data visualization for sensemaking and communication.
+
+Visualising Data(visualisingdata.com, Andy Kirk): Charts the development of the data visualization field, with great monthly “best visualisations of the web” resource list.
+
+VizWiz(vizwiz.blogspot.com, Andy Kriebel): Data visualization best practices, methods for improving existing work, and tips and tricks for using Tableau Software.
+
+storytelling with data(storytellingwithdata.com): My blog focuses on communicating effectively with data and contains many examples, visual makeovers, and ongoing dialogue.
+
+This is just a sampling. There is a lot of great content out there. I continue to learn from others who are active in this space and doing great work. You can, too!
+
+Learn from the not-so-great examples, too
+
+Often, you can learn as much from the poor examples of data visualization—what not to do—as you can from those that are effective. Bad graphs are so plentiful that entire sites exist to curate, critique, and poke fun at them. For an entertaining example, check out WTF Visualizations (wtfviz.net), where content is described simply as “visualizations that make no sense.” I challenge you not only to recognize when you encounter a poor example of data visualization but also to pause and reflect on why it isn’t ideal and how it could be improved.
+
+You now have a discerning eye when it comes to the visual display of information. You will never look at a graph the same. One workshop attendee told me that he is “ruined”—he can’t encounter a data visualization without applying his new lens for assessing effectiveness. I love hearing these stories, as it means I’m making progress toward my goal of ridding the world of ineffective graphs. You have been ruined in this same way, but this is actually a really good thing! Continue to learn from and leverage the aspects of good examples you see, while avoiding the pitfalls of the poor ones, as you start to create your own data visualization style.
+
+Tip #5: have fun and find your style
+
+When most people think about data, one of the furthest things from their mind is creativity. But within data visualization, there is absolutely space for creativity to play a role. Data can be made to be breathtakingly beautiful. Don’t be afraid to try new approaches and play a little. You’ll continue to learn what works and what doesn’t over time.
+
+You may also find that you develop a personal data visualization style. For example, my husband says he can recognize visuals that I created or influenced. Unless a client brand calls for something else, Itend to do everything in shades of grey and use blue sparingly in a minimalist style, almost always in plain old Arial font (I like it!). That doesn’t mean your approach must imitate these specifics to be successful. My own style has evolved based on personal preferences and learning through trial and error—testing out different fonts, colors, and graph elements. I can recall one particularly unfortunate example that incorporated a grey-to-white shaded graph background and far too many shades of orange. I’ve come a long way!
+
+To the extent that it makes sense given the task at hand, don’t be afraid to let your own style develop and creativity come through when you communicate with data. Company brand can also play a role in developing a data visualization style; consider your company’s brand and whether there are opportunities to fold that into how you visualize and communicate with data. Just make sure that your approach and stylistic elements are making the information easier—not more difficult—for your audience to consume.
+
+Now that we’ve looked at some specific tips foryouto follow, let’s turn to some ideas for building storytelling with data competency in others.
+
+Building storytelling with data competency in your team or organization
+
+I am a strong believer that anyone can improve their ability to communicate with data by learning and applying the lessons we’ve covered. That said, some will have more interest and natural aptitude than others in this space. When it comes to being effective at communicating with data in your team or your organization, there are a few potential strategies to consider: upskill everyone, invest in an expert, or outsource this part of the process. Let’s briefly discuss each of these.
+
+Upskill everyone
+
+As we’ve discussed, part of the challenge is that data visualization is a single step in the analytical process. Those hired into analytical roles typically have quantitative backgrounds that suit them well for the other steps (finding the data, pulling it together, analyzing it, building models), but not necessarily any formal training in design to help them when it comes to the communication of the analysis. Also, increasingly those without analytical backgrounds are being asked to put on analytical hats and communicate using data.
+
+For both of these groups, finding ways to impart foundational knowledge can make everyone better. Invest in training or use the lessons covered here to generate momentum. On this latter note, here are some specific ideas:
+
+Storytelling with data book club:read a chapter at a time and then discuss it together, identifying examples specific to your work where the given lesson can be applied.
+
+Do-it-yourself workshop:after finishing the book, conduct your own workshop—soliciting examples of communicating with data from your team and discussing how they can be improved.
+
+Makeover Monday:challenge individuals to a weekly makeover of less-than-ideal examples employing the lessons we’ve covered.
+
+Feedback loop:set the expectation that individuals must share work in progress and offer feedback to each other grounded in the storytelling with data lessons.
+
+And the winner is:introduce a monthly or quarterly contest, where individuals or teams can submit their own examples of effective storytelling with data then start a gallery of model examples, adding to it over time via contest winners.
+
+Any of these approaches—alone or combined—can create and help ensure continued focus on effective visualization and storytelling with data.
+
+Invest in an internal expert or two
+
+Another approach is to identify an individual or a couple of individuals on your team or in your organization who are interested in data visualization (even better if they’ve already displayed some natural aptitude) and invest in them so they can become your in-house experts. Make it an expectation of their role to be an internal data visualization consultant to whom others on the team can turn for brainstorming and feedback or to overcome tool-specific challenges. This investment can take the form of books, tools, coaching, workshops, or courses. Provide time and opportunities to learn and practice. This can be a great form of recognition and career development for the individual. As the individual continues to learn, they can share this with others as a way to ensure continued team development as well.
+
+Outsource
+
+In some situations, it may make sense to outsource visual creation to an external expert. If time or skill constraints are too great to overcome for a specific need, turning to a data visualization or presentation consultant may be worth considering. For example, one client contracted me to design an important presentation that they would need to give a number of times in the upcoming year. Once the basic story was in place, they knew they could make the minor changes needed to make it fit the various venues.
+
+The biggest drawback of outsourcing is that you don’t develop the skills and learn in the same way as if you tackle the challenge internally. To help overcome this, look for opportunities to learn from the consultant during the process. Consider whether the output can also provide a starting point for other work, or if it can be evolved over time as you develop internal capability.
+
+A combined approach
+
+The teams and organizations I’ve seen become the most successful in this space leverage a combined approach. They recognizethe importance of storytelling with data and invest in training and practice to give everyone the foundational knowledge for effective data visualization. They also identify and support an internal expert, to whom the rest of the team can turn for help overcoming specific challenges. They bring in external experts to learn from as makes sense. They recognize the value of being able to tell stories with data effectively and invest in their people to build this competency.
+
+Through this book, I’ve givenyouthe foundational knowledge and language to use to help your team and your organization excel when it comes to communicating with data. Think about how you can frame feedback in terms of the lessons we’ve covered to help others improve their ability and effectiveness as well.
+
+Let’s wrap up with a recap of the path we’ve taken to effective storytelling with data.
+
+Recap: a quick look at all we’ve learned
+
+We have learned a great deal over the course of this book, from context to cutting clutter and drawing attention to telling a robust story. We’ve worn our designer hats and looked at things through our audience’s eyes. Here is a review of the main lessons we’ve covered:
+
+Understand the context.Build a clear understanding of who you are communicating to, what you need them to know or do, how you will communicate to them, and what data you have to back up your case. Employ concepts like the 3-minute story, the Big Idea, and storyboarding to articulate your story and plan the desired content and flow.
+
+Choose an appropriate visual display.When highlighting a number or two, simple text is best. Line charts are usually best for continuous data. Bar charts work great for categorical data and must have a zero baseline. Let the relationship you want to show guide the type of chart you choose. Avoid pies, donuts, 3D, and secondaryy-axes due to difficulty of visual interpretation.
+
+Eliminate clutter.Identify elements that don’t add informative value and remove them from your visuals. Leverage the Gestalt principles to understand how people see and identify candidates for elimination. Use contrast strategically. Employ alignment of elements and maintain white space to help make the interpretation of your visuals a comfortable experience for your audience.
+
+Focus attention where you want it.Employ the power of preattentive attributes like color, size, and position to signal what’s important. Use these strategic attributes to draw attention to where you want your audience to look and guide your audience through your visual. Evaluate the effectiveness of preattentive attributes in your visual by applying the “where are your eyes drawn?” test.
+
+Think like a designer.Offer your audience visual affordances as cues for how to interact with your communication: highlight the important stuff, eliminate distractions, and create a visual hierarchy of information. Make your designs accessible by not overcomplicating and leveraging text to label and explain. Increase your audience’s tolerance of design issues by making your visuals aesthetically pleasing. Work to gain audience acceptance of your visual designs.
+
+Tell a story.Craft a story with clear beginning (plot), middle (twists), and end (call to action). Leverage conflict and tension to grab and maintain your audience’s attention. Consider the order and manner of your narrative. Utilize the power of repetition to help your stories stick. Employ tactics like vertical and horizontal logic, reverse storyboarding, and seeking a fresh perspective to ensure that your story comes across clearly in your communication.
+
+Together, these lessons set you up for success when communicating with data.
+
+In closing
+
+When you opened this book, if you felt any sense of discomfort or lack of expertise when it comes to communicating with data, my hope is that those feelings have been mitigated. You now have a solid foundation, examples to emulate, and concrete steps to take to overcome the data visualization challenges you face. You have a new perspective. You will never look at data visualization the same. You are ready to assist me with my goal of ridding the world of ineffective graphs.
+
+There is a story in your data. If you weren’t convinced of that before our journey together, I hope you are now. Use the lessons we’ve covered to make that story clear to your audience. Help drive better decision making and motivate your audience to act. Never again will you simply show data. Rather, you will create visualizations that are thoughtfully designed to impart information and incite action.
+
+Go forth and tell your stories with data!

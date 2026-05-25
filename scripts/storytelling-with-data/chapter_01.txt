@@ -1,0 +1,177 @@
+chapter 1the importance of context
+
+This may sound counterintuitive, but success in data visualization does not start with data visualization. Rather, before you begin down the path of creating a data visualization or communication, attention and time should be paid to understanding thecontextfor the need to communicate. In this chapter, we will focus on understanding the important components of context and discuss some strategies to help set you up for success when it comes to communicating visually with data.
+
+Exploratory vs. explanatory analysis
+
+Before we get into the specifics of context, there is one important distinction to draw, betweenexploratoryandexplanatoryanalysis. Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others. When we do exploratory analysis, it’s like hunting for pearls in oysters.We might have to open 100 oysters (test 100 different hypotheses or look at the data in 100 different ways) to find perhaps two pearls. When we’re at the point of communicating our analysis to our audience, we really want to be in theexplanatoryspace, meaning you have a specific thing you want to explain, a specific story you want to tell—probably about those two pearls.
+
+Too often, people err and think it’s OK to show exploratory analysis (simply present the data, all 100 oysters) when they should be showing explanatory (taking the time to turn the data into information that can be consumed by an audience: the two pearls). It is an understandable mistake. After undertaking an entire analysis, it can be tempting to want to show your audienceeverything, as evidence of all of the work you did and the robustness of the analysis. Resist this urge. You are making your audience reopen all of the oysters! Concentrate on the pearls, the information your audience needs to know.
+
+Here, we focus onexplanatoryanalysis and communication.
+
+Recommended reading
+
+For those interested in learning more aboutexploratoryanalysis, check out Nathan Yau’s book,Data Points.Yau focuses on data visualization as a medium, rather than a tool, and spends a good portion of the book discussing the data itself and strategies for exploring and analyzing it.
+
+Who, what, and how
+
+When it comes to explanatory analysis, there are a few things to think about and be extremely clear on before visualizing any data or creating content. First,To whom are you communicating?It is important to have a good understanding of who your audience is and how they perceive you. This can help you to identify common ground that willhelp you ensure they hear your message. Second,What do you want your audience to know or do?You should be clear how you want your audience to act and take into account how you will communicate to them and the overall tone that you want to set for your communication.
+
+It’s only after you can concisely answer these first two questions that you’re ready to move forward with the third:How can you use data to help make your point?
+
+Let’s look at the context of who, what, and how in a little more detail.
+
+Who
+
+Your audience
+
+The more specific you can be about who your audience is, the better position you will be in for successful communication. Avoid general audiences, such as “internal and external stakeholders” or “anyone who might be interested”—by trying to communicate to too many different people with disparate needs at once, you put yourself in a position where you can’t communicate to any one of them as effectively as you could if you narrowed your target audience. Sometimes this means creating different communications for different audiences. Identifying the decision maker is one way of narrowing your audience. The more you know about your audience, the better positioned you’ll be to understand how to resonate with them and form a communication that will meet their needs and yours.
+
+You
+
+It’s also helpful to think about the relationship that you have with your audience and how you expect that they will perceive you. Will you be encountering each other for the first time through this communication, or do you have an established relationship? Do they already trust you as an expert, or do you need to work to establish credibility? These are important considerations when it comes todetermining how to structure your communication and whether and when to use data, and may impact the order and flow of the overall story you aim to tell.
+
+Recommended reading
+
+In Nancy Duarte’s bookResonate, she recommends thinking of your audience as the hero and outlines specific strategies for getting to know your audience, segmenting your audience, and creating common ground. A free multimedia version ofResonateis available at duarte.com.
+
+What
+
+Action
+
+What do you need your audience to know or do?This is the point where you think through how to make what you communicate relevant for your audience and form a clear understanding of why they should care about what you say. You should always want your audience to know or do something. If you can’t concisely articulate that, you should revisit whether you need to communicate in the first place.
+
+This can be an uncomfortable space for many. Often, this discomfort seems to be driven by the belief that the audience knows better than the presenter and therefore should choose whether and how to act on the information presented. This assumption is false. If you are the one analyzing and communicating the data,youlikely know it best—youare a subject matter expert. This puts you in a unique position to interpret the data and help lead people to understanding and action. In general, those communicating with data need to take a more confident stance when it comes to making specific observations and recommendations based on their analysis. This will feel outside of your comfort zone if you haven’t been routinely doing it.Start doing it now—it will get easier with time. And know that even if you highlight or recommend the wrong thing, it prompts the right sort of conversation focused on action.
+
+When it really isn’t appropriate to recommend an action explicitly, encourage discussion toward one. Suggesting possible next steps can be a great way to get the conversation going because it gives your audience something to react to rather than starting with a blank slate. If you simply present data, it’s easy for your audience to say, “Oh, that’s interesting,” and move on to the next thing. But if you ask for action, your audience has to make a decision whether to comply or not. This elicits a more productive reaction from your audience, which can lead to a more productive conversation—one that might never have been started if you hadn’t recommended the action in the first place.
+
+Prompting action
+
+Here are some action words to help act as thought starters as you determine what you are asking of your audience:
+
+accept | agree | begin | believe | change | collaborate | commence | create | defend | desire | differentiate | do | empathize | empower | encourage | engage | establish | examine | facilitate | familiarize | form | implement | include | influence | invest | invigorate | know | learn | like | persuade | plan | promote | pursue | recommend | receive | remember | report | respond | secure | support | simplify | start | try | understand | validate
+
+Mechanism
+
+How will you communicate to your audience?The method you will use to communicate to your audience has implications on a number of factors, including the amount of control you will have over how the audience takes in the information and the level of detail thatneeds to be explicit. We can think of the communication mechanism along a continuum, with live presentation at the left and a written document or email at the right, as shown inFigure 1.1. Consider the level of control you have over how the information is consumed as well as the amount of detail needed at either end of the spectrum.
+
+Figure 1.1Communication mechanism continuum
+
+At the left, with alive presentation, you (the presenter) are in full control. You determine what the audience sees and when they see it. You can respond to visual cues to speed up, slow down, or go into a particular point in more or less detail. Not all of the detail needs to be directly in the communication (the presentation or slide deck), because you, the subject matter expert, are there to answer any questions that arise over the course of the presentation and should be able and prepared to do so irrespective of whether that detail is in the presentation itself.
+
+For live presentations, practice makes perfect
+
+Do not use your slides as your teleprompter! If you find yourself reading each slide out loud during a presentation, you are using them as one. This creates a painful audience experience. You have to know your content to give a good presentation and this means practice, practice, and more practice! Keep your slides sparse, and only put things on them that help reinforce what you will say. Your slides can remind you of the next topic, but shouldn’t act as your speaking notes.
+
+Here are a few tips for getting comfortable with your material as you prepare for your presentation:
+
+Write out speaking notes with the important points you want to make with each slide.
+
+Practice what you want to say out loud to yourself: this ignites a different part of the brain to help you remember your talking points. It also forces you to articulate the transitions between slides that sometimes trip up presenters.
+
+Give a mock presentation to a friend or colleague.
+
+At the right side of the spectrum, with awritten document or email, you (the creator of the document or email) have less control. In this case, the audience is in control of how they consume the information. The level of detail that is needed here is typically higher because you aren’t there to see and respond to your audience’s cues. Rather, the document will need to directly address more of the potential questions.
+
+In an ideal world, the work product for the two sides of this continuum would be totally different—sparse slides for a live presentation (since you’re there to explain anything in more detail as needed), anddenser documents when the audience is left to consume on their own. But in reality—due to time and other constraints—it is often the same product that is created to try to meet both of these needs. This gives rise to theslideument, a single document that’s meant to solve both of these needs. This poses some challenges because of the diverse needs it is meant to satisfy, but we’ll look at strategies for addressing and overcoming these challenges later in the book.
+
+At this point at the onset of the communication process, it is important to identify the primary communication vehicle you’ll be leveraging: live presentation, written document, or something else. Considerations on how much control you’ll have over how your audience consumes the information and the level of detail needed will become very important once you start to generate content.
+
+Tone
+
+What tone do you want your communication to set?Another important consideration is the tone you want your communication to convey to your audience. Are you celebrating a success? Trying to light a fire to drive action? Is the topic lighthearted or serious? The tone you desire for your communication will have implications on the design choices that we will discuss in future chapters. For now, think about and specify the general tone that you want to establish when you set out on the data visualization path.
+
+How
+
+Finally—and only after we can clearly articulate who our audience is and what we need them to know or do—we can turn to the data and ask the question:What data is available that will help make my point?Data becomes supporting evidence of the story you will build and tell. We’ll discuss much more on how to present this data visually in subsequent chapters.
+
+Ignore the nonsupporting data?
+
+You might assume that showing only the data that backs up your point and ignoring the rest will make for a stronger case. I do not recommend this. Beyond being misleading by painting a one-sided story, this is very risky. A discerning audience will poke holes in a story that doesn’t hold up or data that shows one aspect but ignores the rest. The right amount of context and supporting and opposing data will vary depending on the situation, the level of trust you have with your audience, and other factors.
+
+Who, what, and how: illustrated by example
+
+Let’s consider a specific example to illustrate these concepts. Imagine you are a fourth grade science teacher. You just wrapped up an experimental pilot summer learning program on science that was aimed at giving kids exposure to the unpopular subject. You surveyed the children at the onset and end of the program to understand whether and how perceptions toward science changed. You believe the data shows a great success story. You would like to continue to offer the summer learning program on science going forward.
+
+Let’s start with thewhoby identifying our audience. There are a number of different potential audiences who might be interested in this information: parents of students who participated in the program, parents of prospective future participants, the future potential participants themselves, other teachers who might be interested in doing something similar, or the budget committee that controls the funding you need to continue the program. You can imagine how the story you would tell to each of these audiences might differ. The emphasis might change. The call to action would be different for the different groups. The data you would show (or the decision to show data at all) could be different for the various audiences. You can imagine how, if we crafted a single communication meant to addressall of these disparate audiences’ needs, it would likely not exactly meet any single audience’s need. This illustrates the importance of identifying aspecificaudience and crafting a communication with that specific audience in mind.
+
+Let’s assume in this case the audience we want to communicate to is the budget committee, which controls the funding we need to continue the program.
+
+Now that we have answered the question ofwho,thewhatbecomes easier to identify and articulate. If we’re addressing the budget committee, a likely focus would be to demonstrate the success of the program and ask for a specific funding amount to continue to offer it. After identifying who our audience is and what we need from them, next we can think about the data we have available that will act as evidence of the story we want to tell. We can leverage the data collected via survey at the onset and end of the program to illustrate the increase in positive perceptions of science before and after the pilot summer learning program.
+
+This won’t be the last time we’ll consider this example. Let’s recap who we have identified as our audience, what we need them to know and do, and the data that will help us make our case:
+
+Who:The budget committee that can approve funding for continuation of the summer learning program.
+
+What:The summer learning program on science was a success; please approve budget of $X to continue.
+
+How:Illustrate success with data collected through the survey conducted before and after the pilot program.
+
+Consulting for context: questions to ask
+
+Often, the communication or deliverable you are creating is at the request of someone else: a client, a stakeholder, or your boss. This means you may not have all of the context and might need to consultwith the requester to fully understand the situation. There is sometimes additional context in the head of this requester that they may assume is known or not think to say out loud. Following are some questions you can use as you work to tease out this information. If you’re on the requesting side of the communication and asking your support team to build a communication, think about answering these questions for them up front:
+
+What background information is relevant or essential?
+
+Who is the audience or decision maker? What do we know about them?
+
+What biases does our audience have that might make them supportive of or resistant to our message?
+
+What data is available that would strengthen our case? Is our audience familiar with this data, or is it new?
+
+Where are the risks: what factors could weaken our case and do we need to proactively address them?
+
+What would a successful outcome look like?
+
+If you only had a limited amount of time or a single sentence to tell your audience what they need to know, what would you say?
+
+In particular, I find that these last two questions can lead to insightful conversation. Knowing what the desired outcome is before you start preparing the communication is critical for structuring it well. Putting a significant constraint on the message (a short amount of time or a single sentence) can help you to boil the overall communication down to the single, most important message. To that end, there are a couple of concepts I recommend knowing and employing: the 3-minute story and the Big Idea.
+
+The 3-minute story & Big Idea
+
+The idea behind each of these concepts is that you are able to boil the “so-what” down to a paragraph and, ultimately, to a single, concise statement. You have to really know your stuff—know what the most important pieces are as well as whatisn’tessential in themost stripped-down version. While it sounds easy, being concise is often more challenging than being verbose. Mathematician and philosopher Blaise Pascal recognized this in his native French, with a statement that translates roughly to “I would have written a shorter letter, but I did not have the time” (a sentiment often attributed to Mark Twain).
+
+3-minute story
+
+The 3-minute story is exactly that: if you had only three minutes to tell your audience what they need to know, what would you say? This is a great way to ensure you are clear on and can articulate the story you want to tell. Being able to do this removes you from dependence on your slides or visuals for a presentation. This is useful in the situation where your boss asks you what you’re working on or if you find yourself in an elevator with one of your stakeholders and want to give her the quick rundown. Or if your half-hour on the agenda gets shortened to ten minutes, or to five. If you know exactly what it is you want to communicate, you can make it fit the time slot you’re given, even if it isn’t the one for which you are prepared.
+
+Big Idea
+
+The Big Idea boils the so-what down even further: to a single sentence. This is a concept that Nancy Duarte discusses in her book,Resonate(2010). She says the Big Idea has three components:
+
+It must articulate your unique point of view;
+
+It must convey what’s at stake; and
+
+It must be a complete sentence.
+
+Let’s consider an illustrative 3-minute story and Big Idea, leveraging the summer learning program on science example that was introduced previously.
+
+3-minute story:A group of us in the science department were brainstorming about how to resolve an ongoing issue we have with incoming fourth-graders. It seems that when kids get to their first science class, they come in with this attitude that it’s going to be difficult and they aren’t going to like it. It takes a good amount of time at the beginning of the school year to get beyond that. So we thought, what if we try to give kids exposure to science sooner? Can we influence their perception? We piloted a learning program last summer aimed at doing just that. We invited elementary school students and ended up with a large group of second- and third-graders. Our goal was to give them earlier exposure to science in hopes of forming positive perception. To test whether we were successful, we surveyed the students before and after the program. We found that, going into the program, the biggest segment of students, 40%, felt just “OK” about science, whereas after the program, most of these shifted into positive perceptions, with nearly 70% of total students expressing some level of interest toward science. We feel that this demonstrates the success of the program and that we should not only continue to offer it, but also to expand our reach with it going forward.
+
+Big Idea:The pilot summer learning program was successful at improving students’ perceptions of science and, because of this success, we recommend continuing to offer it going forward; please approve our budget for this program.
+
+When you’ve articulated your story this clearly and concisely, creating content for your communication becomes much easier. Let’s shift gears now and discuss a specific strategy when it comes to planning content: storyboarding.
+
+Storyboarding
+
+Storyboarding is perhaps the single most important thing you can do up front to ensure the communication you craft is on point. The storyboard establishes a structure for your communication. It is a visual outline of the content you plan to create. It can be subject tochange as you work through the details, but establishing a structure early on will set you up for success. When you can (and as makes sense), get acceptance from your client or stakeholder at this step. It will help ensure that what you’re planning is in line with the need.
+
+When it comes to storyboarding, the biggest piece of advice I have is this: don’t start with presentation software. It is too easy to go into slide-generating mode without thinking about how the pieces fit together and end up with a massive presentation deck that says nothing effectively. Additionally, as we start creating content via our computer, something happens that causes us to form an attachment to it. This attachment can be such that, even if we know what we’ve created isn’t exactly on the mark or should be changed or eliminated, we are sometimes resistant to doing so because of the work we’ve already put in to get it to where it is.
+
+Avoid this unnecessary attachment (and work!) by starting low tech. Use a whiteboard, Post-it notes, or plain paper. It’s much easier to put a line through an idea on a piece of paper or recycle a Post-it note without feeling the same sense of loss as when you cut something you’ve spent time creating with your computer. I like using Post-it notes when I storyboard because you can rearrange (and add and remove) the pieces easily to explore different narrative flows.
+
+If we storyboard our communication for the summer learning program on science, it might look something likeFigure 1.2.
+
+Figure 1.2Example storyboard
+
+Note that in this example storyboard, the Big Idea is at the end, in the recommendation. Perhaps we’d want to consider leading with that to ensure that our audience doesn’t miss the main point and to help set up why we are communicating to them and why they should care in the first place. We’ll discuss additional considerations related to the narrative order and flow in Chapter 7.
+
+In closing
+
+When it comes to explanatory analysis, being able to concisely articulate exactly who you want to communicate to and what you want to convey before you start to build content reduces iterations and helps ensure that the communication you build meets the intended purpose. Understanding and employing concepts like the 3-minute story, the Big Idea, and storyboarding will enable you to clearly and succinctly tell your story and identify the desired flow.
+
+While pausing before actually building the communication might feel like it’s a step that slows you down, in fact it helps ensure that you have a solid understanding of what you want to do before you start creating content, which will save you time down the road.
+
+With that, consider your first lesson learned. You nowunderstand the importance of context.

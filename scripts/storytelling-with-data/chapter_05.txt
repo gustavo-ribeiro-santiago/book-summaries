@@ -1,0 +1,247 @@
+chapter 5think like a designer
+
+Form follows function. This adage of product design has clear application to communicating with data. When it comes to the form and function of our data visualizations, we first want to think about what it is we want our audience to be able todowith the data (function) and then create a visualization (form) that will allow for this with ease. In this chapter, we will discuss how traditional design concepts can be applied to communicating with data. We will exploreaffordances,accessibility, andaesthetics, drawing on a number of concepts introduced previously, but looking at them through a slightly different lens. We will also discuss strategies for gaining audienceacceptanceof your visual designs.
+
+Designers know the fundamentals of good design but also how to trust their eye. You may think to yourself,But I’m not a designer!Stop thinking this way. You can recognize smart design. By becoming familiar with some common aspects and examples of great design, we will instill confidence in your visual instincts and learn some concrete tips to follow and adjustments to make when things don’t feel quite right.
+
+Affordances
+
+In the field of design, experts speak of objects having “affordances.” These are aspects inherent to the design that make it obvious how the product is to be used. For example, a knob affords turning, a button affords pushing, and a cord affords pulling. These characteristics suggest how the object is to be interacted with or operated. When sufficient affordances are present, good design fades into the background and you don’t even notice it.
+
+For an example of affordances in action, let’s look to the OXO brand. On their website, they articulate their distinguishing feature as “Universal Design”—a philosophy of making products that are easy to use for the widest possible spectrum of users. Of particular relevance to our conversation here are their kitchen gadgets (which were once marketed as “tools you hold on to”). The gadgets are designed in such a way that there is really only one way to pick them up—the correct way. In this way, OXO kitchen gadgets afford correct use, without most users recognizing that this is due to thoughtful design (Figure 5.1).
+
+Figure 5.1OXO kitchen gadgets
+
+Let’s consider how we can translate the concept of affordances to communicating with data. We can leverage visual affordances to indicate to our audience how to use and interact with our visualizations. We’ll discuss three specific lessons to this end: (1) highlight the important stuff, (2) eliminate distractions, and (3) create a clear hierarchy of information.
+
+Highlight the important stuff
+
+We’ve previously demonstrated the use of preattentive attributes to draw our audience’s attention to where we want them to focus: in other words, to highlight the important stuff. Let’s continue to explore this strategy. Critical here is to only highlight a fraction of the overall visual, since highlighting effects are diluted as the percentage that are highlighted increases. InUniversal Principles of Design(Lidwell, Holden, and Butler, 2003), it is recommended that at most 10% of the visual design be highlighted. They offer the following guidelines:
+
+Bold,italics,andunderlining: Use for titles, labels, captions, and short word sequences to differentiate elements. Bolding is generally preferred over italics and underlining because it adds minimal noise to the design while clearly highlighting chosen elements. Italics add minimal noise, but also don’t stand out as much and are less legible. Underlining adds noise and compromises legibility, so should be used sparingly (if at all).
+
+CASE and typeface: Uppercase text in short word sequences is easily scanned, which can work well when applied to titles, labels, and keywords. Avoid using different fonts as a highlighting technique, as it’s difficult to attain a noticeable difference without disrupting aesthetics.
+
+Coloris an effective highlighting technique when used sparingly and generally in concert with other highlighting techniques (for example, bold).
+
+Inversing elementsis effective at attracting attention, but can add considerable noise to a design so should be used sparingly.
+
+Size is another way to attract attention and signal importance.
+
+I’ve omitted “blinking or flashing” from the list above, which Lidwell et al. include with instructions to use only to indicate highly critical information that requires immediate response. I do not recommend using blinking or flashing when communicating with data for explanatory purposes (it tends to be more annoying than helpful).
+
+Note that preattentive attributes can be layered, so if you have something really important, you can signal this and draw attention by making it large, colored, and bold.
+
+Let’s look at a specific example using highlighting effectively in data visualization. A graph similar toFigure 5.2was included in a February 2014 Pew Research Center article titled “New Census Data Show More Americans Are Tying the Knot, but Mostly It’s the College-Educated.”
+
+Figure 5.2Pew Research Center original graph
+
+Based on the article that accompanied it,Figure 5.2is meant to demonstrate that the 2011 to 2012 increase observed in total new marriages was driven primarily by an increase in those having a bachelor’s degree or more (there doesn’t actually appear to be an increase based on the “All” trend shown, but let’s ignore this). The design ofFigure 5.2does little to draw this clearly to our attention, however. Rather, my attention is drawn to the 2012 bars within the various groups because they are rendered in a darker color than the rest.
+
+Changing the use of color in this visual can completely redirect our focus. SeeFigure 5.3.
+
+Figure 5.3Highlight the important stuff
+
+InFigure 5.3, the color orange has been used to highlight the data points for those having a bachelor’s degree or more. By makingeverything else grey, the highlighting provides a clear signal of where we should focus our attention. We’ll come back to this example momentarily.
+
+Eliminate distractions
+
+While we highlight the important pieces, we also want to eliminate distractions. In his bookAirman’s Odyssey, Antoine de Saint-Exupery famously said, “You know you’ve achieved perfection, not when you have nothing more to add, but when you have nothing to take away” (Saint-Exupery, 1943). When it comes to the perfection of design with data visualization, the decision of what to cut or de-emphasize can be even more important than what to include or highlight.
+
+To identify distractions, think about both clutter and context. We’ve discussed clutter previously: these are elements that take up space but don’t add information to our visuals. Context is what needs to be present for your audience in order for what you want to communicate to make sense. When it comes to context, use the right amount—not too much, not too little. Consider broadly what information is critical and what is not. Identify unnecessary, extraneous, or irrelevant items or information. Determine whether there are things that might be distracting from your main message or point. All of these are candidates for elimination.
+
+Here are some specific considerations to help you identify potential distractions:
+
+Not all data are equally important.Use your space and audience’s attention wisely by getting rid of noncritical data or components.
+
+When detail isn’t needed, summarize.You should be familiar with the detail, but that doesn’t mean your audience needs to be. Consider whether summarizing is appropriate.
+
+Ask yourself: would eliminating this change anything?No? Take it out! Resist the temptation to keep things because they are cute or because you worked hard to create them; if they don’t support the message, they don’t serve the purpose of communication.
+
+Push necessary, but non-message-impacting items to the background. Use your knowledge of preattentive attributes to de-emphasize. Light grey works well for this.
+
+Each step in reduction and de-emphasis causes what remains to stand out more. In cases where you are unsure whether you’ll need the detail that you’re considering cutting, think about whether there is a way to include it without diluting your main message. For example, in a slide presentation, you can push content to the appendix so it’s there if you need it but won’t distract from your main point.
+
+Let’s look back at the Pew Research example discussed previously. InFigure 5.3, we used color sparingly to highlight the important part of our visual. We can further improve this graph by eliminating distractions, as illustrated inFigure 5.4.
+
+Figure 5.4Eliminate distractions
+
+InFigure 5.4, a number of changes were made to eliminate distractions. The biggest shift was from a bar graph to a line graph. As we’ve discussed, line graphs typically make it easier to see trends over time. This shift also has the effect of visually reducing discrete elements, because the data that was previously five bars has been reduced to a single line with the end points highlighted. When we consider the full data being plotted, we’ve gone from 25 bars to 4 lines. The organization of the data as a line graph allows the use of a singlex-axis that can be leveraged across all of the categories. This simplifies the processing of the information (rather than seeing the years in a legend at the left and then having to translate across the various groups of bars).
+
+The “All” category included in the original graph was removed altogether. This was the aggregate of all of the other categories, so showing it separately was redundant without adding value. This won’t always be the case, but here it didn’t add anything interesting to the story.
+
+The decimal points in the data labels were eliminated by rounding to the nearest whole digit. The data being plotted is “Number of newly married adults per 1,000,” and I find it strange to discuss the number of adults using decimal places (fractions of a person!). Additionally, the sheer size of the numbers and visible differences between them mean that we don’t need the level of precision or granularity that decimal points provide. It is important to take context into account when making decisions like this.
+
+The italics in the subtitle were changed to regular font. There was no reason to draw attention to these words. In the original, I found that the spatial separation between the title and subtitle also caused undue attention to be placed on the subtitle, so I removed the spacing in the makeover.
+
+Finally, the highlighting of the “Bachelor’s degree or more” category introduced inFigure 5.3was preserved and extended to include the category name in addition to the data labels. As we’ve seenpreviously, this is a way to tie components together visually for our audience, easing the interpretation.
+
+Figure 5.5shows the before-and-after.
+
+Figure 5.5Before-and-after
+
+By highlighting the important stuff and eliminating distractions, we’ve markedly improved this visual.
+
+Create a clear visual hierarchy of information
+
+As we discussed in Chapter 4, the same preattentive attributes we use to highlight the important stuff can be leveraged to create a hierarchy of information. We can visually pull some items to the forefront and push other elements to the background, indicating to our audience the general order in which they should process the information we are communicating.
+
+The power of super-categories
+
+In tables and graphs, it can sometimes be useful to leverage super-categories to organize the data and help provide a construct for your audience to use to interpret it. For example, if you’re looking at a table or graph that shows a value for 20 different demographic breakdowns, it can be useful to organize and clearly label the demographic breakdowns into groups or super-categories like age, race, income level, and education. These super-categories provide a hierarchical organization that simplifies the process of taking in the information.
+
+Let’s look at an example where a clear visual hierarchy has been established and discuss the specific design choices that were made to create it. Imagine you are a car manufacturer. Two important dimensions by which you judge the success of a particular make and model are (1) customer satisfaction and (2) frequency of car issues. A scatterplot could be useful to visualize how the current year’s models compare with the previous year’s average along these two dimensions, as shown inFigure 5.6.
+
+Figure 5.6Clear visual hierarchy of information
+
+Figure 5.6lets us quickly see how this year’s various models compare to last year’s average on the basis of both satisfaction and issues. The size and color of font and data points alert us where to pay attention and in what general order. Let’s consider the visual hierarchy of components and how they help us process the information presented. If I articulate the order in which I take in the information, it looks something like the following:
+
+First, I read the graph title: “Issues vs. Satisfaction by Model.” The bolding of Issues and Satisfaction signals that those words are important, so I have that context in mind as I process the rest of the visual.
+
+Next, I see they-axis primary label: “Things Gone Wrong.” I note that these fall along a scale from few (at the top) to many (at the bottom). After that, I note the details across the horizontalx-axis: Satisfaction, ranging from low (left) to high (right).
+
+I am then drawn to the dark grey point and corresponding words “Prior Year Average.” The lines drawing this point to the axes allow me quickly to see that the prior year’s average was around 900 issues per 1,000 and 72% satisfied or highly satisfied. This provides a useful construct for interpreting this year’s models.
+
+Finally, I am drawn to all of the red in the bottom right quadrant. The words tell me satisfaction is high, but there are many issues. It’s clear because of how the visual is constructed that these are cases where the level of issues is greater than it was for last year’s average. The red color reinforces that this is a problem.
+
+We previously discussed super-categories for easing interpretation. Here, the quadrant labels “High Satisfaction, Few Issues” and “High Satisfaction, Many Issues” function in this manner. In absence of these, I could spend time processing the axis titles and labels and eventually figure out that’s what these quadrants represent, but it’s a much easier process when the pithy titles are present, eliminating the need for this processing altogether. Note that the left quadrants aren’t labeled; labels are unnecessary since no values fall there.
+
+Additional data points and details are there for context, but they are pushed to the background to reduce the cognitive burden and simplify the visual.
+
+Upon sharing this visual with my husband, his reaction was “that’s not the order I paid attention—I went straight to the red.” That got me to thinking. First, I was surprised he started there, given that he’s red-green colorblind, but he said that the red was different enough from everything else in the visual that it still grabbed his attention. Second, I look at so many graphs that it’s ingrained in me to start with the details: the titles and axis titles to understand what I’m looking at before I get to the data. Others may look more quickly for the “so what.” If we approach that way, we’re drawn first to the bottom right quadrant since the red signals importance and that attention should be paid. After taking that in, perhaps we back up and read some of the other detail of the graph.
+
+In either case, the thoughtful and clear visual hierarchy establishes order for the audience to use to process the information in a complex visual without it feeling, well, complicated. For our audience, by highlighting the important stuff, eliminating distractions, and establishing a visual hierarchy, the data visualizations we create afford understanding.
+
+Accessibility
+
+The concept of accessibility says that designs should be usable by people of diverse abilities. Originally, this consideration was for those with disabilities, but over time the concept has grown more general, which is the way in which I’ll discuss it here. Applied to data visualization, I think of it as design that is usable by people of widely varying technical skills. You might be an engineer, but it shouldn’t take someone with an engineering degree to understand your graph. As the designer, the onus is onyouto make your graph accessible.
+
+Poor design: who is at fault?
+
+Well-designed data visualization—like a well-designed object—is easy to interpret and understand. When people have trouble understanding something, such as interpreting a graph, they tend to blame themselves. In most cases, however, this lack of understanding is not the user’s fault; rather, it points to fault in the design. Good design takes planning and thought. Above all else, good design takes into account the needs of the user. This is another reminder to keep your user—your audience—top-of-mind when designing your communications with data.
+
+For an example of accessibility in design, let’s consider the iconic London underground tube map. Harry Beck produced a beautifully simple design in 1933, recognizing that the above-ground geography is unimportant when navigating the lines and removing the constraints it imposed. Compared to previous tube maps, Beck’s accessible design rendered an easy-to-follow visual that became an essential guide to London and a template for transport maps around the world. It is that same map, with some minor modifications, that still serves London today.
+
+We’ll discuss two specific strategies related to accessibility in communicating with data: (1) don’t overcomplicate and (2) text is your friend.
+
+Don’t overcomplicate
+
+“If it’s hard to read, it’s hard to do.” This was the finding of research undertaken by Song and Schwarz at the University of Michigan in 2008. First, they presented two groups of students with instructions for an exercise regimen. Half the students received the instructions written in easy-to-read Arial font; the other half were given instructions in a cursive-like font called Brushstroke. Students were asked how long the exercise routine would take and how likely they wereto try it. The finding: the fussier the font, the more difficult the students judged the routineandthe less likely they were to undertake it. A second study using a sushi recipe had similar findings.
+
+Translation for data visualization: the more complicated it looks, the more time your audience perceives it will take to understand andthe less likely they are to spend time to understand it.
+
+As we’ve discussed, visual affordances can help in this area. Here are some additional tips to keep your visuals and communications from appearing overly complicated:
+
+Make it legible:use a consistent, easy-to-read font (consider both typeface and size).
+
+Keep it clean:make your data visualization approachable by leveraging visual affordances.
+
+Use straightforward language:choose simple language over complex, choose fewer words over more words, define any specialized language with which your audience may not be familiar, and spell out acronyms (at minimum, the first time you use them or in a footnote).
+
+Remove unnecessary complexity:when making a choice between simple and complicated, favor simple.
+
+This is not about oversimplifying, but rather not making things more complicated than they need to be. I once sat through a presentation given by a well-respected PhD. The guy was obviously smart. When he said his first five-syllable word, I found myself impressed with his vocabulary. But as his academic language continued, I started to lose patience. His explanations were unnecessarily complicated. His words were unnecessarily long. It took a lot of energy to pay attention. I found it hard to listen to what he was saying as my annoyance grew.
+
+Beyond annoying our audience by trying to sound smart, we run the risk of making our audience feel dumb. In either case, this is not a good user experience for our audience. Avoid this. If you find it hardto determine whether you are overcomplicating things, seek input or feedback from a friend or colleague.
+
+Text is your friend
+
+Thoughtful use of text helps ensure that your data visualization is accessible. Text plays a number of roles in communicating with data: use it to label, introduce, explain, reinforce, highlight, recommend, and tell a story.
+
+There are a few types of text that absolutely must be present. Assume that every chart needs a title and every axis needs a title (exceptions to this rule will beextremelyrare). The absence of these titles—no matter how clear you think it may be from context—causes your audience to stop and question what they are looking at. Instead, label explicitly so they can use their brainpower to understand the information, rather than spend it trying to figure out how to read the visual.
+
+Don’t assume that two different people looking at the same data visualization will draw the same conclusion. If there is a conclusion you want your audience to reach, state it in words. Leverage preattentive attributes to make those important words stand out.
+
+Action titles on slides
+
+The title bar at the top of your PowerPoint slide is precious real estate: use it wisely! This is the first thing your audience encounters on the page or screen and yet so often it gets used for redundant descriptive titles (for example, “2015 Budget”). Instead use this space for an action title. If you have a recommendation or something you want your audience to know or do, put it here (for example, “Estimated 2015 spending is above budget”). It means your audience won’t miss it and also works to set expectations for what will follow on the rest of the page or screen.
+
+When it comes to words in data visualization, it can sometimes be useful to annotate important or interesting points directly on a graph. You can use annotation to explain nuances in the data, highlight something to pay attention to, or describe relevant external factors. One of my favorite examples of annotation in data visualization isFigure 5.7by David McCandless, “Peak Break-up Times According to Facebook Status Updates.”
+
+Figure 5.7Words used wisely
+
+As we follow the annotations from left to right inFigure 5.7, we see a small increase on Valentine’s Day, then large peaks in the weeks of Spring Break (cleverly subtitled “Spring clean?”). There’s a spike on April Fool’s Day. The trend of break-ups on Mondays is highlighted. A gentle rise and fall in break-ups is observed over summer holiday. Then we see a massive increase leading up to the holidays, but a sharp drop-off at Christmas, because clearly breaking up with someone then would simply be “Too Cruel.”
+
+Note how a few choice words and phrases make this data so much more quickly accessible than it otherwise would be.
+
+As a side note, inFigure 5.7, the guidance I previously put forth about always titling the axes has not been followed. In this case, this is by design. Of more interest than the specific metric being plotted are the relative peaks and valleys. By not labeling the vertical axis (with either title or labels), you simply can’t get caught up in a debate about it (What is being plotted? How is it being calculated? Do I agree with it?). This was a conscious design choice and won’t be appropriate in most situations but, as we see in this case, can—in rare instances—work well.
+
+In the context of accessibility via text, let’s revisit the ticket example we examined in Chapters 3 and 4.Figure 5.8shows where we left off after eliminating clutter and drawing attention to where we want our audience to focus via data markers and labels.
+
+Figure 5.8Let’s revisit the ticket example
+
+Figure 5.8is a pretty picture, but it doesn’t mean much without words to help us make sense of it.Figure 5.9resolves this issue, adding the requisite text.
+
+Figure 5.9Use words to make the graph accessible
+
+InFigure 5.9, we’ve added the words that have to be there: graph title, axis titles, and a footnote with the data source. InFigure 5.10, we take it a step further by adding a call to action and annotation.
+
+Figure 5.10Add action title and annotation
+
+InFigure 5.10, thoughtful use of text makes the design accessible. It’s clear to the audience what they are looking at as well as what they should pay attention to and why.
+
+Aesthetics
+
+When it comes to communicating with data, is it really necessary to “make it pretty?” The answer is a resoundingYes.People perceive more aesthetic designs as easier to use than less aesthetic designs—whether they actually are or not. Studies have shown that more aesthetic designs are not only perceived as easier to use, but also more readily accepted and used over time, promote creative thinking and problem solving, and foster positive relationships, making people more tolerant of problems with designs.
+
+A great example of the tolerance with problems that good aesthetics can foster is a former bottle design of Method liquid dishwashing soap, pictured inFigure 5.11. The anthropomorphic form rendered the soap an art piece—something to be displayed, not hidden away under the counter. This bottle design was wildly effectivein spite ofleakage issues. People were willing to overlook the inconvenience of the leaking bottle due to its appealing aesthetics.
+
+Figure 5.11Method liquid dishwashing soap
+
+In data visualization—and communicating with data in general—spending time to make our designs aesthetically pleasing can mean our audience will have more patience with our visuals, increasing our chance of success for getting our message across.
+
+If you aren’t confident in your ability to create aesthetic design, look for examples of effective data visualization to follow. When you see a graph that looks nice, pause to consider what you like about it. Perhaps save it and build a collection of inspiring visuals. Mimic aspects from effective designs to create your own.
+
+More specifically, let’s discuss a few things to consider when it comes to aesthetic designs of data visualization. We’ve previously covered the main lessons relevant to aesthetics, so I’ll touch on them here only briefly and then we’ll discuss a specific example to see how being mindful of aesthetics can improve our data visualization.
+
+Be smart with color.The use of color should always be an intentional decision; use color sparingly and strategically to highlight the important parts of your visual.
+
+Pay attention to alignment.Organize elements on the page to create clean vertical and horizontal lines to establish a sense of unity and cohesion.
+
+Leverage white space.Preserve margins; don’t stretch your graphics to fill the space, or add things simply because you have extra space.
+
+Thoughtful use of color, alignment, and white space are components of the design that you don’t even notice when they are done well. But you notice when they aren’t: rainbow colors, and lacking alignment and white space, make for a visual that’s simply uncomfortable to look at. It feels disorganized and like no attention was paid to detail. This shows a lack of respect for your data and your audience.
+
+Let’s look at an example: seeFigure 5.12. Imagine you work for a prominent U.S. retailer. The graph depicts the breakdown of the U.S. Population and Our Customers by seven customer segments (for example, age ranges).
+
+Figure 5.12Unaesthetic design
+
+We can leverage the lessons covered to make smarter design choices. Specifically, let’s discuss how we can improveFigure 5.12when it comes to the use of color, alignment, and white space.
+
+Color is overused. There are too many colors, and they compete for our attention, making it difficult to focus on one at a time. Going back to the lesson on affordances, we should think about what we want to highlight to our audience andonly use color there.In this case, the red box around segments 3 through 5 on the right signals that those segments are important, but there are so many things competing for our attention that it takes some time to even see that. We can make this a more obvious and easier process by using color strategically.
+
+Elements are not properly aligned. The center alignment of the graph title makes it so it isn’t aligned with anything else in the visual. The segment titles at the left aren’t aligned to create a clean line either on the left or right. This looks sloppy.
+
+Finally, white space is misused. There is too much of it between the segment titles and data, which makes it challenging to draw your eye from the segment title to the data (I have an urge to use my index finger to trace across: we can reduce white space between the titles and data, so this work is unnecessary). The white space between the columns of data is too narrow to optimally emphasize the data and cluttered with unneeded dotted lines.
+
+Figure 5.13shows how the same information could look if we remedy these design issues.
+
+Figure 5.13Aesthetic design
+
+Aren’t you more likely to spend a little more time withFigure 5.13? It is clear that attention to detail was paid to the design: it took the designer time to get this result. This creates a sort of onus on the part of the audience to spend time to understand it (this sort of contract doesn’t exist with poor design). Being smart with color, aligning objects, and leveraging white space brings a sense of visual organization to your design. This attention to aesthetics shows a general respect for your work and your audience.
+
+Acceptance
+
+For a design to be effective, it must be accepted by its intended audience. This adage is true whether the design in question is that of a physical object or a data visualization. But what should you do when your audience isn’t accepting of your design?
+
+In my workshops, audience members regularly raise this dilemma:I want to improve the way we look at things, but when I’ve tried to make changes in the past, my efforts have been met with resistance. People are used to seeing things a certain way and don’t want us to mess with that.
+
+It is a fact of human nature that most people experience some level of discomfort with change. Lidwell et al. inUniversal Principles of Design(2010) describe this tendency of general audiences to resist the new because of their familiarity with the old. Because of this, making significant changes to “the way we’ve always done it” may require more work to gain acceptance than simply replacing the old with the new.
+
+There are a few strategies you can leverage for gaining acceptance in the design of your data visualization:
+
+Articulate the benefits of the new or different approach.Sometimes simply giving people transparency intowhythings will look different going forward can help them feel more comfortable. Are there new or improved observations you can make by looking at the data in a different way? Or other benefits you can articulate to help convince your audience to be open to the change?
+
+Show the side-by-side.If the new approach is clearly superior to the old, showing them side-by-side will demonstrate this. Couple this with the prior approach by showing the before-and-afterandexplaining why you want to shift the way you’re looking at things.
+
+Provide multiple options and seek input.Rather than prescribing the design, consider creating several options and getting feedbackfrom colleagues or your audience (if appropriate) to determine which design will best meet the given needs.
+
+Get a vocal member of your audience on board.Identify influential members of your audience and talk to them one-on-one in an effort to gain acceptance of your design. Ask for their feedback and incorporate it. If you can get one or a couple of vocal members of your audience bought in, others may follow.
+
+One thing to consider if you find yourself met with resistance is whether the root problem is that your audience is slow to changeorif there might be issues with the design you are proposing. Test this by getting input from someone who doesn’t have a vested interest. Show them your data visualization. If appropriate, also show the historical or current visuals. Have them talk you through their thought process as they review the visual. What do they like? What questions do they have? Which visual do they prefer and why? Hearing these things from a nonbiased third party may help you uncover issues with your design that are leading to the adoption challenge you face with your audience. The conversation may also help you articulate talking points that will help you drive the acceptance you seek from your audience.
+
+In closing
+
+By understanding and employing some traditional design concepts, we set ourselves up for success in communicating with data. Offer your audience visual affordances as cues for how to interact with your communication: highlight the important stuff, eliminate distractions, and create a visual hierarchy of information. Make your designs accessible by not overcomplicating and by leveraging text to label and explain. Increase your audience’s tolerance of design issues by making your visuals aesthetically pleasing. Employ the strategies discussed for gaining audience acceptance for your visual designs.
+
+Congratulations! You now know the 5th lesson in storytelling with data: how tothink like a designer.

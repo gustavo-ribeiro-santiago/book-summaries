@@ -1,0 +1,273 @@
+chapter 9case studies
+
+At this point, you should feel like you have a solid foundation for communicating effectively with data. In this penultimate chapter, we explore strategies for tackling common challenges faced when communicating with data through a number of case studies.
+
+Specifically, we’ll discuss:
+
+Color considerations with a dark background
+
+Leveraging animation in the visuals you present
+
+Establishing logic in order
+
+Strategies for avoiding the spaghetti graph
+
+Alternatives to pie charts
+
+Within each of these case studies, I’ll apply the various lessons we’ve covered when it comes to communicating effectively with data, but will limit my discussion mainly to the specific challenge at hand.
+
+CASE STUDY 1: Color considerations with a dark background
+
+When it comes to communicating data, I don’t typically recommend anything other than a white background. Let’s take a look at what a simple graph looks like on a white, blue, and black background. SeeFigure 9.1.
+
+Figure 9.1Simple graph on white, blue, and black background
+
+If you had to describe in a single word how the blue and black backgrounds inFigure 9.1make you feel, what would that word be? For me, it would beheavy.With the white background, I find it easy to focus on the data. The dark backgrounds, on the other hand, pull my eyes there—to the background—and away from the data. Light elements on a dark background can create a stronger contrast but are generally harder to read. Because of this, I typically avoid dark and colored backgrounds.
+
+That said, sometimes there are considerations outside of the ideal scenario for communicating with data that must be taken into account, such as your company or client’s brand and corresponding standard template. This was the challenge I faced in one consulting project.
+
+I didn’t recognize this immediately. It was only after I had completed my initial revamp of the client’s original visual that I realized it just didn’t quite fit with the look and feel of the work products I’d seen from the client group. Their template was bold and in your face with a mottled, black background spiked with bright, heavily saturatedcolors. In comparison, my visual felt rather meek.Figure 9.2shows a generalized version of my initial makeover of a visual displaying employee survey feedback.
+
+Figure 9.2Initial makeover on white background
+
+In an endeavor to create something more in sync with the client’s brand, I remade my own makeover, leveraging the same dark background I’d seen used in some of the other examples shared. In doing so, I had to reverse my normal thought process. With a white background, the further a color is from white, the more it will stand out (so grey stands out less, whereas black stands out very much). With a black background, the same is true, but black becomes the baseline (so grey stands out less, and white stands out very much). I also realized some colors that are typically verboten with a white background (for example,yellow) areincredibly attention grabbing against black(I didn’t use yellow in this particular example but did in some others).
+
+Figure 9.3depicts how my “more in line with the client’s brand” version of the visual looked.
+
+Figure 9.3Remake on dark background
+
+While the content is exactly the same, note how differentFigure 9.3feels compared toFigure 9.2. This is a good illustration of how color can impact the overall tone of a visualization.
+
+CASE STUDY 2: Leveraging animation in the visuals you present
+
+One conundrum commonly faced when communicating with data is when a single view of the data is used for both presentation and report. When presenting content in a live setting, you want to be able to walk your audience through the story, focusing on just the relevant part of the visual. However, the version that gets circulated to your audience—as a pre-read or takeaway, or for those who weren’t able to attend the meeting—needs to be able to stand on its own without you, the presenter, there to walk the audience through it.
+
+Too often, we use the exact same content and visuals for both purposes. This typically renders the content too detailed for the live presentation (particularly if it is being projected on the big screen) and sometimes not detailed enough for the circulated content. This givesrise to the slideument—part presentation, part document, and not exactly meeting the needs of either—which we touched upon briefly in Chapter 1. In the following, we’ll look at a strategy for leveraging animation coupled with an annotated line graph to meet both the presentation and circulation needs.
+
+Let’s assume that you work for a company that makes online social games. You are interested in telling the story around how active users for a given game—let’s call it Moonville—have grown over time.
+
+You could useFigure 9.4to talk about growth since the launch of the game in late 2013.
+
+Figure 9.4Original graph
+
+The challenge, however, is that when you put this much data in front of your audience, you lose control over their attention. You might be talking about one part of the data while they are focusing somewhere else entirely. Perhaps you want to tell the story chronologically, but your audience may jump immediately to the sharp increase in 2015 and wonder what drove that. When they do so, they stop listening to you.
+
+Alternatively, you can leverage animation to walk your audience through your visual as you tell the corresponding points of the story. For example, I could start with a blank graph. This forces the audience to look at the graph details with you, rather than jump straight to the data and start trying to interpret it. You can use this approach to build anticipation within your audience that will help you to retain their attention. From there, I subsequently show or highlightonly the data that is relevant to the specific point I am making, forcing the audience’s attention to be exactly where I want it as I am speaking.
+
+I might say—and show—the following progression:
+
+Today, I’m going to talk you through a success story: the increase in Moonville users over time. First, let me set up what we are looking at. On the verticaly-axis of this graph, we’re going to plot active users. This is defined as the number of unique users in the past 30 days. We’ll look at how this has changed over time, from the launch in late 2013 to today, shown along the horizontalx-axis.(Figure 9.5)
+
+Figure 9.5
+
+We launched Moonville in September 2013. By the end of that first month, we had just over 5,000 active users, denoted by the big blue dot at the bottom left of the graph.(Figure 9.6)
+
+Figure 9.6
+
+Early feedback on the game was mixed. In spite of this—and our practically complete lack of marketing—the number of active users nearly doubled in the first four months, to almost 11,000 active users by the end of December.(Figure 9.7)
+
+Figure 9.7
+
+In early 2014, the number of active users increased along a steeper trajectory. This was primarily the result of the friends and family promotions we ran during this time to increase awareness of the game.(Figure 9.8)
+
+Figure 9.8
+
+Growth was pretty flat over the rest of 2014 as we halted all marketing efforts and focused on quality improvements to the game.(Figure 9.9)
+
+Figure 9.9
+
+Uptake this year, on the other hand, has been incredible, surpassing our expectations. The revamped and improved game has gone viral. The partnerships we’ve forged with social media channels have proven successful for continuing to increase our active user base. At recent growth rates, we anticipate we’ll surpass 100,000 active users in June!(Figure 9.10)
+
+Figure 9.10
+
+For the more detailed version that you circulate as a follow up or for those who missed your (stellar) presentation, you can leverage a version that annotates the salient points of the story on the line graph directly, as shown inFigure 9.11.
+
+Figure 9.11
+
+This is one strategy for creating a visual (or, in this case, set of visuals) that meets both the needs of your live presentation and the circulated version. Note that with this approach, it is imperative that you know your story well to be able to narrate without relying on your visuals (something you should always aim for regardless).
+
+If you’re leveraging presentation software, you can set up all of the above on a single slide and use animation for the live presentation, having each image appear and disappear as needed to form the desired progression. Put the final annotated version on top so it’s all that shows on the printed version of the slide. If you do this, you can use the exact same deck for the presentation and the communication that you circulate. Alternatively, you can put each graph on a separate slide and flip through them; in this case, you’d only want to circulate the final annotated version.
+
+CASE STUDY 3: Logic in order
+
+There should be logic in the order in which you display information.
+
+The above statement probably goes without saying. Yet, like so many things that seem logical when we read them or hear them or say them out loud, too often we don’t put them into practice. This is one such example.
+
+While I would say my introductory sentence is universally true, I’ll focus here on a very specific example to illustrate the concept: leveraging order for categorical data in a horizontal bar chart.
+
+First, let’s set the context. Let’s say you work at a company that sells a product that has various features. You’ve recently surveyed your users to understand whether they are using each of the features and how satisfied they’ve been with them and want to put that data to use. The initial graph you create might look something likeFigure 9.12.
+
+Figure 9.12User satisfaction, original graph
+
+This is a real example, andFigure 9.12shows the actual graph that was created for this purpose, with the exception that I’ve replaced the descriptive feature names with Feature A, Feature B, and so on. There is an order here—if we stare at the data for a bit, we find that it is arranged in decreasing order of the “Very satisfied” group plus the “Completely satisfied” group (the teal and dark teal segments on the right side of the graph). This may suggest that is where we should pay attention. But from a color standpoint, my eyes are drawn first to the bold black “Have not used” segment. And if we pause to think about what the data shows, it would perhaps be the areas of dissatisfaction that would be of most interest.
+
+Part of the challenge here is that the story—the “so what”—of this visual is missing. We could tell a number of different stories and focus on a number of different aspects of this data. Let’s look at a couple of ways to do this, with an eye towards leveraging order.
+
+First, we could think about highlighting the positive story: where our users are most satisfied. SeeFigure 9.13.
+
+Figure 9.13Highlight the positive story
+
+InFigure 9.13, I’ve ordered the data clearly by putting “Completely satisfied” plus “Very satisfied” in descending order—the same as in the original graph—but I’ve made it much more obvious here through other visual cues (namely, color, but also the positioning of the segments as the first series in the graph, so the audience’s attention hits it first as they scan from left to right). I’ve also used words to help explainwhyyour attention is drawn to where it is via the action title at the top, which calls out what you should be seeing in the visual.
+
+We can leverage these same tactics—order, color, placement, and words—to highlight a different story within this data: where users are least satisfied. SeeFigure 9.14.
+
+Figure 9.14Highlight dissatisfaction
+
+Or perhaps the real story here is in the unused features, which could be highlighted as shown inFigure 9.15.
+
+Figure 9.15Focus on unused features
+
+Note that inFigure 9.15, you can still get to the differing levels of satisfaction (or lack thereof) within each bar, but they’ve been pushed back to a second-order comparison due to the color choices I’ve made, while the relative rank ordering of the “Have not used” segment is the clear primary comparison on which my audience is meant to focus.
+
+If we want to tell one of the above stories, we can leverage order, color, position, and words as I’ve shown to draw our audience’s attention to where we want them to pay it in the data. If we want to tellall threestories, however, I’d recommend a slightly different approach.
+
+It isn’t very nice to get your audience familiar with the data only to completely rearrange it. Doing so creates a mental tax—the same sort of unnecessary cognitive burden that we discussed in Chapter 3 that we want to avoid. Let’s create a base visual and preserve the same order so our audience only has to familiarize themselves with the detail once—highlighting the different stories one at a time through strategic use of color.
+
+Figure 9.16depicts our base visual, without anything highlighted. If I were presenting this to an audience, I’d use this version to walk them through what they are looking at: survey responses to the question, “How satisfied have you been with each of these features?”—ranging from the positive “Completely satisfied” at the right to “Not satisfied at all” and, finally, “Have not used” at the far left (leveraging the natural association of positive at the right and negative at the left). Then I’d pause to tell each of the stories in succession.
+
+Figure 9.16Set up the graph
+
+First comes a visual similar to what we started with in the last series that highlights where users are the most satisfied. In this version, I’ve leveraged different shades of blue to draw attention not only to the proportion of users who are satisfied but specifically to Features A and B within those segments that rank highest, tying these bars visually to the text that illustrates my point. SeeFigure 9.17.
+
+Figure 9.17Satisfaction
+
+This is followed by a focus on the other end of the spectrum to where users are least satisfied, again calling out and highlighting specific points of interest. SeeFigure 9.18.
+
+Figure 9.18Dissatisfaction
+
+Note how it isn’t as easy to see the relative rank ordering of the features highlighted inFigure 9.18as it was when they were put in descending order (Figure 9.14) because they aren’t aligned along a common baseline to either the left or the right. We can still relatively quickly see the primary areas of dissatisfaction (Features J and N) since they are so much bigger than the other categories and because of the color emphasis. I’ve added a callout box to highlight this through text as well.
+
+Finally, preserving the same order, we can draw our audience’s attention to the unused features. SeeFigure 9.19.
+
+Figure 9.19Unused features
+
+InFigure 9.19, it is easier to see the rank ordering (even though the categories aren’t monotonically increasing from top to bottom) because of the alignment to a consistent baseline at the left of the graph. Here, we want our audience to focus mainly on the very bottom feature in the graph—Feature O. Since we’re trying to preserve the established order and can’t do this by putting it at the top (where the audience would encounter it first), the bold color and callout box help draw attention to the bottom of the graph.
+
+The preceding views show the progression I’d use in a live presentation. The sparing and strategic use of color lets me direct my audience’s attention to one component of the data at a time. If you are creating a written document to be shared directly with your audience, you might compress all of these views into a single, comprehensive visual, as shown inFigure 9.20.
+
+Figure 9.20Comprehensive visual
+
+When I processFigure 9.20, my eyes do a number of zigzagging “z’s” across the page. First, I see the bold “Features” in the graph title. Then I’m drawn to the dark blue bars—which I follow across to the dark blue text box that tells me what’s interesting about what I’m looking at (you’ll note my text here is mostly descriptive, mainly due to the anonymity of the example; ideally this space would be used to provide greater insight). Next, I hit the orange text box, read it, and glance back leftward to see the evidence in the graph that supports it. Finally, I see the teal bar emphasized at the bottom and look across to see the text that describes it. Strategic use of color sets the various series apart from one another while also making it clear where the audience should look for the specific evidence of what is being described in the text.
+
+Note that withFigure 9.20it is harder for your audience to formotherconclusions with the data, since attention is drawn so strongly to the particular points I want to highlight. But as we’ve discussed repeatedly, once you’ve reached the point of needing to communicate,there should be a specific story or point that you want to highlight,rather than let your audience draw their own conclusions.Figure 9.20is too dense for a live presentation but could work well for the document that will be circulated.
+
+I’ve mentioned this previously but would feel remiss not to point out that in some cases there is intrinsic order in the data you want to show (ordinal categories). For example, instead of features, if the categories were age ranges (0–9, 10–19, 20–29, etc.), you should keep those categories in numerical order. This provides an important construct for the audience to use as they interpret the information. Then use the other methods of drawing attention (through color, position, callout boxes with text) to direct the audience’s attention to where you want them to pay it.
+
+Bottom line: there should be logic in the order of the data you show.
+
+CASE STUDY 4: Strategies for avoiding the spaghetti graph
+
+While I very much enjoy food, I have a distaste for any chart type that has food in its title. My hatred of pie charts is well documented. Donuts are even worse. Here is another to add to the list: the spaghetti graph.
+
+If you aren’t sure if you’ve seen a spaghetti graph before, I’ll bet that you have. A spaghetti graph is a line graph where the lines overlap a lot, making it difficult to focus on a single series at a time. They look something likeFigure 9.21.
+
+Figure 9.21The spaghetti graph
+
+Graphs likeFigure 9.21are known as spaghetti graphs because they look like someone took a handful of uncooked spaghetti noodles and threw them on the ground. And they are about as informative as those haphazard noodles would be as well …
+
+which is to say …
+
+not at all.
+
+Note how difficult it is to concentrate on a single line within that mess, due to all of the crisscrossing and because so much is competing for your attention.
+
+There are a few strategies for taking the would-be-spaghetti graph and creating more visual sense of the data. I’ll cover three such strategies and show them applied in a couple of different ways to thedata graphed inFigure 9.21, which shows types of nonprofits supported by funders in a given area. First, we’ll look at an approach you should be familiar with by now: using preattentive attributes to emphasize a single line at a time. After that, we’ll look at a couple of views that separate the lines spatially. Then finally, we’ll look at a combined approach that leverages elements of these first two strategies.
+
+Emphasize one line at a time
+
+One way to keep the spaghetti graph from becoming visually overwhelming is to use preattentive attributes to draw attention to a single line at a time. For example, we could focus our audience on the increase in the percentage of funders donating over time to health nonprofits. SeeFigure 9.22.
+
+Figure 9.22Emphasize a single line
+
+Or we could use the same strategy to emphasize the decrease in the percentage of funders donating to education-related nonprofits. SeeFigure 9.23.
+
+Figure 9.23Emphasize another single line
+
+InFigures 9.22and9.23, color, thickness of line, and added marks (the data marker and data label) act as visual cues to draw attention to where we want our audience to focus. This strategy can work well in a live presentation, where you explain the details of the graph once (as we’ve seen in the recent case studies), then cycle through the various data series in this manner, highlighting what is interesting or should be paid attention to with each and why. Note that we need either this voiceover or the addition of text to make it clear why we are highlighting the given data and provide the story for our audience.
+
+Separate spatially
+
+We can untangle the spaghetti graph by pulling the lines apart either vertically or horizontally. First, let’s look at a version where the lines are pulled apart vertically. SeeFigure 9.24.
+
+Figure 9.24Pull the lines apart vertically
+
+InFigure 9.24, the samex-axis (year, shown at the top) is leveraged across all of the graphs. In this solution, I’ve created five separate graphs but organized them such that they appear to be a single visual. They-axis within each graph isn’t shown; rather, the starting and ending point labels are meant to provide enough context so that the axis is unnecessary. Though they aren’t shown, it is important that they-axis minimum and maximum are the same for each graph so the audience can compare the relative position of each line or point within the given space. If you were to shrink these down, they would look similar to what Edward Tufte calls “sparklines” (a very small line graph typically drawn without axis or coordinates to show the general shape of the data;Beautiful Evidence, 2006).
+
+This approach assumes that being able to see the trend for a given category (Health, Education, etc.) is more important than comparingthe values across categories. If that isn’t the case, we can consider pulling the data apart horizontally, as illustrated inFigure 9.25.
+
+Figure 9.25Pull the lines apart horizontally
+
+Whereas inFigure 9.24we leveraged thex-axis (years) across the five categories, inFigure 9.25we leverage the samey-axis (percent of funders) across the five categories. Here, the relative height of the various data series allows them to more easily be compared with each other. We can quickly see that the highest percentage of funders in 2015 donate to Health, a lower percentage to Education, an even lower percentage to Human Services, and so on.
+
+Combined approach
+
+Another option is to combine the approaches we’ve outlined so far. We can separate spatiallyandemphasize a single line at a time, while leaving the others there for comparison but pushing them to the background. As was the case with the prior approach, we can do this by separating the lines vertically (Figure 9.26) or horizontally (Figure 9.27).
+
+Figure 9.26Combined approach, with vertical separation
+
+Having a number of small graphs together, as shown inFigure 9.27, is sometimes referred to as “small multiples.” As noted previously, it’s imperative here that the details of each graph (thex- andy-axis minimum and maximum) are the same so that the audience can quickly compare the highlighted series across the various graphs.
+
+Figure 9.27Combined approach, with horizontal separation
+
+This approach, shown inFigures 9.26and9.27, can work well if the context of the full dataset is important but you want to be able to focus on a single line at a time. Because of the denseness of information, this combined approach may work better for a report or presentation that will be circulated rather than a live presentation, where it will be more challenging to direct your audience where you want them to look.
+
+As is frequently the case, there is not a single “right” answer. Rather, the solution that will work best will vary by situation. The meta-lesson is: if you find yourself facing a spaghetti graph, don’t stop there. Think about what information you want to most convey, what story you want to tell, and what changes to the visual could help you accomplish that effectively. Note that in some cases, this may mean showing less data altogether. Ask yourself: Do I need all categories? All years? When appropriate, reducing the amount of data shown can make the challenge of graphing data like that shown in this example easier as well.
+
+CASE STUDY 5: Alternatives to pies
+
+Recall the scenario we discussed in Chapter 1 about the summer learning program on science. To refresh your memory: you just completed a pilot summer program on science aimed at improving perceptions of the field among 2nd and 3rd grade elementary children. You conducted a survey going into the program and at the end of the program, and want to use this data as evidence of the success of the pilot program in your request for future funding.Figure 9.28shows a first attempt at graphing this data.
+
+Figure 9.28Original visual
+
+The survey data demonstrates that, on the basis of improved sentiment toward science, the pilot program was a great success. Going into the program, the biggest segment of students (40%, the green slice inFigure 9.28, left) felt just “OK” about science—perhaps they hadn’t made up their minds one way or the other. However, after the program (Figure 9.28, right), we see the 40% in green shrinks down to 14%. “Bored” (blue) and “Not great” (red) went up a percentage point each, but the majority of the change was in a positive direction. After the program, nearly 70% of kids (purple plus teal segments) expressed some level of interest toward science.
+
+Figure 9.28does this story a great disservice. I shared my less-than-favorable view on pie charts in Chapter 2, so I hope this judgment is not met with surprise. Yes, you can get to the story fromFigure 9.28, but you have to work for it and overcome the annoyance of trying to compare segments across two pies. As we’ve discussed, we want to limit or eliminate the work your audience has to do to get at the information, and we certainly don’t want to annoy them. We can avoid such challenges by choosing a different type of visual.
+
+Let’s take a look at four alternatives for displaying this data—show the numbers directly, simple bar graph, stacked horizontal bar graph, and slopegraph—and discuss some considerations with each.
+
+Alternative #1: show the numbers directly
+
+If the improvement in positive sentiment is the main message we want to impart to our audience, we can consider making that the only thing we communicate. SeeFigure 9.29.
+
+Figure 9.29Show the numbers directly
+
+Too often, we think we have to include all of the data and overlook the simplicity and power of communicating with just one or two numbers directly, as demonstrated inFigure 9.29. That said, if you feel you need to show more, look to one of the following alternatives.
+
+Alternative #2: simple bar graph
+
+When you want to compare two things, you should generally put those two things as close together as possible and align them along a common baseline to make this comparison easy. The simple bar graph does this by aligning the Before and After survey responses with a consistent baseline at the bottom of the graph. SeeFigure 9.30.
+
+Figure 9.30Simple bar graph
+
+I am partial to this view for this specific example because the layout makes it possible to put the text boxes right next to the data points they describe (note that other data is there for context but is slightly pushed to the background through the use of lighter colors). Also, by having Before and After as the primary classification, I’m able to limit the visual to two colors—grey and blue—whereas three colors will be used in the following alternatives.
+
+Alternative #3: 100% stacked horizontal bar graph
+
+When the part-to-whole concept is important (something you don’t get with either Alternative #1 or #2), the stacked 100% horizontal bar graph achieves this. SeeFigure 9.31. Here, you get a consistent baseline to use for comparison at the left and at the right of the graph. This allows the audience to easily compare both the negative segments at the left and the positive segments at the right across the two bars and, because of this, is a useful way to visualize survey data in general.
+
+Figure 9.31100% stacked horizontal bar graph
+
+InFigure 9.31, I chose to retain thex-axis labels rather than put data labels on the bars directly. I tend to do it this way when leveraging 100% stacked bars so that you can use the scale at the top to read either from left to right or from right to left. In this case, it allows us to attribute numbers to the change from Before to After on the negative end of the scale (“Bored” and “Not great”)orfrom right to left, doing the same for the positive end of the scale (“Kind of interested” and “Excited”). In the simple bar graph shown previously (Figure 9.30), I chose to omit the axis and label the bars directly. This illustrates how different views of your data may lead you to different design choices. Always think about how you want your audience to use the graph and make your design choices accordingly: different choices will make sense in different situations.
+
+Alternative #4: slopegraph
+
+The final alternative I’ll present here is a slopegraph. As was the case with the simple bar chart, you don’t get a clear sense of there being a whole and thus pieces-of-a-whole in this view (in the way that youdo with the initial pie or with the 100% horizontal stacked bar). Also, if it is important to have your categories ordered in a certain way, a slopegraph won’t always be ideal since the various categories are placed according to the respective data values. InFigure 9.32on the right-hand side, you do get the positive end of the scale at the top, but note that “Bored” and “Not great” at the bottom are switched relative to how they’d appear in an ordinal scale because of the values that correspond with these points. If you need to dictate the category order, use the simple bar graph or the 100% stacked bar graph, where you can control this.
+
+Figure 9.32Slopegraph
+
+With the slopegraph inFigure 9.32, you can easily see the visual percentage change from Before to After for each category via the slope of the respective line. It’s easy to see quickly that the category that increased the most was “Excited” (due to the steep slope) and the category that decreased markedly was “OK.” The slopegraph also provides clear visual ordering of categories from greatest to least (via their respective points in space from top to bottom on the left and right sides of the graph).
+
+Any of these alternatives might be the best choice given the specific situation, how you want your audience to interact with the information, and what point or points of emphasis you want to make. The big lesson here is that you have a number of alternatives to pies that can be more effective for getting your point across.
+
+In closing
+
+In this chapter, we discussed considerations and solutions for tackling several common challenges faced when communicating visually with data. Inevitably, you’ll face data visualization challenges that I have not addressed. There is as much to be learned from the critical thinking that goes into solving some of these scenarios as there is from the “answer” itself. As we’ve discussed, when it comes to data visualization, rarely is there a single correct path or solution.
+
+Even more examples
+
+For more case studies like the ones we’ve considered here, check out my blog atstorytellingwithdata.com, where you’ll find a number of before-and-after examples leveraging the lessons that we’ve learned.
+
+When you find yourself in a situation where you are unsure how to proceed, I nearly always recommend the same strategy: pause to consider your audience. What do you need them to know or do? What story do you aim to tell them? Often, by answering these questions, a good path for how to present your data will become clear. If one doesn’t, try several views and seek feedback.
+
+My challenge to you is to consider how you can apply all of the lessons we’ve learned and your critical thinking skills to the various and varied data visualization challenges you face. The responsibility—and the opportunity—to tell a story with data is yours.

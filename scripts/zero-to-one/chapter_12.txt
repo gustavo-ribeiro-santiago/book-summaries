@@ -1,0 +1,369 @@
+MANANDMACHINE
+
+ASMATUREINDUSTRIES stagnateinformationtechnologyhasadvancedsorapidlythatithasnowbecome
+
+synonymouswithÐtechnologyÑitselfTodaymorethanbillionpeopleenjoyinstantaccesstothe
+
+worldÓsknowledgeusingpocketsizeddevicesEveryoneoftodayÓssmartphoneshasthousandsof timesmoreprocessingpowerthanthecomputersthatguidedastronautstothemoonAndifMooreÓs
+
+lawcontinuesapacetomorrowÓscomputerswillbeevenmorepowerful
+
+Computersalreadyhaveenoughpowertooutperformpeopleinactivitiesweusedtothinkofas
+
+distinctivelyhuman In IBMÓsDeep Blue defeated world chess championGarry Kasparov
+
+JeopardyÓsbestevercontestantKenJenningssuccumbedtoIBMÓsWatsoninAnd GoogleÓs
+
+selfdrivingcarsarealreadyonCaliforniaroadstodayDaleEarnhardtJrneednÓtfeelthreatenedby
+
+thembuttheGuardianworriesonbehalfofthemillionsofchauffeursandcabbiesintheworldthat
+
+selfdrivingcarsÐcoulddrivethenextwaveofunemploymentÑ
+
+EveryoneexpectscomputerstodomoreinthefutureÏsomuchmorethatsomewonderyears
+
+from now will there be anything left for people to do? ÐSoftware is eating the worldÑ venture
+
+capitalistMarc Andreessen has announced with a tone of inevitability VCAndy Kessler sounds
+
+almost gleeful when he explains that the best way to create productivity is Ðto get rid of peopleÑ
+
+ForbescapturedamoreanxiousattitudewhenitaskedreadersWillamachinereplaceyou?
+
+FuturistscanseemliketheyhopetheanswerisyesLudditesaresoworriedaboutbeingreplaced
+
+thattheywouldratherwestopbuildingnewtechnologyaltogetherNeithersidequestionsthepremise
+
+thatbettercomputerswillnecessarilyreplacehumanworkersButthatpremiseiswrongcomputers
+
+arecomplementsforhumansnotsubstitutesThemostvaluablebusinessesofcomingdecadeswillbe
+
+builtbyentrepreneurswhoseektoempowerpeopleratherthantrytomakethemobsolete
+
+SUBSTITUTIONVSCOMPLEMENTARITY
+
+Fifteen years agoAmerican workers were worried about competition from cheaper Mexican
+
+substitutesAndthatmadesensebecausehumansreallycansubstituteforeachotherTodaypeople
+
+think they can hearRoss PerotÓs Ðgiant sucking soundÑ once more but they trace it back to server
+
+farmssomewhereinTexasinsteadofcutratefactoriesinTijuanaAmericansfeartechnologyinthe
+
+nearfuturebecausetheyseeitasareplayoftheglobalizationofthenearpastButthesituationsare
+
+verydifferentpeoplecompeteforjobsandforresourcescomputerscompeteforneither
+
+GlobalizationMeansSubstitution
+
+WhenPerotwarnedaboutforeigncompetitionbothGeorgeHWBushandBillClintonpreachedthe
+
+gospel offreetradesinceeverypersonhasarelativestrengthatsomeparticularjobintheorythe
+
+economymaximizeswealthwhenpeoplespecializeaccordingtotheiradvantagesandthentradewith
+
+each other In practice itÓs not unambiguously clear how well free trade has worked for many
+
+workers at least Gains from trade are greatest when thereÓs a big discrepancy in comparative
+
+advantage but the global supply of workers willing to do repetitive tasks for an extremely small
+
+wageisextremelylarge
+
+PeopledonÓtjustcompetetosupplylabortheyalsodemandthesameresourcesWhileAmerican
+
+consumers have benefited from access to cheap toys and textiles fromChina theyÓve had to pay
+
+higher prices for the gasoline newly desired by millions of Chinese motorists Whether people eat
+
+sharkfinsinShanghaiorfishtacosinSanDiegotheyallneedfoodandtheyallneedshelterAnd
+
+desiredoesnÓtstopatsubsistenceÏpeoplewilldemandevermoreasglobalizationcontinuesNow
+
+thatmillionsofChinesepeasantscanfinallyenjoyasecuresupplyofbasiccaloriestheywantmore
+
+ofthemtocomefromporkinsteadofjustgrainTheconvergenceofdesireisevenmoreobviousat
+
+thetopalloligarchshavethesametasteinCristalfromPetersburgtoPyongyang
+
+TechnologyMeansComplementarity
+
+Now think about the prospect ofcompetition from computers instead of competition from human
+
+workersOnthesupplysidecomputersarefarmoredifferentfrompeoplethananytwopeopleare
+
+differentfromeachothermenandmachinesaregoodatfundamentallydifferentthingsPeoplehave
+
+intentionalityÏwe form plans and make decisions in complicated situations WeÓre less good at
+
+makingsenseofenormousamountsofdataComputersareexactlytheoppositetheyexcelatefficient
+
+dataprocessingbuttheystruggletomakebasicjudgmentsthatwouldbesimpleforanyhuman
+
+To understand the scale of this variance consider another ofGoogleÓs computerforhuman
+
+substitutionprojectsInoneoftheirsupercomputersmadeheadlineswhenafterscanning
+
+million thumbnails ofYouTubevideositlearnedtoidentifyacatwithaccuracyThatseems
+
+impressiveÏuntil you remember that an average fouryearold can do it flawlessly When a cheap
+
+laptopbeatsthesmartestmathematiciansatsometasksbutevenasupercomputerwithCPUs
+
+canÓtbeatachildatothersyoucantellthathumansandcomputersarenotjustmoreorlesspowerful
+
+thaneachotherÏtheyÓrecategoricallydifferent
+
+Thestarkdifferencesbetweenmanandmachinemeanthatgainsfromworkingwithcomputersare
+
+muchhigherthangainsfromtradewithotherpeopleWedonÓttradewithcomputersanymorethan
+
+wetradewithlivestockorlampsAndthatÓsthepointcomputersaretoolsnotrivals
+
+The differences are even deeper on the demand side Unlike people in industrializing countries
+
+computersdonÓtyearnformoreluxuriousfoodsorbeachfrontvillasinCapFerratalltheyrequireis
+
+anominalamountofelectricitywhichtheyÓrenotevensmartenoughtowantWhenwedesignnew
+
+computer technology to help solve problems we get all the efficiency gains of a hyperspecialized
+
+tradingpartnerwithouthavingtocompetewithitforresourcesProperlyunderstoodtechnologyis
+
+the one way for us to escape competition in a globalizing worldAs computers become more and
+
+morepowerfultheywonÓtbesubstitutesforhumanstheyÓllbecomplements
+
+COMPLEMENTARYBUSINESSES
+
+Complementarity between computers and humans isnÓt just a macroscale fact ItÓs also the path to
+
+buildingagreatbusinessIcametounderstandthisfrommyexperienceatPayPalInmidwe
+
+hadsurvivedthedotcomcrashandweweregrowingfastbutwefacedonehugeproblemwewere
+
+losingupwardsofmilliontocreditcardfraudeverymonthSincewewereprocessinghundreds
+
+or even thousands of transactions per minute we couldnÓt possibly review each oneÏno human
+
+qualitycontrolteamcouldworkthatfast
+
+So we did what any group of engineers would do we tried to automate a solution FirstMax
+
+LevchinassembledaneliteteamofmathematicianstostudythefraudulenttransfersindetailThenwe
+
+tookwhatwelearnedandwrotesoftwaretoautomaticallyidentifyandcancelbogustransactionsin
+
+realtimeButitquicklybecameclearthatthisapproachwouldnÓtworkeitherafteranhourortwo
+
+thethieveswouldcatchonandchangetheirtacticsWeweredealingwithanadaptiveenemyandour
+
+softwarecouldnÓtadaptinresponse
+
+ThefraudstersÓadaptiveevasionsfooledourautomaticdetectionalgorithmsbutwefoundthatthey
+
+didnÓt fool our human analysts as easily So Max and his engineers rewrote the software to take a
+
+hybridapproachthecomputerwouldflagthemostsuspicioustransactionsonawelldesigneduser
+
+interfaceandhumanoperatorswouldmakethefinaljudgmentastotheirlegitimacyThankstothis
+
+hybridsystemÏwenameditÐIgorÑaftertheRussianfraudsterwhobraggedthatweÓdneverbeable
+
+tostophimÏweturnedourfirstquarterlyprofitinthefirstquarterofasopposedtoaquarterly
+
+loss of  million one year before TheFBI asked us if weÓd let them use Igor to help detect
+
+financial crimeAnd Max was able to boast grandiosely but truthfully that he was Ðthe Sherlock
+
+HolmesoftheInternetUndergroundÑ
+
+This kind of manmachine symbiosis enabledPayPal to stay in business which in turn enabled
+
+hundreds of thousands of small businesses to accept the payments they needed to thrive on the
+
+internetNoneofitwouldhavebeenpossiblewithoutthemanmachinesolutionÏeventhoughmost
+
+peoplewouldneverseeitorevenhearaboutit
+
+I continued to think about this after we sold PayPal in  if humans and computers together
+
+could achieve dramatically better results than either could attain alone what other valuable
+
+businessescouldbebuiltonthiscoreprinciple?ThenextyearIpitchedAlexKarpanoldStanford
+
+classmateandStephenCohenasoftwareengineeronanewstartupideawewouldusethehuman
+
+computerhybridapproachfromPayPalÓssecuritysystemtoidentifyterroristnetworksandfinancial
+
+fraud We already knew the FBI was interested and in  we foundedPalantir a software
+
+companythathelpspeopleextractinsightfromdivergentsourcesofinformationThecompanyison
+
+tracktobooksalesofbillioninandForbeshascalledPalantirÓssoftwaretheÐkillerappêoritsrumoredroleinhelpingthegovernmentlocateOsamabinLaden
+
+Wehavenodetailstosharefromthatoperationbutwecansaythatneitherhumanintelligenceby
+
+itself nor computers alone will be able to make us safeAmericaÓs two biggest spy agencies take
+
+opposite approaches TheCentral IntelligenceAgency is run by spies who privilege humans The
+
+National SecurityAgency is run by generals who prioritize computers CIA analysts have to wade
+
+throughsomuchnoisethatitÓsverydifficulttoidentifythemostseriousthreatsNSAcomputerscan
+
+processhugequantitiesofdatabutmachinesalonecannotauthoritativelydeterminewhethersomeone
+
+isplottingaterroristactPalantiraimstotranscendtheseopposingbiasesitssoftwareanalyzesthe
+
+datathegovernmentfeedsitÏphonerecordsofradicalclericsinYemenorbankaccountslinkedto
+
+terrorcellactivityforinstanceÏandflagssuspiciousactivitiesforatrainedanalysttoreview
+
+InadditiontohelpingfindterroristsanalystsusingPalantirÓssoftwarehavebeenabletopredict
+
+whereinsurgentsplantIEDsinAfghanistan prosecute highprofileinsidertradingcasestakedown
+
+the largestchild pornography ring in the world support theCenters for Disease Control and
+
+Prevention in fighting foodborne disease outbreaks and save both commercial banks and the
+
+governmenthundredsofmillionsofdollarsannuallythroughadvancedfrauddetection
+
+Advanced software made this possible but even more important were the human analysts
+
+prosecutors scientists and financial professionals without whose active engagement the software
+
+wouldhavebeenuseless
+
+ThinkofwhatprofessionalsdointheirjobstodayLawyersmustbeabletoarticulatesolutionsto
+
+thornyproblemsinseveraldifferentwaysÏthepitchchangesdependingonwhetheryouÓretalkingto
+
+aclientopposingcounselorajudgeDoctorsneedtomarryclinicalunderstandingwithanabilityto
+
+communicateittononexpertpatientsAndgoodteachersarenÓtjustexpertsintheirdisciplinesthey
+
+must also understand how to tailor their instruction to different individualsÓ interests and learning
+
+stylesComputersmightbeabletodosomeofthesetasksbuttheycanÓtcombinethemeffectively
+
+BettertechnologyinlawmedicineandeducationwonÓtreplaceprofessionalsitwillallowthemto
+
+doevenmore
+
+LinkedInhasdoneexactlythisforrecruitersWhenLinkedInwasfoundedintheydidnÓtpoll
+
+recruiters to find discrete pain points in need of reliefAnd they didnÓt try to write software that
+
+would replace recruiters outrightRecruiting is part detective work and part sales you have to
+
+scrutinize applicantsÓ history assess their motives and compatibility and persuade the most
+
+promising ones to join you Effectively replacing all those functions with a computer would be
+
+impossible Instead LinkedIn set out to transform how recruiters did their jobs Today more than
+
+of recruiters use LinkedIn and its powerful search and filtering functionality to source job
+
+candidatesandthenetworkalsocreatesvalueforthehundredsofmillionsofprofessionalswhouse
+
+ittomanagetheirpersonalbrandsIfLinkedInhadtriedtosimplyreplacerecruiterswithtechnology
+
+theywouldnÓthaveabusinesstoday
+
+TheIdeologyofComputerScience
+
+Whydosomanypeoplemissthepowerofcomplementarity?ItstartsinschoolSoftwareengineers
+
+tend to work on projects that replace human efforts because thatÓs what theyÓre trained to do
+
+Academics make their reputations through specialized research their primary goal is to publish
+
+papersandpublicationmeansrespectingthelimitsofaparticulardisciplineForcomputerscientists
+
+that means reducing human capabilities into specialized tasks that computers can be trained to
+
+conqueronebyone
+
+Just look at the trendiest fields in computer science today The very term Ðmachine learningÑ
+
+evokes imagery of replacement and its boosters seem to believe that computers can be taught to
+
+performalmostanytasksolongaswefeedthemenoughtrainingdataAnyuserofNetflixorAmazon
+
+has experienced the results of machine learning firsthand both companies use algorithms to
+
+recommend products based on your viewing and purchase history Feed them more data and the
+
+recommendations get ever betterGoogle Translate works the same way providing rough but
+
+serviceable translations into any of the  languages it supportsÏnot because the software
+
+understands human language but because it has extracted patterns through statistical analysis of a
+
+hugecorpusoftext
+
+TheotherbuzzwordthatepitomizesabiastowardsubstitutionisÐbigdataÑTodayÓscompanies
+
+haveaninsatiableappetitefordatamistakenlybelievingthatmoredataalwayscreatesmorevalue
+
+ButbigdataisusuallydumbdataComputerscanfindpatternsthateludehumansbuttheydonÓtknow
+
+howtocomparepatternsfromdifferentsourcesorhowtointerpretcomplexbehaviorsActionable
+
+insights can only come from a human analyst or the kind of generalized artificial intelligence that
+
+existsonlyinsciencefiction
+
+WehaveletourselvesbecomeenchantedbybigdataonlybecauseweexoticizetechnologyWeÓre
+
+impressedwithsmallfeatsaccomplishedbycomputersalonebutweignorebigachievementsfrom
+
+complementaritybecausethehumancontributionmakesthemlessuncannyWatsonDeepBlueand
+
+everbettermachinelearningalgorithmsarecoolButthemostvaluablecompaniesinthefuturewonÓt
+
+askwhatproblemscanbesolvedwithcomputersaloneInsteadtheyÓllaskhowcancomputershelp
+
+humanssolvehardproblems?
+
+EVERSMARTERCOMPUTERSFRIENDORFOE?
+
+ThefutureofcomputingisnecessarilyfullofunknownsItÓsbecomeconventionaltoseeeversmarter
+
+anthropomorphized robot intelligences like Siri and Watson as harbingers of things to come once
+
+computerscananswerallourquestionsperhapstheyÓllaskwhytheyshouldremainsubservienttous
+
+atall
+
+The logical endpoint to this substitutionist thinking is called ÐstrongAIÑ computers that eclipse
+
+humansoneveryimportantdimensionOfcoursetheLudditesareterrifiedbythepossibilityIteven
+
+makesthefuturistsalittleuneasyitÓsnotclearwhetherstrongAIwouldsavehumanityordoomit
+
+Technology is supposed toincreaseour mastery over nature andreducethe role of chance in our
+
+lives building smarterthanhuman computers could actually bring chance back with a vengeance
+
+StrongAIislikeacosmiclotteryticketifwewinwegetutopiaifweloseSkynetsubstitutesusout
+
+ofexistence
+
+But even if strongAI is a real possibility rather than an imponderable mystery it wonÓt happen
+
+anytimesoonreplacementbycomputersisaworryforthendcenturyIndefinitefearsaboutthefar
+
+futureshouldnÓtstopusfrommakingdefiniteplanstodayLudditesclaimthatweshouldnÓtbuildthe
+
+computers that might replace people someday crazed futurists argue that we should These two
+
+positionsaremutuallyexclusivebuttheyarenotexhaustivethereisroominbetweenforsanepeople
+
+to build a vastly better world in the decades aheadAs we find new ways to use computers they
+
+wonÓt just get better at the kinds of things people already do theyÓll help us to do what was
+
+previouslyunimaginable

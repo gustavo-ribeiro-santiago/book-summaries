@@ -1,0 +1,387 @@
+5. WHAT MATTERS IS THE MOTIVE / IMMANUEL KANT
+
+If you believein universal human rights, you are probably not a utilitarian. If all human beings are worthy of respect, regardless of who they are or where they live, then it’s wrong to treat them as mere instruments of the collective happiness. (Recall the story of the malnourished child languishing in the cellar for the sake of the “city of happiness.”)
+
+You might defend human rights on the grounds that respecting them will maximize utility in the long run. In that case, however, your reason for respecting rights is not to respect the person who holds them but to make things better for everyone. It is one thing to condemn the scenario of the suffering child because it reduces overall utility, and something else to condemn it as an intrinsic moral wrong, an injustice to the child.
+
+If rights don’t rest on utility, what is their moral basis? Libertarians offer a possible answer: Persons should not be used merely as means to the welfare of others, because doing so violates the fundamental right of self-ownership. My life, labor, and person belong to me and me alone. They are not at the disposal of the society as a whole.
+
+As we have seen, however, the idea of self-ownership, consistently applied, has implications that only an ardent libertarian can love—an unfettered market without a safety net for those who fall behind; aminimal state that rules out most measures to ease inequality and promote the common good; and a celebration of consent so complete that it permits self-inflicted affronts to human dignity such as consensual cannibalism or selling oneself into slavery.
+
+Even John Locke (1632–1704), the great theorist of property rights and limited government, does not assert an unlimited right of self-possession. He rejects the notion that we may dispose of our life and liberty however we please. But Locke’s theory of unalienable rights invokes God, posing a problem for those who seek a moral basis for rights that does not rest on religious assumptions.
+
+Kant’s Case for Rights
+
+Immanuel Kant (1724–1804) offers an alternative account of duties and rights, one of the most powerful and influential accounts any philosopher has produced. It does not depend on the idea that we own ourselves, or on the claim that our lives and liberties are a gift from God. Instead, it depends on the idea that we are rational beings, worthy of dignity and respect.
+
+Kant was born in the East Prussian city of Konigsberg in 1724, and died there, almost eighty years later. He came from a family of modest means. His father was a harness-maker and his parents were Pietists, members of a Protestant faith that emphasized the inner religious life and the doing of good works.1
+
+He excelled at the University of Konigsberg, which he entered at age sixteen. For a time, he worked as a private tutor, and then, at thirty-one, he received his first academic job, as an unsalaried lecturer, for which he was paid based on the number of students who showed up at his lectures. He was a popular and industrious lecturer, giving about twenty lectures a week on subjects including metaphysics, logic, ethics, law, geography, and anthropology.
+
+In 1781, at age fifty-seven, he published his first major book,The Critique of Pure Reason, which challenged the empiricist theory ofknowledge associated with David Hume and John Locke. Four years later, he published theGroundwork for the Metaphysics of Morals, the first of his several works on moral philosophy. Five years after Jeremy Bentham’sPrinciples of Morals and Legislation(1780), Kant’sGroundworklaunched a devastating critique of utilitarianism. It argues that morality is not about maximizing happiness or any other end. Instead, it is about respecting persons as ends in themselves.
+
+Kant’sGroundworkappeared shortly after the American Revolution (1776) and just before the French Revolution (1789). In line with the spirit and moral thrust of those revolutions, it offers a powerful basis for what the eighteenth-century revolutionaries called the rights of man, and what we in the early twenty-first century call universal human rights.
+
+Kant’s philosophy is hard going. But don’t let that scare you away. It is worth the effort, because the stakes are enormous. TheGroundworktakes up a big question: What is the supreme principle of morality? And in the course of answering that question, it addresses another hugely important one: What is freedom?
+
+Kant’s answers to these questions have loomed over moral and political philosophy ever since. But his historical influence is not the only reason to pay attention to him. Daunting though Kant’s philosophy may seem at first glance, it actually informs much contemporary thinking about morality and politics, even if we are unaware of it. So making sense of Kant is not only a philosophical exercise; it is also a way of examining some of the key assumptions implicit in our public life.
+
+Kant’s emphasis on human dignity informs present-day notions of universal human rights. More important, his account of freedom figures in many of our contemporary debates about justice. In the introduction to this book, I distinguished three approaches to justice. One approach, that of the utilitarians, says that the way to define justice and to determine the right thing to do is to ask what will maximize welfare, or the collective happiness of society as a whole. A second approach connects justice to freedom. Libertarians offer an example ofthis approach. They say the just distribution of income and wealth is whatever distribution arises from the free exchange of goods and services in an unfettered market. To regulate the market is unjust, they maintain, because it violates the individual’s freedom of choice. A third approach says that justice means giving people what they morally deserve—allocating goods to reward and promote virtue. As we will see when we turn to Aristotle (in Chapter 8), the virtue-based approach connects justice to reflection about the good life.
+
+Kant rejects approach one (maximizing welfare) and approach three (promoting virtue). Neither, he thinks, respects human freedom. So Kant is a powerful advocate for approach two—the one that connects justice and morality to freedom. But the idea of freedom he puts forth is demanding—more demanding than the freedom of choice we exercise when buying and selling goods on the market. What we commonly think of as market freedom or consumer choice is not true freedom, Kant argues, because it simply involves satisfying desires we haven’t chosen in the first place.
+
+In a moment, we’ll come to Kant’s more exalted idea of freedom. But before we do, let’s see why he thinks the utilitarians are wrong to think of justice and morality as a matter of maximizing happiness.
+
+The Trouble with Maximizing Happiness
+
+Kant rejects utilitarianism. By resting rights on a calculation about what will produce the greatest happiness, he argues, utilitarianism leaves rights vulnerable. There is also a deeper problem: trying to derive moral principles from the desires we happen to have is the wrong way to think about morality. Just because something gives many people pleasure doesn’t make it right. The mere fact that the majority, however big, favors a certain law, however intensely, does not make the law just.
+
+Kant argues that morality can’t be based on merely empirical considerations, such as the interests, wants, desires, and preferences peoplehave at any given time. These factors are variable and contingent, he points out, so they could hardly serve as the basis for universal moral principles—such as universal human rights. But Kant’s more fundamental point is that basing moral principles on preferences and desires—even the desire for happiness—misunderstands what morality is about. The utilitarian’s happiness principle “contributes nothing whatever toward establishing morality, since making a man happy is quite different from making him good and making him prudent or astute in seeking his advantage quite different from making him virtuous.”2Basing morality on interests and preferences destroys its dignity. It doesn’t teach us how to distinguish right from wrong, but “only to become better at calculation.”3
+
+If our wants and desires can’t serve as the basis of morality, what’s left? One possibility is God. But that is not Kant’s answer. Although he was a Christian, Kant did not base morality on divine authority. He argues instead that we can arrive at the supreme principle of morality through the exercise of what he calls “pure practical reason.” To see how, according to Kant, we can reason our way to the moral law, let’s now explore the close connection, as Kant sees it, between our capacity for reason and our capacity for freedom.
+
+Kant argues that every person is worthy of respect, not because we own ourselves but because we are rational beings, capable of reason; we are also autonomous beings, capable of acting and choosing freely.
+
+Kant doesn’t mean that we always succeed in acting rationally, or in choosing autonomously. Sometimes we do and sometimes we don’t. He means only that we have the capacity for reason, and for freedom, and that this capacity is common to human beings as such.
+
+Kant readily concedes that our capacity for reason is not the only capacity we possess. We also have the capacity to feel pleasure and pain. Kant recognizes that we are sentient creatures as well as rational ones. By “sentient,” Kant means that we respond to our senses, our feelings. So Bentham was right—but only half right. He was right to observe that we like pleasure and dislike pain. But he was wrong to insist thatthey are “our sovereign masters.” Kant argues that reason can be sovereign, at least some of the time. When reason governs our will, we are not driven by the desire to seek pleasure and avoid pain.
+
+Our capacity for reason is bound up with our capacity for freedom. Taken together, these capacities make us distinctive, and set us apart from mere animal existence. They make us more than mere creatures of appetite.
+
+What Is Freedom?
+
+To make sense of Kant’s moral philosophy, we need to understand what he means by freedom. We often think of freedom as the absence of obstacles to doing what we want. Kant disagrees. He has a more stringent, demanding notion of freedom.
+
+Kant reasons as follows: When we, like animals, seek pleasure or the avoidance of pain, we aren’t really acting freely. We are acting as the slaves of our appetites and desires. Why? Because whenever we are seeking to satisfy our desires, everything we do is for the sake of some end given outside us. I go this way to assuage my hunger, that way to slake my thirst.
+
+Suppose I’m trying to decide what flavor of ice cream to order: Should I go for chocolate, vanilla, or espresso toffee crunch? I may think of myself as exercising freedom of choice, but what I’m really doing is trying to figure out which flavor will best satisfy my preferences—preferences I didn’t choose in the first place. Kant doesn’t say it’s wrong to satisfy our preferences. His point is that, when we do so, we are not acting freely, but acting according to a determination given outside us. After all, I didn’t choose my desire for espresso toffee crunch rather than vanilla. I just have it.
+
+Some years ago, Sprite had an advertising slogan: “Obey your thirst.” Sprite’s ad contained (inadvertently, no doubt) a Kantian insight. When I pick up a can of Sprite (or Pepsi or Coke), I act out ofobedience, not freedom. I am responding to a desire I haven’t chosen. I am obeying my thirst.
+
+People often argue over the role of nature and nurture in shaping behavior. Is the desire for Sprite (or other sugary drinks) inscribed in the genes or induced by advertising? For Kant, this debate is beside the point. Whenever my behavior is biologically determined or socially conditioned, it is not truly free. To act freely, according to Kant, is to act autonomously. And to act autonomously is to act according to a law I give myself—not according to the dictates of nature or social convention.
+
+One way of understanding what Kant means by acting autonomously is to contrast autonomy with its opposite. Kant invents a word to capture this contrast—heteronomy. When I act heteronomously, I act according to determinations given outside of me. Here is an illustration: When you drop a billiard ball, it falls to the ground. As it falls, the billiard ball is not acting freely; its movement is governed by the laws of nature—in this case, the law of gravity.
+
+Suppose that I fall (or am pushed) from the Empire State Building. As I hurtle toward the earth, no one would say that I am acting freely; my movement is governed by the law of gravity, as with the billiard ball.
+
+Now suppose I land on another person and kill that person. I would not be morally responsible for the unfortunate death, any more than the billiard ball would be morally responsible if it fell from a great height and hit someone on the head. In neither case is the falling object—me or the billiard ball—acting freely. In both cases, the falling object is governed by the law of gravity. Since there is no autonomy, there can be no moral responsibility.
+
+Here, then, is the link between freedom as autonomy and Kant’s idea of morality. To act freely is not to choose the best means to a given end; it is to choose the end itself, for its own sake—a choice that human beings can make and billiard balls (and most animals) cannot.
+
+Persons and Things
+
+It is 3:00 a.m., and your college roommate asks you why you are up late pondering moral dilemmas involving runaway trolleys.
+
+“To write a good paper in Ethics 101,” you reply.
+
+“But why write a good paper?” your roommate asks.
+
+“To get a good grade.”
+
+“But why care about grades?”
+
+“To get a job in investment banking.”
+
+“But why get a job in investment banking?”
+
+“To become a hedge fund manager someday.”
+
+“But why be a hedge fund manager?”
+
+“To make a lot of money.”
+
+“But why make a lot of money?”
+
+“To eat lobster often, which I like. I am, after all, a sentient creature.That’swhy I’m up late thinking about runaway trolleys!”
+
+This is an example of what Kant would call heteronomous determination—doing something for the sake of something else, for the sake of something else, and so on. When we act heteronomously, we act for the sake of ends given outside us. We are instruments, not authors, of the purposes we pursue.
+
+Kant’s notion of autonomy stands in stark contrast to this. When we act autonomously, according to a law we give ourselves, we do something for its own sake, as an end in itself. We cease to be instruments of purposes given outside us. This capacity to act autonomously is what gives human life its special dignity. It marks out the difference between persons and things.
+
+For Kant, respecting human dignity means treating persons as ends in themselves. This is why it is wrong to use people for the sake of the general welfare, as utilitarianism does. Pushing the heavy man onto the track to block the trolley uses him as a means, and so fails to respect him as an end in himself. An enlightened utilitarian (such as Mill) may refuse to push the man, out of concern for secondary effects that woulddiminish utility in the long run. (People would soon be afraid to stand on bridges, etc.) But Kant would maintain that this is the wrong reason to desist from pushing. It still treats the would-be victim as an instrument, an object, a mere means to the happiness of others. It lets him live, not for his own sake, but so that other people can cross bridges without a second thought.
+
+This raises the question of what gives an action moral worth. It takes us from Kant’s specially demanding idea of freedom to his equally demanding notion of morality.
+
+What’s Moral? Look for the Motive
+
+According to Kant, the moral worth of an action consists not in the consequences that flow from it, but in the intention from which the act is done. What matters is the motive, and the motive must be of a certain kind. What matters is doing the right thing because it’s right, not for some ulterior motive.
+
+“A good will is not good because of what it effects or accomplishes,” Kant writes. It is good in itself, whether or not it prevails. “Even if . . . this will is entirely lacking in power to carry out its intentions; if by its utmost effort it still accomplishes nothing . . . even then it would still shine like a jewel for its own sake as something which has its full value in itself.”4
+
+For any action to be morally good, “it is not enough that it shouldconformto the moral law—it must also be done for the sake of the moral law.”5And the motive that confers moral worth on an action is the motive of duty, by which Kant means doing the right thing for the right reason.6
+
+In saying that only the motive of duty confers moral worth on an action, Kant is not yet saying what particular duties we have. He is not yet telling us what the supreme principle of morality commands. He’s simply observing that, when we assess the moral worth of an action, we assess the motive from which it’s done, not the consequences it produces.6
+
+If we act out of some motive other than duty, such as self-interest, for example, our action lacks moral worth. This is true, Kant maintains, not only for self-interest but for any and all attempts to satisfy our wants, desires, preferences, and appetites. Kant contrasts motives such as these—he calls them “motives of inclination”—with the motive of duty. And he insists that only actions done out of the motive of duty have moral worth.
+
+The calculating shopkeeper and the Better Business Bureau
+
+Kant offers several examples that bring out the difference between duty and inclination. The first involves a prudent shopkeeper. An inexperienced customer, say, a child, goes into a grocery store to buy a loaf of bread. The grocer could overcharge him—charge him more than the usual price for a loaf of bread—and the child would not know. But the grocer realizes that, if others discovered he took advantage of the child in this way, word might spread and hurt his business. For this reason, he decides not to overcharge the child. He charges him the usual price. So the shopkeeper does the right thing, but for the wrong reason. The only reason he deals honestly with the child is to protect his reputation. The shopkeeper acts honestly only for the sake of self-interest; the shopkeeper’s action lacks moral worth.7
+
+A modern-day parallel to Kant’s prudent shopkeeper can be found in the recruiting campaign of the Better Business Bureau of New York. Seeking to enlist new members, the BBB sometimes runs a full-page ad in theNew York Timeswith the headline “Honesty is the best policy. It’s also the most profitable.” The text of the ad leaves no mistake about the motive being appealed to.
+
+Honesty. It’s as important as any other asset. Because a business that deals in truth, openness, and fair value cannot help but do well. It is toward this end [that] we support the Better Business Bureau. Come join us. And profit from it.
+
+Kant would not condemn the Better Business Bureau; promoting honest business dealing is commendable. But there is an important moral difference between honesty for its own sake and honesty for the sake of the bottom line. The first is a principled position, the second a prudential one. Kant argues that only the principled position is in line with the motive of duty, the only motive that confers moral worth on an action.
+
+Or consider this example: Some years ago, the University of Maryland sought to combat a widespread cheating problem by asking students to sign pledges not to cheat. As an inducement, students who took the pledge were offered a discount card good for savings of 10 to 25 percent at local shops.8No one knows how many students promised not to cheat for the sake of a discount at the local pizza place. But most of us would agree that bought honesty lacks moral worth. (The discounts might or might not succeed in reducing the incidence of cheating; the moral question, however, is whether honesty motivated by the desire for a discount or a monetary reward has moral worth. Kant would say no.)
+
+These cases bring out the plausibility of Kant’s claim that only the motive of duty—doing something because it’s right, not because it’s useful or convenient—confers moral worth on an action. But two further examples bring out a complexity in Kant’s claim.
+
+Staying alive
+
+The first involves the duty, as Kant sees it, to preserve one’s own life. Since most people have a strong inclination to continue living, this duty rarely comes into play. Most of the precautions we take to preserve our lives therefore lack moral content. Buckling our seat belts and keeping our cholesterol in check are prudential acts, not moral ones.
+
+Kant acknowledges that it is often difficult to know what motivates people to act as they do. And he recognizes that motives of duty andinclination may both be present. His point is that only the motive of duty—doing something because it’s right, not because it’s useful or pleasing or convenient—confers moral worth on an action. He illustrates this point with the example of suicide.
+
+Most people go on living because they love life, not because they have a duty to do so. Kant offers a case where the motive of duty comes into view. He imagines a hopeless, miserable person so filled with despair that he has no desire to go on living. If such a person summons the will to preserve his life, not from inclination but from duty, then his action has moral worth.9
+
+Kant does not maintain that only miserable people can fulfill the duty to preserve their lives. It is possible to love life and still preserve it for the right reason—namely, that one has a duty to do so. The desire to go on living doesn’t undermine the moral worth of preserving one’s life, provided the person recognizes the duty to preserve his or her own life, and does so with this reason in mind.
+
+The moral misanthrope
+
+Perhaps the hardest case for Kant’s view involves what he takes to be the duty to help others. Some people are altruistic. They feel compassion for others and take pleasure in helping them. But for Kant, doing good deeds out of compassion, “however right and however amiable it may be,” lacks moral worth. This may seem counterintuitive. Isn’t it good to be the kind of person who takes pleasure in helping others? Kant would say yes. He certainly doesn’t think there is anything wrong with acting out of compassion. But he distinguishes between this motive for helping others—that doing the good deed gives me pleasure—and the motive of duty. And he maintains that only the motive of duty confers moral worth on an action. The compassion of the altruist “deserves praise and encouragement, but not esteem.”10
+
+What, then, would it take for a good deed to have moral worth?Kant offers a scenario: Imagine that our altruist suffers a misfortune that extinguishes his love of humanity. He becomes a misanthrope who lacks all sympathy and compassion. But this cold-hearted soul tears himself out of his indifference and comes to the aid of his fellow human beings. Lacking any inclination to help, he does so “for the sake of duty alone.” Now, for the first time, his action has moral worth.11
+
+This seems in some ways an odd judgment. Does Kant mean to valorize misanthropes as moral exemplars? No, not exactly. Taking pleasure in doing the right thing does not necessarily undermine its moral worth. What matters, Kant tells us, is that the good deed be done because it’s the right thing to do—whether or not doing it gives us pleasure.
+
+The spelling bee hero
+
+Consider an episode that took place some years ago at the national spelling bee in Washington, D.C. A thirteen-year-old boy was asked to spellecholalia, a word that means a tendency to repeat whatever one hears. Although he misspelled the word, the judges misheard him, told him he had spelled the word right, and allowed him to advance. When the boy learned that he had misspelled the word, he went to the judges and told them. He was eliminated after all. Newspaper headlines the next day proclaimed the honest young man a “spelling bee hero,” and his photo appeared inThe New York Times. “The judges said I had a lot of integrity,” the boy told reporters. He added that part of his motive was, “I didn’t want to feel like a slime.”12
+
+When I read that quote from the spelling bee hero, I wondered what Kant would think. Not wanting to feel like a slime is an inclination, of course. So, if that was the boy’s motive for telling the truth, it would seem to undermine the moral worth of his act. But this seems too harsh. It would mean that only unfeeling people could ever perform morally worthy acts. I don’t think this is what Kant means.
+
+If the only reason the boy told the truth was to avoid feeling guilty, or to avoid bad publicity should his error be discovered, then his truth-telling would lack moral worth. But if he told the truth because he knew it was the right thing to do, his act has moral worth regardless of the pleasure or satisfaction that might attend it. As long as he did the right thing for the right reason, feeling good about it doesn’t undermine its moral worth.
+
+The same is true of Kant’s altruist. If he comes to the aid of other people simply for the pleasure it gives him, then his action lacks moral worth. But if he recognizes a duty to help one’s fellow human beings and acts out of that duty, then the pleasure he derives from it is not morally disqualifying.
+
+In practice, of course, duty and inclination often coexist. It is often hard to sort out one’s own motives, let alone know for sure the motives of other people. Kant doesn’t deny this. Nor does he think that only a hardhearted misanthrope can perform morally worthy acts. The point of his misanthrope example is to isolate the motive of duty—to see it unclouded by sympathy or compassion. And once we glimpse the motive of duty, we can identify the feature of our good deeds that gives them their moral worth—namely, their principle, not their consequences.
+
+What Is the Supreme Principle of Morality?
+
+If morality means acting from duty, it remains to be shown what duty requires. To know this, for Kant, is to know the supreme principle of morality. What is the supreme principle of morality? Kant’s aim in theGroundworkis to answer this question.
+
+We can approach Kant’s answer by seeing how he connects three big ideas: morality, freedom, and reason. He explains these ideas through a series of contrasts or dualisms. They involve a bit of jargon, but if you notice the parallel among these contrasting terms, you arewell on your way to understanding Kant’s moral philosophy. Here are the contrasts to keep in mind:
+
+Contrast 1 (morality):
+
+duty v. inclination
+
+Contrast 2 (freedom):
+
+autonomy v. heteronomy
+
+Contrast 3 (reason):
+
+categorical v. hypothetical imperatives
+
+We’ve already explored the first of these contrasts, between duty and inclination. Only the motive of duty can confer moral worth on an action. Let me see if I can explain the other two.
+
+The second contrast describes two different ways that my will can be determined—autonomously and heteronomously. According to Kant, I’m free only when my will is determined autonomously, governed by a law I give myself. Again, we often think of freedom as being able to do what we want, to pursue our desires unimpeded. But Kant poses a powerful challenge to this way of thinking about freedom: If you didn’t choose those desires freely in the first place, how can you think of yourself as free when you’re pursuing them? Kant captures this challenge in this contrast between autonomy and heteronomy.
+
+When my will is determined heteronomously, it is determined externally, from outside of me. But this raises a difficult question: If freedom means something more than following my desires and inclinations, how is it possible? Isn’t everything I do motivated by some desire or inclination determined by outside influences?
+
+The answer is far from obvious. Kant observes that “everything in nature works in accordance with laws,” such as the laws of natural necessity, the laws of physics, the laws of cause and effect.13This includes us. We are, after all, natural beings. Human beings are not exempt from the laws of nature.
+
+But if we are capable of freedom, we must be capable of acting according to some other kind of law, a law other than the laws of physics. Kant argues that all action is governed by laws of some kind or other.And if our actions were governed solely by the laws of physics, then we would be no different from that billiard ball. So if we’re capable of freedom, we must be capable of acting not according to a law that is given or imposed on us, but according to a law we give ourselves. But where could such a law come from?
+
+Kant’s answer: from reason. We’re not only sentient beings, governed by the pleasure and pain delivered by our senses; we are also rational beings, capable of reason. If reason determines my will, then the will becomes the power to choose independent of the dictates of nature or inclination. (Notice that Kant isn’t asserting that reason always does govern my will; he’s only saying that, insofar as I’m capable of acting freely, according to a law I give myself, then it must be the case that reason can govern my will.)
+
+Of course, Kant isn’t the first philosopher to suggest that human beings are capable of reason. But his idea of reason, like his conceptions of freedom and morality, is especially demanding. For the empiricist philosophers, including the utilitarians, reason is wholly instrumental. It enables us to identify means for the pursuit of certain ends—ends that reason itself does not provide. Thomas Hobbes called reason the “scout for the desires.” David Hume called reason the “slave of the passions.”
+
+The utilitarians viewed human beings as capable of reason, but only instrumental reason. Reason’s work, for the utilitarians, is not to determine what ends are worth pursuing. Its job is to figure out how to maximize utility by satisfying the desires we happen to have.
+
+Kant rejects this subordinate role for reason. For him, reason is not just the slave of the passions. If that were all reason amounted to, Kant says, we’d be better off with instinct.14
+
+Kant’s idea of reason—of practical reason, the kind involved in morality—is not instrumental reason but “pure practical reason, which legislates a priori, regardless of all empirical ends.”15
+
+Categorical Versus Hypothetical Imperatives
+
+But how can reason do this? Kant distinguishes two ways that reason can command the will, two different kinds of imperative. One kind of imperative, perhaps the most familiar kind, is a hypothetical imperative. Hypothetical imperatives use instrumental reason: If you want X, then do Y. If you want a good business reputation, then treat your customers honestly.
+
+Kant contrasts hypothetical imperatives, which are always conditional, with a kind of imperative that is unconditional: a categorical imperative. “If the action would be good solely as a means to something else,” Kant writes, “the imperative is hypothetical. If the action is represented as good in itself, and therefore as necessary for a will which of itself accords with reason, then the imperative is categorical.”16The termcategoricalmay seem like jargon, but it’s not that distant from our ordinary use of the term. By “categorical,” Kant means unconditional. So, for example, when a politician issues a categorical denial of an alleged scandal, the denial is not merely emphatic; it’s unconditional—without any loophole or exception. Similarly, a categorical duty or categorical right is one that applies regardless of the circumstances.
+
+For Kant, a categorical imperative commands, well, categorically—without reference to or dependence on any further purpose. “It is concerned not with the matter of the action and its presumed results, but with its form, and with the principle from which it follows. And what is essentially good in the action consists in the mental disposition, let the consequences be what they may.” Only a categorical imperative, Kant argues, can qualify as an imperative of morality.17
+
+The connection among the three parallel contrasts now comes into view. To be free in the sense of autonomous requires that I act not out of a hypothetical imperative but out of a categorical imperative.
+
+This leaves one big question: Whatisthe categorical imperative, and what does it command of us? Kant says we can answer this questionfrom the idea of “a practical law that by itself commands absolutely and without any further motives.”18We can answer this question from the idea of a law that binds us as rational beings regardless of our particular ends. So what is it?
+
+Kant offers several versions or formulations of the categorical imperative, which he believes all amount to the same thing.
+
+Categorical imperative I: Universalize your maxim
+
+The first version Kant calls the formula of the universal law: “Act only on that maxim whereby you can at the same time will that it should become a universal law.”19By “maxim,” Kant means a rule or principle that gives the reason for your action. He is saying, in effect, that we should act only on principles that we could universalize without contradiction. To see what Kant means by this admittedly abstract test, let’s consider a concrete moral question: Is it ever right to make a promise you know you won’t be able to keep?
+
+Suppose I am in desperate need of money and so ask you for a loan. I know perfectly well that I won’t be able to pay it back anytime soon. Would it be morally permissible to get the loan by making a false promise to repay the money promptly, a promise I know I can’t keep? Would a false promise be consistent with the categorical imperative? Kant says no, obviously not. The way I can see that the false promise is at odds with the categorical imperative is by trying to universalize the maxim upon which I’m about to act.20
+
+What is the maxim in this case? Something like this: “Whenever someone needs money badly, he should ask for a loan and promise to repay, even though he knows he won’t be able to do so.” If you tried to universalize this maxim and at the same time to act on it, Kant says, you would discover a contradiction: If everybody made false promises when they needed money, nobody would believe such promises. In fact, there would be no such thing as promises; universalizing the false promise would undermine the institution of promise-keeping. Butthen it would be futile, even irrational, for you to try to get money by promising. This shows that making a false promise is morally wrong, at odds with the categorical imperative.
+
+Some people find this version of Kant’s categorical imperative unpersuasive. The formula of the universal law bears a certain resemblance to the moral bromide grown-ups use to chastise children who cut in line or speak out of turn: “What if everybody did that?” If everyone lied, then no one could rely on anybody’s word, and we’d all be worse off. If this is what Kant is saying, he is making a consequentialist argument after all—rejecting the false promise not in principle, but for its possibly harmful effects or consequences.
+
+No less a thinker than John Stuart Mill leveled this criticism against Kant. But Mill misunderstood Kant’s point. For Kant, seeing whether I could universalize the maxim of my action and continue acting on it is not a way of speculating about possible consequences. It is a test to see whether my maxim accords with the categorical imperative. A false promise is not morally wrong because, writ large, it would undermine social trust (though it might well do so). It is wrong because, in making it, I privilege my needs and desires (in this case, for money) over everybody else’s. The universalizing test points to a powerful moral claim: it’s a way of checking to see if the action I am about to undertake puts my interests and special circumstances ahead of everyone else’s.
+
+Categorical imperative II: Treat persons as ends
+
+The moral force of the categorical imperative becomes clearer in Kant’s second formulation of it, the formula of humanity as an end. Kant introduces the second version of the categorical imperative as follows: We can’t base the moral law on any particular interests, purposes, or ends, because then it would be only relative to the person whose ends they were. “But suppose there were something whose existence has in itself an absolute value,” as an end in itself. “Then in it, and in it alone, would there be the ground of a possible categorical imperative.”21
+
+What could possibly have an absolute value, as an end in itself? Kant’s answer: humanity. “I say that man, and in general every rational being, exists as an end in himself, not merely as a means for arbitrary use by this or that will.”22This is the fundamental difference, Kant reminds us, between persons and things. Persons are rational beings. They don’t just have a relative value, but if anything has, they have an absolute value, an intrinsic value. That is, rational beings have dignity.
+
+This line of reasoning leads Kant to the second formulation of the categorical imperative: “Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end.”23This is the formula of humanity as an end.
+
+Consider again the false promise. The second formulation of the categorical imperative helps us see, from a slightly different angle, why it’s wrong. When I promise to repay you the money I hope to borrow, knowing that I won’t be able to, I’m manipulating you. I’m using you as a means to my financial solvency, not treating you as an end, worthy of respect.
+
+Now consider the case of suicide. What’s interesting to notice is that both murder and suicide are at odds with the categorical imperative, and for the same reason. We often think of murder and suicide as radically different acts, morally speaking. Killing someone else deprives him of his life against his will, while suicide is the choice of the person who commits it. But Kant’s notion of treating humanity as an end puts murder and suicide on the same footing. If I commit murder, I take someone’s life for the sake of some interest of my own—robbing a bank, or consolidating my political power, or giving vent to my anger. I use the victim as a means, and fail to respect his or her humanity as an end. This is why murder violates the categorical imperative.
+
+For Kant, suicide violates the categorical imperative in the same way. If I end my life to escape a painful condition, I use myself as a means for the relief of my own suffering. But as Kant reminds us, a person is not a thing, “not something to be used merely as a means.” I have no more right to dispose of humanity in my own person than insomeone else. For Kant, suicide is wrong for the same reason that murder is wrong. Both treat persons as things, and fail to respect humanity as an end in itself.24
+
+The suicide example brings out a distinctive feature of what Kant considers the duty to respect our fellow human beings. For Kant, self-respect and respect for other persons flow from one and the same principle. The duty of respect is a duty we owe to persons as rational beings, as bearers of humanity. It has nothing to do with who in particular the person may be.
+
+There is a difference between respect and other forms of human attachment. Love, sympathy, solidarity, and fellow feeling are moral sentiments that draw us closer to some people than to others. But the reason we must respect the dignity of persons has nothing to do with anything particular about them. Kantian respect is unlike love. It’s unlike sympathy. It’s unlike solidarity or fellow feeling. These reasons for caring about other people have to do with who they are in particular. We love our spouses and the members of our family. We feel sympathy for people with whom we can identify. We feel solidarity with our friends and comrades.
+
+But Kantian respect is respect for humanity as such, for a rational capacity that resides, undifferentiated, in all of us. This explains why violating it in my own case is as objectionable as violating it in the case of someone else. It also explains why the Kantian principle of respect lends itself to doctrines of universal human rights. For Kant, justice requires us to uphold the human rights of all persons, regardless of where they live or how well we know them, simply because they are human beings, capable of reason, and therefore worthy of respect.
+
+Morality and Freedom
+
+We can now see the link, as Kant conceives it, between morality and freedom. Acting morally means acting out of duty—for the sake of the moral law. The moral law consists of a categorical imperative, a principlethat requires us to treat persons with respect, as ends in themselves. Only when I act in accordance with the categorical imperative am I acting freely. For whenever I act according to a hypothetical imperative, I act for the sake of some interest or end given outside of me. But in that case, I’m not really free; my will is determined not by me, but by outside forces—by the necessities of my circumstance or by the wants and desires I happen to have.
+
+I can escape the dictates of nature and circumstance only by acting autonomously, according to a law I give myself. Such a law must be unconditioned by my particular wants and desires. So Kant’s demanding notions of freedom and morality are connected. Acting freely, that is, autonomously, and acting morally, according to the categorical imperative, are one and the same.
+
+This way of thinking about morality and freedom leads Kant to his devastating critique of utilitarianism. The effort to base morality on some particular interest or desire (such as happiness or utility) was bound to fail. “For what they discovered was never duty, but only the necessity of acting from a certain interest.” But any principle based on interest “was bound to be always a conditioned one and could not possibly serve as a moral law.”25
+
+Questions for Kant
+
+Kant’s moral philosophy is powerful and compelling. But it can be difficult to grasp, especially at first. If you have followed along so far, several questions may have occurred to you. Here are four especially important ones.
+
+QUESTION 1:Kant’s categorical imperative tells us to treat everyone with respect, as an end in itself. Isn’t this pretty much the same as the Golden Rule? (“Do unto others as you would have them do unto you.”)
+
+QUESTION 2:Kant seems to suggest that answering to duty and acting autonomously are one and the same. But how can this be? Acting according to duty means having to obey a law. How can subservience to a law be compatible with freedom?
+
+QUESTION 3:If autonomy means acting according to a law I give myself, what guarantees that everyone will choose the same moral law? If the categorical imperative is the product of my will, isn’t it likely that different people will come up with different categorical imperatives? Kant seems to think that we will all agree on the same moral law. But how can he be sure that different people won’t reason differently, and arrive at various moral laws?
+
+QUESTION 4:Kant argues that if morality is more than a matter of prudential calculation, it must take the form of a categorical imperative. But how can we know that morality exists apart from the play of power and interests? Can we ever be sure that we are capable of acting autonomously, with a free will? What if scientists discover (through brain-imaging, for example, or cognitive neuroscience) that we have no free will after all: Would that disprove Kant’s moral philosophy?
+
+To answer this question more fully, I need to say a bit more about these two standpoints. They are two perspectives we can take on human agency, and on the laws that govern our actions. Here is how Kant describes the two standpoints:
+
+A rational being . . . has two points of view from which he can regard himself and from which he can know laws governing . . . all his actions. He can consider himselffirst—so far as he belongs to the sensible world—to be under laws of nature (heteronomy); andsecondly—so far as he belongs to the intelligible world—to be under laws which, being independent of nature, are not empirical but have their ground in reason alone.”28
+
+The contrast between these two perspectives lines up with the three contrasts we have already discussed:
+
+Contrast 1 (morality):
+
+duty v. inclination
+
+Contrast 2 (freedom):
+
+autonomy v. heteronomy
+
+Contrast 3 (reason):
+
+categorical v. hypothetical imperatives
+
+Contrast 4 (standpoints):
+
+intelligible v. sensible realms
+
+As a natural being, I belong to the sensible world. My actions are determined by the laws of nature and the regularities of cause and effect. This is the aspect of human action that physics, biology, and neuroscience can describe. As a rational being, I inhabit an intelligible world. Here, being independent of the laws of nature, I am capable of autonomy, capable of acting according to a law I give myself.
+
+Kant argues that only from this second (intelligible) standpoint can I regard myself as free, “for to be independent of determination bycauses in the sensible world (and this is what reason must always attribute to itself) is to be free.”29
+
+If I were only an empirical being, I would not be capable of freedom; every exercise of will would be conditioned by some interest or desire. All choice would be heteronomous choice, governed by the pursuit of some end. My will could never be a first cause, only the effect of some prior cause, the instrument of one or another impulse or inclination.
+
+Insofar as we think of ourselves as free, we cannot think of ourselves as merely empirical beings. “When we think of ourselves as free, we transfer ourselves into the intelligible world as members and recognize the autonomy of the will together with its consequence—morality.”30
+
+So—to return to the question—how are categorical imperatives possible? Only because “the idea of freedom makes me a member of the intelligible world.”31The idea that we can act freely, take moral responsibility for our actions, and hold other people morally responsible for their actions requires that we see ourselves from this perspective—from the standpoint of an agent, not merely an object. If you really want to resist this notion, and claim that human freedom and moral responsibility are utter illusions, then Kant’s account can’t prove you wrong. But it would be difficult if not impossible to understand ourselves, to make sense of our lives, without some conception of freedom and morality. And any such conception, Kant thinks, commits us to the two standpoints—the standpoints of the agent and of the object. And once you see the force of this picture, you will see why science can never prove or disprove the possibility of freedom.
+
+Remember, Kant admits that we aren’t only rational beings. We don’t only inhabit the intelligible world. If we were only rational beings, not subject to the laws and necessities of nature, then all of our actions “would invariably accord with the autonomy of the will.”32Because we inhabit, simultaneously, both standpoints—the realm of necessity and the realm of freedom—there is always potentially a gapbetween what we do and what we ought to do, between the way things are and the way they ought to be.
+
+Another way of putting this point is to say that morality is not empirical. It stands at a certain distance from the world. It passes judgment on the world. Science can’t, for all its power and insight, reach moral questions, because it operates within the sensible realm.
+
+“To argue freedom away,” Kant writes, “is as impossible for the most abstruse philosophy as it is for the most ordinary human reason.”33It’s also impossible, Kant might have added, for cognitive neuroscience, however sophisticated. Science can investigate nature and inquire into the empirical world, but it cannot answer moral questions or disprove free will. That is because morality and freedom are not empirical concepts. We can’t prove that they exist, but neither can we make sense of our moral lives without presupposing them.
+
+Sex, Lies, and Politics
+
+One way of exploring Kant’s moral philosophy is to see how he applied it to some concrete questions. I would like to consider three applications—sex, lies, and politics. Philosophers are not always the best authorities on how to apply their theories in practice. But Kant’s applications are interesting in their own right and also shed some light on his philosophy as a whole.
+
+Kant’s case against casual sex
+
+Kant’s views on sexual morality are traditional and conservative. He opposes every conceivable sexual practice except sexual intercourse between husband and wife. Whether all of Kant’s views on sex actually follow from his moral philosophy is less important than the underlying idea they reflect—that we do not own ourselves and are not at our own disposal. He objects to casual sex (by which he means sex outside of marriage), however consensual, on the grounds that it is degradingand objectifying to both partners. Casual sex is objectionable, he thinks, because it is all about the satisfaction of sexual desire, not about respect for the humanity of one’s partner.
+
+The desire which a man has for a woman is not directed toward her because she is a human being, but because she is a woman; that she is a human being is of no concern to the man; only her sex is the object of his desires.34
+
+Even when casual sex involves the mutual satisfaction of the partners, “each of them dishonours the human nature of the other. They make of humanity an instrument for the satisfaction of their lusts and inclinations.”35(For reasons we’ll come to in a moment, Kant thinks marriage elevates sex by taking it beyond physical gratification and connecting it with human dignity.)
+
+Turning to the question of whether prostitution is moral or immoral, Kant asks under what conditions the use of our sexual faculties is in keeping with morality. His answer, in this as in other situations, is that we should not treat others—or ourselves—merely as objects. We are not at our own disposal. In stark contrast to libertarian notions of self-possession, Kant insists that we do not own ourselves. The moral requirement that we treat persons as ends rather than as mere means limits the way we may treat our bodies and ourselves. “Man cannot dispose over himself because he is not a thing; he is not his own property.”36
+
+In contemporary debates about sexual morality, those who invoke autonomy rights argue that individuals should be free to choose for themselves what use to make of their own bodies. But this isn’t what Kant means by autonomy. Paradoxically, Kant’s conception of autonomy imposes certain limits on the way we may treat ourselves. For, recall: To be autonomous is to be governed by a law I give myself—the categorical imperative. And the categorical imperative requires that I treat all persons (including myself) with respect—as an end, notmerely as a means. So, for Kant, acting autonomously requires that we treat ourselves with respect, and not objectify ourselves. We can’t use our bodies any way we please.
+
+Markets in kidneys were not prevalent in Kant’s day, but the rich did buy teeth for implantation from the poor. (Transplanting of Teeth, a drawing by the eighteenth-century English caricaturist Thomas Rowlandson, shows a scene in a dentist’s office in which a surgeon extracts teeth from a chimney sweep while wealthy women wait for their implants.) Kant considered this practice a violation of human dignity. A person “is not entitled to sell a limb, not even one of his teeth.”37To do so is to treat oneself as an object, a mere means, an instrument of profit.
+
+Kant found prostitution objectionable on the same grounds. “To allow one’s person for profit to be used by another for the satisfaction of sexual desire, to make of oneself an object of demand, is to . . . make of oneself a thing on which another satisfies his appetite, just as he satisfies his hunger upon a steak.” Human beings are “not entitled to offer themselves, for profit, as things for the use of others in the satisfaction of their sexual propensities.” To do so is to treat one’s person as a mere thing, an object of use. “The underlying moral principle is that man is not his own property and cannot do with his body what he will.”38
+
+Kant’s opposition to prostitution and casual sex brings out the contrast between autonomy as he conceives it—the free will of a rational being—and individual acts of consent. The moral law we arrive at through the exercise of our will requires that we treat humanity—in our own person and in others—never only as a means but as an end in itself. Although this moral requirement is based on autonomy, it rules out certain acts among consenting adults, namely those that are at odds with human dignity and self-respect.
+
+Kant concludes that only sex within marriage can avoid “degrading humanity.” Only when two persons give each other the whole of themselves, and not merely the use of their sexual capacities, can sex be other than objectifying. Only when both partners share with each othertheir “person, body and soul, for good and ill and in every respect,” can their sexuality lead to “a union of human beings.”39Kant does not say that every marriage actually brings about a union of this kind. And he may be wrong to think that no such unions can ever occur outside of marriage, or that sexual relations outside of marriage involve nothing more than sexual gratification. But his views about sex highlight the difference between two ideas that are often confused in contemporary debate—between an ethic of unfettered consent and an ethic of respect for the autonomy and dignity of persons.
+
+Is it wrong to lie to a murderer?
+
+Kant takes a hard line against lying. In theGroundwork, it serves as a prime example of immoral behavior. But suppose a friend was hiding in your house, and a murderer came to the door looking for him. Wouldn’t it be right to lie to the murderer? Kant says no. The duty to tell the truth holds regardless of the consequences.
+
+Benjamin Constant, a French philosopher and contemporary of Kant, took issue with this uncompromising stance. The duty to tell the truth applies, Constant argued, only to those who deserve the truth, as surely the murderer does not. Kant replied that lying to the murderer is wrong, not because it harms him, but because it violates the principle of right: “Truthfulness in statements that cannot be avoided is the formal duty of man to everyone, however great the disadvantage that may arise therefrom for him or for any other.”40
+
+Admittedly, helping a murderer carry out his evil deed is a pretty heavy “disadvantage.” But remember, for Kant, morality is not about consequences; it’s about principle. You can’t control the consequences of your action—in this case, telling the truth—since consequences are bound up with contingency. For all you know, your friend, fearing that the murderer is on his way, has already slipped out the back door. The reason you must tell the truth, Kant states, is not that the murderer is entitled to the truth, or that a lie would harm him. It’s that a lie—anylie—“vitiates the very source of right . . . To be truthful (honest) in all declarations is, therefore, a sacred and unconditionally commanding law of reason that admits of no expediency whatsoever.”41
+
+This seems a strange and extreme position. Surely we don’t have a moral duty to tell a Nazi storm trooper that Anne Frank and her family are hiding in the attic. It would seem that Kant’s insistence on telling the truth to the murderer at the door either misapplies the categorical imperative or proves its folly.
+
+Implausible though Kant’s claim may seem, I would like to offer a certain defense of it. Although my defense differs from the one that Kant offers, it is nonetheless in the spirit of his philosophy, and, I hope, sheds some light on it.
+
+Imagine yourself in the predicament with a friend hiding in the closet and the murderer at the door. Of course you don’t want to help the murderer carry out his evil plan. That is a given. You don’t want to say anything that will lead the murderer to your friend. The question is, what do you say? You have two choices. You could tell an outright lie: “No, she’s not here.” Or you could offer a true but misleading statement: “An hour ago, I saw her down the road, at the grocery store.”
+
+From Kant’s point of view, the second strategy is morally permissible, but the first is not. You might consider this caviling. What, morally speaking, is the difference between a technically true but misleading statement and an outright lie? In both cases, you are hoping to mislead the murderer into believing that your friend is not hiding in the house.
+
+Kant believes a great deal is at stake in the distinction. Consider “white lies,” the small untruths we sometimes tell out of politeness, to avoid hurt feelings. Suppose a friend presents you with a gift. You open the box and find a hideous tie, something you would never wear. What do you say? You might say, “It’s beautiful!” This would be a white lie. Or you might say, “You shouldn’t have!” Or, “I’ve never seen a tie like this. Thank you.” Like the white lie, these statements might give your friend the false impression that you like the tie. But they would nonetheless be true.
+
+Kant would reject the white lie, because it makes an exception to the moral law on consequentialist grounds. Sparing someone’s feelings is an admirable end, but it must be pursued in a way that is consistent with the categorical imperative, which requires that we be willing to universalize the principle on which we act. If we can carve out exceptions whenever we think our ends are sufficiently compelling, then the categorical character of the moral law unravels. The true but misleading statement, by contrast, does not threaten the categorical imperative in the same way. In fact, Kant once invoked this distinction when faced with a dilemma of his own.
+
+Would Kant have defended Bill Clinton?
+
+A few years before his exchange with Constant, Kant found himself in trouble with King Friedrich Wilhelm II. The king and his censors considered Kant’s writings on religion disparaging to Christianity, and demanded that he pledge to refrain from any further pronouncements on the topic. Kant responded with a carefully worded statement: “As your Majesty’s faithful subject, I shall in the future completely desist from all public lectures or papers concerning religion.”42
+
+Kant was aware, when he made his statement, that the king was not likely to live much longer. When the king died a few years later, Kant considered himself absolved of the promise, which bound him only “as your Majesty’s faithful subject.” Kant later explained that he had chosen his words “most carefully, so that I should not be deprived of my freedom . . . forever, but only so long as His Majesty was alive.”43By this clever evasion, the paragon of Prussian probity succeeded in misleading the censors without lying to them.
+
+Hairsplitting? Perhaps. But something of moral significance does seem to be at stake in the distinction between a bald-faced lie and an artful dodge. Consider former president Bill Clinton. No American public figure in recent memory chose his words or crafted his denials more carefully. When asked, during his first presidential campaign,whether he had ever used recreational drugs, Clinton replied that he had never broken the antidrug laws of his country or state. He later conceded that he had tried marijuana while a student at Oxford in England.
+
+His most memorable such denial came in response to reports that he had had sex in the White House with a twenty-two-year-old intern, Monica Lewinsky: “I want to say one thing to the American people. I want you to listen to me . . . I did not have sexual relations with that woman, Ms. Lewinsky.”
+
+It later came out that the president did have sexual encounters with Monica Lewinsky, and the scandal led to impeachment proceedings. During the impeachment hearings, a Republican congressman argued with a Clinton attorney, Gregory Craig, over whether the president’s denial of “sexual relations” was a lie:
+
+The president’s attorney conceded, as Clinton had already done, that the relationship with the intern was wrong, inappropriate, and blameworthy, and that the president’s statements about it “misled and deceived” the public. The only thing he refused to concede was that the president had lied.
+
+What was at stake in that refusal? The explanation can’t simply be the legalistic one that lying under oath, in a deposition or in court, is a basis for perjury charges. The statement at issue was not made under oath, but in a televised statement to the American public. And yet both the Republican inquisitor and the Clinton defender believed that something important was at stake in establishing whether Clinton had lied or merely misled and deceived. Their spirited colloquy over theLword—“Did he lie?”—supports the Kantian thought that there is a morally relevant difference between a lie and a misleading truth.
+
+But what could that difference be? The intention is arguably the same in both cases. Whether I lie to the murderer at the door or offer him a clever evasion, my intention is to mislead him into thinking that my friend is not hiding in my house. And on Kant’s moral theory, it’s the intention, or motive, that matters.
+
+The difference, I think, is this: A carefully crafted evasion pays homage to the duty of truth-telling in a way that an outright lie does not. Anyone who goes to the bother of concocting a misleading but technically true statement when a simple lie would do expresses, however obliquely, respect for the moral law.
+
+A misleading truth includes two motives, not one. If I simply lie to the murderer, I act out of one motive—to protect my friend from harm. If I tell the murderer that I recently saw my friend at the grocery store, I act out of two motives—to protect my friend and at the same time to uphold the duty to tell the truth. In both cases, I am pursuing an admirable goal, that of protecting my friend. But only in the second case do I pursue this goal in a way that accords with the motive of duty.
+
+Some might object that, like a lie, a technically true but misleading statement could not be universalized without contradiction. But consider the difference: If everyone lied when faced with a murderer at the door or an embarrassing sex scandal, then no one would believe such statements, and they wouldn’t work. The same cannot be said of misleading truths. If everyone who found himself in a dangerous or embarrassing situation resorted to carefully crafted evasions, people would not necessarily cease to believe them. Instead, people would learn to listen like lawyers and parse such statements with an eye to their literal meaning. This is exactly what happened when the press and the public became familiar with Clinton’s carefully worded denials.
+
+Kant’s point is not that this state of affairs, in which people parse politicians’ denials for their literal meaning, is somehow better than one in which nobody believes politicians at all. That would be a consequentialist argument. Kant’s point is rather that a misleading statement that is nonetheless true does not coerce or manipulate the listener inthe same way as an outright lie. It’s always possible that a careful listener could figure it out.
+
+So there is reason to conclude that, on Kant’s moral theory, true but misleading statements—to a murderer at the door, the Prussian censors, or the special prosecutor—are morally permissible in a way that bald-faced lies are not. You may think that I’ve worked too hard to save Kant from an implausible position. Kant’s claim that it’s wrong to lie to the murderer at the door may not ultimately be defensible. But the distinction between an outright lie and a misleading truth helps illustrate Kant’s moral theory. And it brings out a surprising similarity between Bill Clinton and the austere moralist from Konigsberg.
+
+Kant and justice
+
+Unlike Aristotle, Bentham, and Mill, Kant wrote no major work of political theory, only some essays. And yet, the account of morality and freedom that emerges from his ethical writings carries powerful implications for justice. Although Kant does not work out the implications in detail, the political theory he favors rejects utilitarianism in favor of a theory of justice based on a social contract.
+
+First, Kant rejects utilitarianism, not only as a basis for personal morality but also as a basis for law. As he sees it, a just constitution aims at harmonizing each individual’s freedom with that of everyone else. It has nothing to do with maximizing utility, which “must on no account interfere” with the determination of basic rights. Since people “have different views on the empirical end of happiness and what it consists of,” utility can’t be the basis of justice and rights. Why not? Because resting rights on utility would require the society to affirm or endorse one conception of happiness over others. To base the constitution on one particular conception of happiness (such as that of the majority) would impose on some the values of others; it would fail to respect the right of each person to pursue his or her own ends. “No one can compel me to be happy in accordance with his conception of the welfare ofothers,” Kant writes, “for each may seek his happiness in whatever way he sees fit, so long as he does not infringe upon the freedom of others” to do the same.45
+
+A second distinctive feature of Kant’s political theory is that it derives justice and rights from a social contract—but a social contract with a puzzling twist. Earlier contract thinkers, including Locke, argued that legitimate government arises from a social contract among men and women who, at one time or another, decide among themselves on the principles that will govern their collective life. Kant sees the contract differently. Although legitimate government must be based on an original contract, “we need by no means assume that this contract . . . actually exists as afact, for it cannot possibly be so.” Kant maintains that the original contract is not actual but imaginary.46
+
+Why derive a just constitution from an imaginary contract rather than a real one? One reason is practical: It’s often hard to prove historically, in the distant history of nations, that any social contract ever took place. A second reason is philosophical: Moral principles can’t be derived from empirical facts alone. Just as the moral law can’t rest on the interests or desires of individuals, principles of justice can’t rest on the interests or desires of a community. The mere fact that a group of people in the past agreed to a constitution is not enough to make that constitution just.
+
+What kind of imaginary contract could possibly avoid this problem? Kant simply calls it “anideaof reason, which nonetheless has undoubted practical reality; for it can oblige every legislator to frame his laws in such a way that they could have been produced by the united will of a whole nation,” and obligate each citizen “as if he had consented.” Kant concludes that this imaginary act of collective consent “is the test of the rightfulness of every public law.”47
+
+Kant didn’t tell us what this imaginary contract would look like or what principles of justice it would produce. Almost two centuries later, an American political philosopher, John Rawls, would try to answer these questions.

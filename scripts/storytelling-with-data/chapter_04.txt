@@ -1,0 +1,231 @@
+chapter 4focus your audience’s attention
+
+In the previous chapter, we learned about clutter and the importance of identifying and removing it from our visuals. While we work to eliminate distractions, we also want to look at what remains and consider how we want our audience to interact with our visual communications.
+
+In this chapter, we further examine how people see and how you can use that to your advantage when crafting visuals. We will talk briefly about sight and memory in order to highlight the importance of some specific, powerful tools:preattentive attributes. We will explore how preattentive attributes like size, color, and position on page can be used strategically in two ways. First, preattentive attributes can be leveraged to help direct your audience’s attention to where you want them to focus it. Second, they can be used to create a visual hierarchy of elements to lead your audience through the information you want to communicate in the way you want them to process it.
+
+By understanding how our audience sees and processes information, we put ourselves in a better position to be able to communicate effectively.
+
+You see with your brain
+
+Let’s look at a simplified picture of how people see, depicted inFigure 4.1. The process goes something like this: light reflects off of a stimulus. This gets captured by our eyes. We don’t fully see with our eyes; there is some processing that happens there, but mostly it is what happens in our brain that we think of as visual perception.
+
+Figure 4.1A simplified picture of how you see
+
+A brief lesson on memory
+
+Within the brain, there are three types of memory that are important to understand as we design visual communications: iconic memory, short-term memory, and long-term memory. Each plays an important and distinct role. What follows are basic explanations of highly complex processes, covered simply to set the stage for what you need to know when designing visual communications.
+
+Iconic memory
+
+Iconic memory is super fast. It happens without you consciously realizing it and is piqued when we look at the world around us.Why?Long ago in the evolutionary chain, predators helped our brains develop in ways that allowed for great efficiency of sight and speed of response. In particular, the ability to quickly pick up differences in our environment—for example, the motion of a predator in the distance—became ingrained in our visual process. These were survival mechanisms then; they can be leveraged for effective visual communication today.
+
+Information stays in your iconic memory for a fraction of a second before it gets forwarded on to your short-term memory. The important thing about iconic memory is that it is tuned to a set of preattentive attributes. Preattentive attributes are critical tools in your visual design tool belt, so we’ll come back to those in a moment. In the meantime, let’s continue our discussion on memory.
+
+Short-term memory
+
+Short-term memory has limitations. Specifically, people can keep about four chunks of visual information in their short-term memory at a given time. This means that if we create a graph with ten different data series that are ten different colors with ten different shapes of data markers and a legend off to the side, we’re making our audience work very hard going back and forth between the legend and the data to decipher what they are looking at. As we’ve discussed previously, to the extent possible, we want to limit this sort of cognitive burden on our audience. We don’t want to make our audience work to get at the information, because in doing so, we run the risk of losing their attention. With that, we lose our ability to communicate.
+
+In this specific situation, one solution is to label the various data series directly (reducing that work of going back and forth between the legend and the data by leveraging the Gestalt principle of proximity that we covered in Chapter 3). More generally, we want to formlarger, coherent chunks of information so that we can fit them into the finite space in our audience’s working memory.
+
+Long-term memory
+
+When something leaves short-term memory, it either goes into oblivion and is likely lost forever, or is passed into long-term memory. Long-term memory is built up over a lifetime and is vitally important for pattern recognition and general cognitive processing. Long-term memory is the aggregate of visual and verbal memory, which act differently. Verbal memory is accessed by a neural net, where the path becomes important for being able to recognize or recall. Visual memory, on the other hand, functions with specialized structures.
+
+There are aspects of long-term memory that we want to make use of when it comes to having our message stick with our audience. Of particular importance to our conversation is that images can help us more quickly recall things stored in our long-term verbal memory. For example, if you see a picture of the Eiffel Tower, a flood of concepts you know about, feelings you have toward, or experiences you’ve had in Paris may be triggered. By combining the visual and verbal, we set ourselves up for success when it comes to triggering the formation of long-term memories in our audience. We’ll discuss some specific tactics for this in Chapter 7 in the context of storytelling.
+
+Preattentive attributes signal where to look
+
+In the previous section, I introduced iconic memory and mentioned that it is tuned to preattentive attributes. The best way to prove the power of preattentive attributes is to demonstrate it.Figure 4.2shows a block of numbers. Taking note of how you process the information and how long it takes, quickly count the number of 3s that appear in the sequence.
+
+Figure 4.2Count the 3s example
+
+The correct answer is six. InFigure 4.2, there were no visual cues to help you reach this conclusion. This makes for a challenging exercise, during which you have to hunt through four lines of text, looking for the number 3 (a kind of complicated shape).
+
+Check out what happens when we make a single change to the block of numbers. Turn the page and repeat the exercise of counting the 3s usingFigure 4.3.
+
+Figure 4.3Count the 3s example with preattentive attributes
+
+Note how much easier and faster the same exercise is usingFigure 4.3. You don’t have time to blink, don’t really have time to think, and suddenly there are six 3s in front of you. This is so apparent so quickly because in this second iteration, your iconic memory is being leveraged. The preattentive attribute of intensity of color, in this case, makes the 3s the one thing that stands out as distinct from the rest. Our brain is quick to pick up on this without our having to dedicate any conscious thought to it.
+
+This is remarkable. And profoundly powerful. It means that, if we use preattentive attributes strategically, they can help usenable our audience to see what we want them to see before they even know they’re seeing it!
+
+Note the multiple preattentive attributes I’ve used in the preceding text to underscore its importance!
+
+Figure 4.4shows the various preattentive attributes.
+
+Figure 4.4Preattentive attributes
+
+Source: Adapted from Stephen Few’sShow Me the Numbers, 2004.
+
+Note as you scan across the attributes inFigure 4.4, your eye is drawn to the one element within each group that is different from the rest: you don’t have to look for it. That’s because our brains are hardwired to quickly pick up differences we see in our environment.
+
+One thing to be aware of is that people tend to associate quantitative values with some (but not all) of the preattentive attributes. For example, most people will consider a long line to represent a greater value than a short line. That is one of the reasons bar charts are straightforward for us to read. But we don’t think of color in the same way. If I ask you which is greater—red or blue?—this isn’t a meaningful question. This is important because it tells us which of the attributes can be used to encode quantitative information (line length, spatial position, or to a more limited extent, line width, size, and intensity can be used to reflect relative value), and which should be used as categorical differentiators.
+
+When used sparingly, preattentive attributes can be extremely useful for doing two things: (1) drawing your audience’s attention quicklyto where you want them to look, and (2) creating a visual hierarchy of information. Let’s look at examples of each of these, first with text and then in the context of data visualization.
+
+Preattentive attributes in text
+
+Without any visual cues, when we’re confronted with a block of text, our only option is to read it. But preattentive attributes employed sparingly can quickly change this.Figure 4.5shows how you can utilize some of the preattentive attributes introduced previously with text. The first block of text doesn’t employ any preattentive attributes. This renders it similar to the count the 3s example: you have to read it, put on the lens of what’s important or interesting, then possibly read it again to put the interesting parts back into the context of the rest.
+
+Figure 4.5Preattentive attributes in text
+
+Observe how leveraging preattentive attributes changes the way you process the information. The subsequent blocks of text employ a single preattentive attribute each. Note how, within each, the preattentive attribute grabs your attention, and how some attributes draw your eyes with greater or weaker force than others (for example, color and size are attention grabbing, whereas italics achieve a milder emphasis).
+
+Beyond drawing our audience’s attention to where we want them to focus it, we can employ preattentive attributes to createvisual hierarchyin our communications. As we saw inFigure 4.5, the various attributes draw our attention with differing strength. In addition, there are variances within a given preattentive attribute that will draw attention with more or less strength. For example, with the preattentive attribute of color, a bright blue will typically draw attention more than a muted blue. Both will draw more attention than a light grey. We can leverage this variance and use multiple preattentive attributes together to make our visuals scannable, by emphasizing some components and de-emphasizing others.
+
+Figure 4.6illustrates how this can be done with the block of text from the previous example.
+
+Figure 4.6Preattentive attributes can help create a visual hierarchy of information
+
+Preattentive attributes have been used inFigure 4.6to create a visual hierarchy of information. This makes the information we present more easily scannable. Studies have shown that we have about 3–8 seconds with our audience, during which time they decide whether to continue to look at what we’ve put in front of them or direct their attention to something else. If we’ve used our preattentiveattributes wisely, even if we only get that initial 3–8 seconds, we’ve given our audience the gist of what we want to say.
+
+Leveraging preattentive attributes to create a clear visual hierarchy of information establishes implicit instructions for your audience, indicating to them how to process the information. We can signal what is most important that they should pay attention to first, what is second most important that they should pay attention to next, and so on. We can push necessary but non-message-impacting components to the background so they don’t compete for attention. This makes it both easier and faster for our audience to take in the information that we provide.
+
+The preceding example demonstrated the use of preattentive attributes in text. Preattentive attributes are also very useful for communicating effectively with data.
+
+Preattentive attributes in graphs
+
+Graphs, without other visual cues, can become very much like the count the 3s exercise or the block of text we’ve considered previously. Take the following example. Imagine you work for a car manufacturer. You are interested in understanding and sharing insight about the top design concerns (measured as the number of concerns per 1,000 concerns) from customers for a particular vehicle make and model. Your initial visual might look something likeFigure 4.7.
+
+Figure 4.7Original graph, no preattentive attributes
+
+Note how, without other visual cues, you are left to processall of the information.With no clues about what’s important or should be paid attention to, it’s the count the 3s exercise all over again.
+
+Recall the distinction that was drawn early on in Chapter 1 between exploratory and explanatory analysis. The visual inFigure 4.7could be one you create during the exploratory phase: when you’re looking at the data to understand what might be interesting or noteworthy to communicate to someone else.Figure 4.7shows us that there are ten design concerns that have more than eight concerns per 1,000.
+
+When it comes to explanatory analysis and leveraging this visual to shareinformationwith your audience (rather than just showing data), thoughtful use of color and text is one way we can focus the story, as illustrated inFigure 4.8.
+
+Figure 4.8Leverage color to draw attention
+
+We can go one step further, using the same visual but with modified focus and text to lead our audience from the macro to the micro parts of the story, as demonstrated inFigure 4.9.
+
+Figure 4.9Create a visual hierarchy of information
+
+Especially in live presentation settings, repeated iterations of the same visual, with different pieces emphasized to tell different stories or different aspects of the same story (as demonstrated inFigures 4.7,4.8, and4.9), can be an effective strategy. This allows you to familiarize your audience with your data and visual first and then continue to leverage it in the manner illustrated. Note in this example how your eyes are drawn to the elements of the visual you’re meant to focus on due to strategic use of preattentive attributes.
+
+Highlighting one aspect can make other things harder to see
+
+One word of warning in using preattentive attributes: when you highlight one point in your story, it can actually make other points harder to see. When you’re doing exploratory analysis, you should mostly avoid the use of preattentive attributes for this reason. When it comes toexplanatoryanalysis, however, you should have a specific story you are communicating to your audience. Leverage preattentive attributes to help make that story visually clear.
+
+The previous example used mainly color to draw the viewer’s attention. Let’s look at another scenario using a different preattentive attribute. Recall the example introduced in Chapter 3: you manage an IT team and want to show how the volume of incoming tickets exceeds your team’s resources. After decluttering the graph, we were left withFigure 4.10.
+
+Figure 4.10Let’s revisit the ticket example
+
+In the process of determining where I want to focus my audience’s attention, one strategy I’ll often employ is to start by pushingeverythingto the background. This forces me to make explicit decisions regarding what to bring to the forefront or highlight. Let’s start by doing this; seeFigure 4.11.
+
+Figure 4.11First, push everything to the background
+
+Next, I want to make the data stand out.Figure 4.12shows both data series (Received and Processed) bolder and bigger than axis lines and labels. It was an intentional decision to make the Processed line darker than the Received line to draw emphasis to the fact that the number of tickets being processed has fallen below the number being received.
+
+Figure 4.12Make the data stand out
+
+In this case, we want to draw our audience’s attention to the right side of the graph, where the gap has started to form. Without other visual cues, our audience will typically start at the top left of our visual and do zigzagging “z’s” with their eyes across the page. The viewer will eventually get to that gap on the right-hand side, but let’s consider how we can use our preattentive attributes to make that happen more quickly.
+
+The added marks of data points and numeric labels are one preattentive attribute we can leverage. Bear with me, though, as we take a step in the wrong direction before we go in the right one. SeeFigure 4.13.
+
+Figure 4.13Too many data labels feels cluttered
+
+When we add data markers and numeric labels to every data point, we quickly create a cluttered mess. But check out what happens inFigure 4.14when we’re strategic aboutwhichdata markers and labels we preserve and which we eliminate.
+
+Figure 4.14Data labels used sparingly help draw attention
+
+InFigure 4.14, the added marks act as a “look here” signal, drawing our audience’s attention more quickly to the right side of the graph.They provide for our audience the added benefit of allowing them to do some quick math in the event that they want to understand how big the backlog is becoming (if we think that is something they’d definitely want to do, we should consider doing it for them).
+
+These are just a couple of examples of using preattentive attributes to focus the audience’s attention. We will look at a number of additional examples that leverage this same broad strategy in different ways throughout the rest of this book.
+
+There are a few preattentive attributes that are so important from a strategic standpoint when it comes to focusing your audience’s attention that they warrant their own specific discussions: size, color, and position on page. We’ll address each of these in the following sections.
+
+Size
+
+Size matters. Relative size denotes relative importance. Keep this in mind when designing your visual communications. If you’re showing multiple things that are of roughly equal importance, size them similarly. Alternatively, if there is one really important thing, leverage size to indicate that: make it BIG!
+
+The following is a real situation where size nearly caused unintended repercussions.
+
+Early in my career at Google, we were designing a dashboard to help with a decision-making process (I’m being intentionally vague to preserve confidentiality). In the design phase, there were three main pieces of information we knew we wanted to include, only one of which was readily available (the other data had to be chased after). In the initial versions of the dashboard, the information we had on hand took up probably 60% of the dashboard’s real estate, with placeholders for the other information we were collecting. After getting our hands on the other data, we plugged it into the existing placeholders. Rather late in the game, we realized that the size ofthat initial data we had included was drawing undue attention compared to the rest of the information on the page. Luckily, we caught this before it was too late. We modified the layout to make the three equally important things the same size. It’s interesting to think that completely different conversations may have been had and decisions reached as a result of this shift in design.
+
+This was an important lesson for me (and one that we’ll highlight in the next section on color as well): don’t let your design choices be happenstance; rather, they should be the result of explicit decisions.
+
+Color
+
+When used sparingly, color is one of the most powerful tools you have for drawing your audience’s attention. Resist the urge to use color for the sake of being colorful; instead, leverage color selectively as a strategic tool to highlight the important parts of your visual. The use of color should always be an intentional decision. Never let your tool make this important decision for you!
+
+I typically design my visuals in shades of grey and pick a single bold color to draw attention where I want it. My base color is grey, not black, to allow for greater contrast since color stands out more against grey than black. For my attention-grabbing color, I often use blue for a number of reasons: (1) I like it, (2) you avoid issues of colorblindness that we’ll discuss momentarily, and (3) it prints well in black-and-white. That said, blue is certainly not your only option (and you’ll see many examples where I deviate from my typical blue for various reasons).
+
+When it comes to the use of color, there are several specific lessons to know: use it sparingly, use it consistently, design with the colorblind in mind, be thoughtful of the tone color conveys, and consider whether to leverage brand colors. Let’s discuss each of these in detail.
+
+Use color sparingly
+
+It’s easy to spot a hawk in a sky full of pigeons, but as the variety of birds increases, that hawk becomes harder and harder to locate. Remember the adage from Colin Ware that we discussed in the last chapter on clutter? The same principle applies here. For color to be effective, it must be used sparingly. Too much variety prevents anything from standing out. There needs to be sufficient contrast to make something draw your audience’s attention.
+
+When we use too many colors together, beyond entering rainbow-land, we lose their preattentive value. By way of example, I once encountered a table that showed market rank for a handful of pharmaceutical drugs across a number of different countries, similar to the left-hand side ofFigure 4.15. Each rank (1, 2, 3, and so on) was assigned its own color along a rainbow spectrum: 1 = red, 2 = orange, 3 = yellow, 4 = light green, 5 = green, 6 = teal, 7 = blue, 8 = dark blue, 9 = light purple, 10+ = purple. The cells within the table were filled with the color that corresponded to the numerical ranking. Rainbow Brite might have loved this table (for those unfamiliar, a quick Google image search of Rainbow Brite will bring some understanding to this statement), but I was not a fan. The power of the preattentive attributes was lost: everything was different, which meant that nothing stood out. We were back to the count the 3s example—only worse, because the variance in colors was actually more distracting than helpful. A better alternative would be to use varying color saturation of a single color (a heatmap).
+
+Figure 4.15Use color sparingly
+
+Let’s considerFigure 4.15. Where are your eyes drawn in the version on the left? Mine dart around quite a bit, trying to figure out what I should pay attention to. They hesitate on the dark purple, then red, then to the dark blue, probably because these have a higher saturation of color than the others. However, when we consider what these colors represent, it’s not necessarily where we want our audience to look.
+
+In the version on the right-hand side, varying saturation of a single color is used. Note that our perception is more limited when it comes to relative saturation, but one benefit we get is that it does carry with it some quantitative assumptions (that more heavily saturated represents greater value than less or vice versa—something you don’t get with the rainbow colors used originally as categorical differentiators). This works well for our purpose here, where the low numbers (market leaders) are denoted with the highest color saturation. We are drawn to the dark blue first—the market leaders. This is a more thoughtful use of color.
+
+Where are your eyes drawn?
+
+There is an easy test for determining whether preattentive attributes are being used effectively. Create your visual, then close your eyes or look away for a moment and then look back at it, taking note of where your eyes are drawn first. Do they immediately land where you want your audience to focus? Better yet, seek the help of a friend or colleague—ask them to talk you through how they process the visual: where their eyes go first, where they go next, and so on. This is a great way to see things through your audience’s eyes and confirm whether the visual you’ve created is drawing attention and creating a visual hierarchy of information in the way that you desire.
+
+Use color consistently
+
+One question regularly raised in my workshops is around novelty.Does it make sense to change up the colors or graph types so the audience doesn’t get bored?My answer is a resoundingNo!The story you are telling should be what keeps your audience’s attention (we’ll talk about story more in Chapter 7), not the design elements of your graphs. When it comes to the type of graph, you should always use whatever will be easiest for your audience to read. When showing similar information that can be graphed the same way, there can be benefit to keeping the same layout as you essentially train your audience how to read the information, making the interpretation of later graphs all the easier and reducing mental fatigue.
+
+A change in colors signals just that—a change. So leverage this when you want your audience to feel change for some reason, but never simply for the sake of novelty. If you are designing your communication in shades of grey and using a single color to draw attention, leverage that same schematic throughout the communication. Your audience quickly learns that blue, for example, signals where they are meant to look first, and can use this understandingas they process subsequent slides or visuals. However, if you want to signal a clear change in topic or tone, a shift in color is one way to visually reinforce this.
+
+There are some cases where use of color must be consistent. Your audience will typically take time to familiarize themselves with what colors mean once and then will assume the same details apply throughout the rest of the communication. For example, if you are displaying data across four regions in a graph, each having their own color in one place within your presentation or report, be sure to preserve this same schematic throughout the visuals in the rest of your presentation or report (and avoid use of the same colors for other purposes if possible). Don’t confuse your audience by changing your use of color.
+
+Design with colorblind in mind
+
+Roughly 8% of men (including my husband and a former boss) and half a percent of women are colorblind. This most frequently manifests itself as difficulty in distinguishing between shades of red and shades of green. In general, you should avoid using shades of red and shades of green together. Sometimes, though, there is useful connotation that comes with using red and green: red to denote the double-digit loss you want to draw attention to or green to highlight significant growth. You can still leverage this, but make sure to have some additional visual cue to set the important numbers apart so you aren’t inadvertently disenfranchising part of your audience. Consider also using bold, varying saturation or brightness, or adding a simple plus or minus sign in front of the numbers to ensure they stand out.
+
+When I’m designing a visual and selecting colors to highlight both positive and negative aspects, I frequently use blue to signal positive and orange for negative. I feel that positive and negative associations with these colors are still recognizable and you avoid the colorblind challenge described above. When you face this situation, consider whether you need to highlight both ends of the scale (positive andnegative) with color, or if drawing attention to one or the other (or sequentially, one and then the other) might work to tell your story.
+
+See your graphs and slides through colorblind eyes
+
+There are a number of sites and applications with colorblindness simulators that allow you to see what your visual looks like through colorblind eyes. For example,Vischeck(vischeck.com) allows you to upload images or download the tool to use on your own computer.Color Oracle(colororacle.org) offers a free download for Windows, Linux, or Mac that applies a full-screen color filter independent of the software in use.CheckMyColours(checkmycolours.com) is a tool for checking foreground and background colors and determining if they provide sufficient contrast when viewed by someone having color-sight deficiency.
+
+Be thoughtful of tone that color conveys
+
+Color evokes emotion. Consider the tone you want to set with your data visualization or broader communication and choose a color (or colors) that help reinforce the emotion you want to arouse from your audience. Is the topic serious or lighthearted? Are you making a striking bold statement and want your colors to echo it, or is a more circumspect approach with a muted color-scheme appropriate?
+
+Let’s discuss a couple specific examples of color and tone. I was once told by a client that the visuals I had made over looked “too nice” (as in friendly). I had created these particular visuals in my typical color palette: shades of grey with a medium blue used sparingly to draw attention. They were reporting the results of statistical analysis, and were used to and wanted a more clinical look and feel. Taking this into account, I reworked the visuals to leverage bold black to draw attention. I also swapped some of the title text for all capitalletters and changed the font throughout (we’ll discuss font in more detail in Chapter 5 in the context of design).
+
+The resulting visuals, though at the core were exactly the same, had a completely different look and feel because of these simple changes. As with many of the other decisions we make when communicating with data, the audience (in this case, my client) should be kept top of mind and their needs and desires considered when making design choices like these.
+
+Cultural color connotations
+
+When picking colors for communications to international audiences, it may be important to consider the connotations colors have in other cultures. David McCandless created a visualization showing colors and what they mean in different cultures, which can be found in his bookThe Visual Miscellaneum: A Colorful Guide to the World’s Most Consequential Trivia(2012) or on his website atinformationisbeautiful.net/visualizations/colours-in-cultures.
+
+As another example on color and tone, I recall flipping through an airline magazine on a business trip and finding a fluffy article on online dating accompanied by graphs charting related data. The graphs were almost entirely hot pink and teal. Would you choose this color scheme for your quarterly business report? Certainly not. But given the nature and lively tone of the article these visuals accompanied, the peppy colors worked (and caught my attention!).
+
+Brand colors: to leverage or not to leverage?
+
+Some companies go through major undertakings to create their branding and associated color palette. There may be brand colors that you are required to work with or that make sense to leverage. The key to success when that is the case is to identify one or maybetwo brand-appropriate colors to use as your “audience-look-here” cues and keep the rest of your color palette relatively muted with shades of grey or black.
+
+In some cases, it may make sense to deviate from brand colors entirely. For example, I was once working with a client whose brand color was a light shade of green. I originally wanted to leverage this green as the standout color, but it simply wasn’t attention grabbing enough. There wasn’t sufficient contrast, so the visuals I created had a washed-out feel. When this is the case, you can use bold black to draw attention when everything else is in shades of grey, or choose an entirely different color—just make sure it doesn’t clash with the brand colors if they need to be shown together (for example, if the brand logo will be on each page of the slide deck you are building). In this particular case, the client favored the version where I used an entirely different color. A sample of each of the approaches is shown inFigure 4.16.
+
+Figure 4.16Color options with brand color
+
+In short: be thoughtful when it comes to your use of color!
+
+Position on page
+
+Without other visual cues, most members of your audience will start at the top left of your visual or slide and scan with their eyes in zigzag motions across the screen or page. They see the top of the pagefirst, which makes this precious real estate. Think about putting the most important thing here (seeFigure 4.17).
+
+Figure 4.17The zigzag “z” of taking in information on a screen or page
+
+If something is important, try not to make your audience wade through other stuff to get to it. Eliminate this work by putting the important thing at the top. On a slide, these may be words (the main takeaway or call to action). In a data visualization, think about which data you want your audience to see first and whether rearranging the visual accordingly makes sense (it won’t always, but this is one tool you have at your disposal for signaling importance to your audience).
+
+Aim to work within the way your audience takes in information, not against it. Here is an example of asking the audience to work against the way that comes naturally to them: I was once shown a process flow diagram that started at the bottom right and you were meant to read it upwards and to the left. This felt really uncomfortable (feelings of discomfort are something we should aim to avoid in our audience!). All I wanted to do was read it from the top left to the bottom right, irrespective of the other visual cues that were present to try to encourage me to do the opposite. Another example I sometimes see in data visualization is something plotted on a scale ranging from negative to positive where the positive values are on the left (which is more typically associated with negative) and the negative values are on the right (which is more naturally associated with positive). Again, in this example, the information is organized in a way that is counter to the way the audience wants to take in the information, rendering the visual challenging to decipher. We’ll look at a specific example related to this in case study 3 in Chapter 9.
+
+Be mindful of how you position elements on a page and aim to do so in a way that will feel natural for your audience to consume.
+
+In closing
+
+Preattentive attributes are powerful tools when used sparingly and strategically in visual communication. Without other cues, our audience is left to processallof the information we put in front of them. Ease this by leveraging preattentive attributes like size, color, and position on page to signal what’s important. Use these strategic attributes to draw attention to where you want your audience to look and create visual hierarchy that helps guide your audience through the visual in the way you want. Evaluate the effectiveness of preattentive attributes in your visual by applying the “where are your eyes drawn?” test.
+
+With that, consider your fourth lesson learned. You now know how tofocus your audience’s attention where you want them to pay it.

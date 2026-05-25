@@ -1,0 +1,239 @@
+8. WHO DESERVES WHAT? / ARISTOTLE
+
+Callie Smarttwas a popular freshman cheerleader at Andrews High School in West Texas. The fact that she had cerebral palsy and moved about in a wheelchair didn’t dampen the enthusiasm she inspired among the football players and fans by her spirited presence on the sidelines at junior varsity games. But at the end of the season, Callie was kicked off the squad.1
+
+At the urging of some other cheerleaders and their parents, school officials told Callie that, to make the squad the next year, she would have to try out like everyone else, in a rigorous gymnastic routine involving splits and tumbles. The head cheerleader’s father led the opposition to Callie’s inclusion on the cheerleading team. He claimed he was concerned for her safety. But Callie’s mother suspected the opposition was motivated by resentment of the acclaim Callie received.
+
+Callie’s story raises two questions. One is a question of fairness. Should she be required to do gymnastics in order to qualify as a cheerleader, or is this requirement unfair, given her disability? One way of answering this question would be to invoke the principle of nondiscrimination: Provided she can perform well in the role, Callie should not be excluded from cheerleading simply because, through no fault of her own, she lacks the physical ability to perform gymnastic routines.
+
+But the nondiscrimination principle isn’t much help, because itbegs the question at the heart of the controversy: What does it mean to perform well in the role of cheerleader? Callie’s opponents claim that to be a good cheerleader you must be able to do tumbles and splits. That, after all, is how cheerleaders traditionally excite the crowd. Callie’s supporters would say this confuses the purpose of cheerleading with one way of achieving it. The real point of cheerleading is to inspire school spirit and energize the fans. When Callie roars up and down the sidelines in her wheelchair, waving her pom-poms and flashing her smile, she does well what cheerleaders are supposed to do—fire up the crowd. So in order to decide what the qualifications should be, we have to decide what’s essential to cheerleading, and what’s merely incidental.
+
+The second question raised by Callie’s story is about resentment. What kind of resentment might motivate the head cheerleader’s father? Why is he bothered by the presence of Callie on the squad? It can’t be fear that Callie’s inclusion deprives his daughter of a place; she’s already on the team. Nor is it the simple envy he might feel toward a girl who outshines his daughter at gymnastic routines, which Callie, of course, does not.
+
+Here is my hunch: his resentment probably reflects a sense that Callie is being accorded an honor she doesn’t deserve, in a way that mocks the pride he takes in his daughter’s cheerleading prowess. If great cheerleading is something that can be done from a wheelchair, then the honor accorded those who excel at tumbles and splits is depreciated to some degree.
+
+If Callie should be a cheerleader because she displays, despite her disability, the virtues appropriate to the role, her claim does pose a certain threat to the honor accorded the other cheerleaders. The gymnastic skills they display no longer appear essential to excellence in cheerleading, only one way among others of rousing the crowd. Ungenerous though he was, the father of the head cheerleader correctly grasped what was at stake. A social practice once taken as fixed in its purpose and in the honors it bestowed was now, thanks to Callie, redefined. She had shown that there’s more than one way to be a cheerleader.
+
+Notice the connection between the first question, about fairness, and the second, about honor and resentment. In order to determine a fair way to allocate cheerleading positions, we need to determine the nature and purpose of cheerleading. Otherwise, we have no way of saying what qualities are essential to it. But determining the essence of cheerleading can be controversial, because it embroils us in arguments about what qualities are worthy of honor. What counts as the purpose of cheerleading depends partly on what virtues you think deserve recognition and reward.
+
+As this episode shows, social practices such as cheerleading have not only an instrumental purpose (cheering on the team) but also an honorific, or exemplary, purpose (celebrating certain excellences and virtues). In choosing its cheerleaders, the high school not only promotes school spirit but also makes a statement about the qualities it hopes students will admire and emulate. This explains why the dispute was so intense. It also explains what is otherwise puzzling—how those already on the team (and their parents) could feel they had a personal stake in the debate over Callie’s eligibility. These parents wanted cheerleading to honor the traditional cheerleader virtues their daughters possessed.
+
+Justice, Telos, and Honor
+
+Seen in this way, the dustup over cheerleaders in West Texas is a short course in Aristotle’s theory of justice. Central to Aristotle’s political philosophy are two ideas, both present in the argument over Callie:
+
+The key to understanding Aristotle’s ethics and politics is to see the force of these two considerations, and the relation between them.
+
+Modern theories of justice try to separate questions of fairness and rights from arguments about honor, virtue, and moral desert. They seek principles of justice that are neutral among ends, and enable people to choose and pursue their ends for themselves. Aristotle (384–322B.C.) does not think justice can be neutral in this way. He believes that debates about justice are, unavoidably, debates about honor, virtue, and the nature of the good life.
+
+Seeing why Aristotle thinks justice and the good life must be connected will help us see what’s at stake in the effort to separate them.
+
+For Aristotle, justice means giving people what they deserve, giving each person his or her due. But what is a person due? What are the relevant grounds of merit or desert? That depends on what’s being distributed. Justice involves two factors: “things, and the persons to whom things are assigned.” And in general we say that “persons who are equal should have assigned to them equal things.”2
+
+But here there arises a difficult question: Equals in what respect? That depends on what we’re distributing—and on the virtues relevant to those things.
+
+Suppose we’re distributing flutes. Who should get the best ones? Aristotle’s answer: the best flute players.
+
+Justice discriminates according to merit, according to the relevant excellence. And in the case of flute playing, the relevant merit is the ability to play well. It would be unjust to discriminate on any other basis, such as wealth, or nobility of birth, or physical beauty, or chance (a lottery).
+
+Birth and beauty may be greater goods than ability to play the flute, and those who possess them may, upon balance, surpass the flute-player more in these qualities than he surpasses them in his flute-playing; but the fact remains thatheis the man who ought to get the better supply of flutes.3
+
+There is something funny about comparing excellences across vastly disparate dimensions. It may not even make sense to ask, “Am I more handsome than she is a good lacrosse player?” Or, “Was Babe Ruth a greater baseball player than Shakespeare was a playwright?” Questions such as these may make sense only as parlor games. Aristotle’s point is that, in distributing flutes, we should not look for the richest or best-looking or even the best person overall. We should look for the best flute player.
+
+This idea is perfectly familiar. Many orchestras conduct auditions behind a screen, so that the quality of the music can be judged without bias or distraction. Less familiar is Aristotle’s reason. The most obvious reason for giving the best flutes to the best flute players is that doing so will produce the best music, making us listeners better off. But this is not Aristotle’s reason. He thinks the best flutes should go to the best flute players because that’s what flutes arefor—to be played well.
+
+The purpose of flutes is to produce excellent music. Those who can best realize this purpose ought to have the best ones.
+
+Now it’s also true that giving the best instruments to the best musicians will have the welcome effect of producing the best music, which everyone will enjoy—producing the greatest happiness for the greatest number. But it’s important to see that Aristotle’s reason goes beyond this utilitarian consideration.
+
+His way of reasoning from the purpose of a good to the proper allocation of the good is an instance of teleological reasoning. (Teleologicalcomes from the Greek word telos, which means purpose, end, or goal.) Aristotle claims that in order to determine the just distribution of a good, we have to inquire into the telos, or purpose, of the good being distributed.
+
+Teleological Thinking: Tennis Courts andWinnie-the-Pooh
+
+Teleological reasoning may seem a strange way to think about justice, but it does have a certain plausibility. Suppose you have to decide howto allocate use of the best tennis courts on a college campus. You might give priority to those who can pay the most for them, by setting a high fee. Or you might give priority to campus big shots—the president of the college, say, or the Nobel Prize–winning scientists. But suppose two renowned scientists were playing a rather indifferent tennis game, barely getting the ball over the net, and the varsity tennis team came along, wanting to use the court. Wouldn’t you say that the scientists should move to a lesser court so that the varsity players could use the best one? And wouldn’t your reason be that excellent tennis players can make the best use of the best courts, which are wasted on mediocre players?
+
+Or suppose a Stradivarius violin is for up sale, and a wealthy collector outbids Itzhak Perlman for it. The collector wants to display the violin in his living room. Wouldn’t we regard this as something of a loss, perhaps even an injustice—not because we think the auction is unfair, but because the outcome is unfitting? Lying behind this reaction may be the (teleological) thought that a Stradivarius is meant to be played, not displayed.
+
+In the ancient world, teleological thinking was more prevalent than it is today. Plato and Aristotle thought that fire rose because it was reaching for the sky, its natural home, and that stones fell because they were striving to get closer to the earth, where they belonged. Nature was seen as having a meaningful order. To understand nature, and our place in it, was to grasp its purpose, its essential meaning.
+
+With the advent of modern science, nature ceased to be seen as a meaningful order. Instead, it came to be understood mechanistically, governed by the laws of physics. To explain natural phenomena in terms of purposes, meanings, and ends was now considered naïve and anthropomorphic. Despite this shift, the temptation to see the world as teleologically ordered, as a purposeful whole, is not wholly absent. It persists, especially in children, who have to be educated out of seeing the world in this way. I noticed this when my children were very young, and I read them the bookWinnie-the-Pooh, by A. A. Milne. The storyevokes a childlike view of nature as enchanted, animated by meaning and purpose.
+
+Early in the book, Winnie-the-Pooh is walking in the forest and comes to a large oak tree. From the top of the tree, “there came a loud buzzing-noise.”
+
+Winnie-the-Pooh sat down at the foot of the tree, put his head between his paws and began to think.
+
+First of all he said to himself: “That buzzing-noise means something. You don’t get a buzzing-noise like that, just buzzing and buzzing, without its meaning something. If there’s a buzzing-noise, somebody’s making a buzzing-noise, and the only reason for making a buzzing-noise thatIknow of is because you’re a bee.”
+
+Then he thought another long time, and said: “And the only reason for being a bee thatIknow of is making honey.”
+
+And then he got up, and said: “And the only reason for making honey is so asIcan eat it.” So he began to climb the tree.4
+
+Pooh’s childlike line of thought about the bees is a good example of teleological reasoning. By the time we are adults, most of us outgrow this way of viewing the natural world, seeing it as charming but quaint. And having rejected teleological thinking in science, we are also inclined to reject it in politics and morals. But it is not easy to dispense with teleological reasoning in thinking about social institutions and political practices. Today, no scientist reads Aristotle’s works on biology or physics and takes them seriously. But students of ethics and politics continue to read and ponder Aristotle’s moral and political philosophy.
+
+What’s the Telos of a University?
+
+The debate over affirmative action can be recast in terms that echo Aristotle’s account of flutes. We begin by seeking just criteria of distribution: Who has a right to be admitted? In addressing this question, wefind ourselves asking (at least implicitly), “What is the purpose, or telos, of a university?”
+
+As is often the case, the telos is not obvious but contestable. Some say universities are for the sake of promoting scholarly excellence, and that academic promise should be the sole criterion of admission. Others say universities also exist to serve certain civic purposes, and that the ability to become a leader in a diverse society, for example, should be among the criteria of admission. Sorting out the telos of a university seems essential to determining the proper criteria of admission. This brings out the teleological aspect of justice in university admissions.
+
+Closely connected to the debate about a university’s purpose is a question about honor: What virtues or excellences do universities properly honor and reward? Those who believe that universities exist to celebrate and reward scholarly excellence alone are likely to reject affirmative action, whereas those who believe universities also exist to promote certain civic ideals may well embrace it.
+
+That arguments about universities—and cheerleaders and flutes—naturally proceed in this way bears out Aristotle’s point: Arguments about justice and rights are often arguments about the purpose, or telos, of a social institution, which in turn reflect competing notions of the virtues the institution should honor and reward.
+
+What can we do if people disagree about the telos, or purpose, of the activity in question? Is it possible to reason about the telos of a social institution, or is the purpose of a university, say, simply whatever the founding authority or governing board declared it to be?
+
+Aristotle believes that it is possible to reason about the purpose of social institutions. Their essential nature is not fixed once and for all, but neither is it simply a matter of opinion. (If the purpose of Harvard College were simply determined by the intention of its founders, then its primary purpose would still be the training of Congregationalist ministers.)
+
+How, then, can we reason about the purpose of a social practice in the face of disagreement? And how do notions of honor and virtuecome into play? Aristotle offers his most sustained answer to these questions in his discussion of politics.
+
+What’s the Purpose of Politics?
+
+When we discuss distributive justice these days, we are concerned mainly with the distribution of income, wealth, and opportunities. For Aristotle, distributive justice was not mainly about money but about offices and honors. Who should have the right to rule? How should political authority be distributed?
+
+At first glance, the answer seems obvious—equally, of course. One person, one vote. Any other way would be discriminatory. But Aristotle reminds us that all theories of distributive justice discriminate. The question is: Which discriminations are just? And the answer depends on the purpose of the activity in question.
+
+So, before we can say how political rights and authority should be distributed, we have to inquire into the purpose, or telos, of politics. We have to ask, “What is political associationfor?”
+
+This may seem an unanswerable question. Different political communities care about different things. It’s one thing to argue about the purpose of a flute, or a university. Notwithstanding the room for disagreement at the margins, their purposes are more or less circumscribed. The purpose of a flute has something to do with making music; the purpose of a university has something to do with education. But can we really determine the purpose or goal of political activity as such?
+
+These days, we don’t think of politics as such as having some particular, substantive end, but as being open to the various ends that citizens may espouse. Isn’t that why we have elections—so that people can choose, at any given moment, what purposes and ends they want collectively to pursue? To attribute some purpose or end to political community in advance would seem to preempt the right of citizens to decide for themselves. It would also risk imposing values not everyone shares. Our reluctance to invest politics with a determinate telos, orend, reflects a concern for individual freedom. We view politics as a procedure that enables persons to choose their ends for themselves.
+
+Aristotle doesn’t see it this way. For Aristotle, the purpose of politics is not to set up a framework of rights that is neutral among ends. It is to form good citizens and to cultivate good character.
+
+[A]ny polis which is truly so called, and is not merely one in name, must devote itself to the end of encouraging goodness. Otherwise, a political association sinks into a mere alliance . . . Otherwise, too, law becomes a mere covenant . . . “a guarantor of men’s rights against one another”—instead of being, as it should be, a rule of life such as will make the members of a polis good and just.5
+
+Aristotle criticizes what he takes to be the two major claimants to political authority—oligarchs and democrats. Each has a claim, he says, but only a partial claim. The oligarchs maintain that they, the wealthy, should rule. The democrats maintain that free birth should be the sole criterion of citizenship and political authority. But both groups exaggerate their claims, because both misconstrue the purpose of political community.
+
+The oligarchs are wrong because political community isn’t only about protecting property or promoting economic prosperity. If it were only about those things, then property owners would deserve the greatest share of political authority. For their part, the democrats are wrong because political community isn’t only about giving the majority its way. Bydemocrats, Aristotle means what we would call majoritarians. He rejects the notion that the purpose of politics is to satisfy the preferences of the majority.
+
+Both sides overlook the highest end of political association, which for Aristotle is to cultivate the virtue of citizens. The end of the state is not “to provide an alliance for mutual defence . . . or to ease economic exchange and promote economic intercourse.”6For Aristotle, politics is about something higher. It’s about learning how to live a good life.The purpose of politics is nothing less than to enable people to develop their distinctive human capacities and virtues—to deliberate about the common good, to acquire practical judgment, to share in self-government, to care for the fate of the community as a whole.
+
+Aristotle acknowledges the usefulness of other, lesser forms of association, such as defense pacts and free trade agreements. But he insists that associations of this kind don’t amount to true political communities. Why not? Because their ends are limited. Organizations such as NATO and NAFTA and the WTO are concerned only with security or economic exchange; they don’t constitute a shared way of life that shapes the character of the participants. And the same can be said of a city or a state concerned only with security and trade and that is indifferent to the moral and civic education of its members. “If the spirit of their intercourse were still the same after their coming together as it had been when they were living apart,” Aristotle writes, their association can’t really be considered a polis, or political community.7
+
+“A polis is not an association for residence on a common site, or for the sake of preventing mutual injustice and easing exchange.” While these conditions are necessary to a polis, they are not sufficient. “The end and purpose of a polis is the good life, and the institutions of social life are means to that end.”8
+
+If the political community exists to promote the good life, what are the implications for the distribution of offices and honors? As with flutes, so with politics: Aristotle reasons from the purpose of the good to the appropriate way of distributing it. “Those who contribute most to an association of this character” are those who excel in civic virtue, those who are best at deliberating about the common good. Those who are greatest in civic excellence—not the wealthiest, or the most numerous, or the most handsome—are the ones who merit the greatest share of political recognition and influence.9
+
+Since the end of politics is the good life, the highest offices and honors should go to people, such as Pericles, who are greatest in civic virtue and best at identifying the common good. Property holders shouldhave their say. Majoritarian considerations should matter some. But the greatest influence should go to those with the qualities of character and judgment to decide if and when and how to go to war with Sparta.
+
+The reason people such as Pericles (and Abraham Lincoln) should hold the highest offices and honors is not simply that they will enact wise policies, making everyone better off. It is also that political community exists, at least in part, to honor and reward civic virtue. According public recognition to those who display civic excellence serves the educative role of the good city. Here again, we see how the teleological and honorific aspects of justice go together.
+
+Can You Be a Good Person If You Don’t Participate in Politics?
+
+If Aristotle is right that the end of politics is the good life, it’s easy to conclude that those who display the greatest civic virtue merit the highest offices and honors. But is he right that politics is for the sake of the good life? This is, at best, a controversial claim. These days, we generally view politics as a necessary evil, not an essential feature of the good life. When we think of politics, we think of compromise, posturing, special interests, corruption. Even idealistic uses of politics—as an instrument of social justice, as a way to make the world a better place—cast politics as a means to an end, one calling among others, not as an essential aspect of the human good.
+
+Why, then, does Aristotle think that participating in politics is somehow essential to living a good life? Why can’t we live perfectly good, virtuous lives without politics?
+
+The answer lies in our nature. Only by living in a polis and participating in politics do we fully realize our nature as human beings. Aristotle sees us as beings “meant for political association, in a higher degree than bees or other gregarious animals.” The reason he gives is this: Nature makes nothing in vain, and human beings, unlike other animals, are furnished with the faculty of language. Other animals can make sounds, and sounds can indicate pleasure and pain. But language,a distinctly human capacity, isn’t just for registering pleasure and pain. It’s about declaring what is just and what is unjust, and distinguishing right from wrong. We don’t grasp these things silently, and then put words to them; language is the medium through which we discern and deliberate about the good.10
+
+Only in political association, Aristotle claims, can we exercise our distinctly human capacity for language, for only in a polis do we deliberate with others about justice and injustice and the nature of the good life. “We thus see that the polis exists by nature and that it is prior to the individual,” he writes in Book I ofThe Politics.11Byprior, he means prior in function, or purpose, not chronologically prior. Individuals, families, and clans existed before cities did; but only in the polis are we able to realize our nature. We are not self-sufficient when we are isolated, because we can’t yet develop our capacity for language and moral deliberation.
+
+The man who is isolated—who is unable to share in the benefits of political association, or has no need to share because he is already self-sufficient—is no part of the polis, and must therefore be either a beast or a god.12
+
+So we only fulfill our nature when we exercise our faculty of language, which requires in turn that we deliberate with others about right and wrong, good and evil, justice and injustice.
+
+But why, you might wonder, can we exercise this capacity for language and deliberation only in politics? Why can’t we do it in families, clans, or clubs? To answer this question, we need to consider the account of virtue and the good life that Aristotle presents in theNicomachean Ethics. Although this work is primarily about moral philosophy, it shows how acquiring virtue is bound up with being a citizen.
+
+The moral life aims at happiness, but byhappinessAristotle doesn’t mean what the utilitarians mean—maximizing the balance of pleasure over pain. The virtuous person is someone who takes pleasure and painin the right things. If someone takes pleasure in watching dog fights, for example, we consider this a vice to be overcome, not a true source of happiness. Moral excellence does not consist in aggregating pleasures and pains but in aligning them, so that we delight in noble things and take pain in base ones. Happiness is not a state of mind but a way of being, “an activity of the soul in accordance with virtue.”13
+
+But why is it necessary to live in a polis to live a virtuous life? Why can’t we learn sound moral principles at home, or in a philosophy class, or by reading a book about ethics—and then apply them as needed? Aristotle says we don’t become virtuous that way. “Moral virtue comes about as a result of habit.” It’s the kind of thing we learn by doing. “The virtues we get by first exercising them, as also happens in the case of the arts as well.”14
+
+Learning by Doing
+
+In this respect, becoming virtuous is like learning to play the flute. No one learns how to play a musical instrument by reading a book or listening to a lecture. You have to practice. And it helps to listen to accomplished musicians, and hear how they play. You can’t become a violinist without fiddling. So it is with moral virtue: “we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.”15
+
+It is similar with other practices and skills, such as cooking. Many cookbooks are published, but no one becomes a great chef simply by reading them. You have to do lots of cooking. Joke telling is another example. You don’t become a comedian by reading joke books and collecting funny stories. Nor could you simply learn the principles of comedy. You have to practice—the pacing, timing, gestures, and tone—and watch Jack Benny, or Johnny Carson, or Eddie Murphy, or Robin Williams.
+
+If moral virtue is something we learn by doing, we have somehow to develop the right habits in the first place. For Aristotle, this is the primary purpose of law—to cultivate the habits that lead to good character.“Legislators make the citizens good by forming habits in them, and this is the wish of every legislator, and those who do not effect it miss their mark, and it is in this that a good constitution differs from a bad one.” Moral education is less about promulgating rules than forming habits and shaping character. “It makes no small difference . . . whether we form habits of one kind or of another from our very youth; it makes a very great difference, or ratherallthe difference.”16
+
+Aristotle’s emphasis on habit does not mean he considers moral virtue a form of rote behavior. Habit is the first step in moral education. But if all goes well, the habit eventually takes, and we come to see the point of it. The etiquette columnist Judith Martin (aka “Miss Manners”) once bemoaned the lost habit of writing thank-you letters. Nowadays we assume that feelings trump manners, she observed; as long as you feel grateful, you don’t need to bother with such formalities. Miss Manners disagrees: “I think, to the contrary, that it is safer to hope that practicing proper behavior eventually encourages virtuous feeling; that if you write enough thank-you letters, you may actually feel a flicker of gratitude.”17
+
+That’s how Aristotle conceives moral virtue. Being steeped in virtuous behavior helps us acquire the disposition to act virtuously.
+
+It is common to think that acting morally means acting according to a precept or a rule. But Aristotle thinks this misses a distinctive feature of moral virtue. You could be equipped with the right rule and still not know how or when to apply it. Moral education is about learning to discern the particular features of situations that call for this rule rather than that one. “Matters concerned with conduct and questions of what is good for us have no fixity, any more than matters of health . . . The agents themselves must in each case consider what is appropriate to the occasion, as happens also in the art of medicine or of navigation.”18
+
+The only general thing that can be said about moral virtue, Aristotle tells us, is that it consists of a mean between extremes. But he readily concedes that this generality doesn’t get us very far, because discerning the mean in any given situation is not easy. The challenge isto do the right thing “to the right person, to the right extent, at the right time, with the right motive, and in the right way.”19
+
+This means that habit, however essential, can’t be the whole of moral virtue. New situations always arise, and we need to know which habit is appropriate under the circumstances. Moral virtue therefore requires judgment, a kind of knowledge Aristotle calls “practical wisdom.” Unlike scientific knowledge, which concerns “things that are universal and necessary,”20practical wisdom is about how to act. It must “recognize the particulars; for it is practical, and practice is concerned with particulars.”21Aristotle defines practical wisdom as “a reasoned and true state of capacity to act with regard to the human good.”22
+
+Practical wisdom is a moral virtue with political implications. People with practical wisdom can deliberate well about what is good, not only for themselves but for their fellow citizens, and for human beings in general. Deliberation is not philosophizing, because it attends to what is changeable and particular. It is oriented to action in the here and now. But it is more than calculation. It seeks to identify the highest human good attainable under the circumstances.23
+
+Politics and the Good Life
+
+We can now see more clearly why, for Aristotle, politics is not one calling among others, but is essential to the good life. First, the laws of the polis inculcate good habits, form good character, and set us on the way to civic virtue. Second, the life of the citizen enables us to exercise capacities for deliberation and practical wisdom that would otherwise lie dormant. This is not the kind of thing we can do at home. We can sit on the sidelines and wonder what policies we would favor if we had to decide. But this is not the same as sharing in significant action and bearing responsibility for the fate of the community as a whole. We become good at deliberating only by entering the arena, weighing the alternatives, arguing our case, ruling and being ruled—in short, by being citizens.
+
+Aristotle’s vision of citizenship is more elevated and strenuous than ours. For him, politics is not economics by other means. Its purpose is higher than maximizing utility or providing fair rules for the pursuit of individual interests. It is, instead, an expression of our nature, an occasion for the unfolding of our human capacities, an essential aspect of the good life.
+
+Aristotle’s Defense of Slavery
+
+Not everyone was included in the citizenship Aristotle celebrated. Women were ineligible, as were slaves. According to Aristotle, their natures did not suit them to be citizens. We now see such exclusion as an obvious injustice. It’s worth recalling that these injustices persisted for more than two thousand years after Aristotle wrote. Slavery was not abolished in the United States until 1865, and women won the right to vote only in 1920. Still, the historic persistence of these injustices does not exonerate Aristotle for accepting them.
+
+In the case of slavery, Aristotle not only accepted it but offered a philosophical justification. It’s worth examining his defense of slavery to see what light it sheds on his political theory as a whole. Some see in Aristotle’s argument for slavery a defect in teleological thinking as such; others see it as misguided application of such thinking, beclouded by the prejudices of his time.
+
+I don’t think Aristotle’s defense of slavery reveals a flaw that condemns his political theory as a whole. But it’s important to see the force of that thoroughgoing claim.
+
+For Aristotle, justice is a matter of fit. To allocate rights is to look for the telos of social institutions, and to fit persons to the roles that suit them, the roles that enable them to realize their nature. Giving persons their due means giving them the offices and honors they deserve and the social roles that accord with their nature.
+
+Modern political theories are uneasy with the notion of fit. Liberal theories of justice, from Kant to Rawls, worry that teleological conceptionsare at odds with freedom. For them, justice is not about fit but about choice. To allocate rights is not to fit people to roles that suit their nature; it is to let people choose their roles for themselves.
+
+From this point of view, the notions of telos and fit are suspect, even dangerous. Who is to say what role is fitting for me, or appropriate to my nature? If I’m not free to choose my social role for myself, I might well be forced into a role against my will. So the notion of fit can easily slide into slavery, if those in power decide that a certain group is somehow suited for a subordinate role.
+
+Prompted by this worry, liberal political theory argues that social roles should be allocated by choice, not fit. Rather than fit people to roles we think will suit their nature, we should enable people to choose their roles for themselves. Slavery is wrong, in this view, because it coerces people into roles they have not chosen. The solution is to reject an ethic of telos and fit in favor of an ethic of choice and consent.
+
+But this conclusion is too quick. Aristotle’s defense of slavery is no proof against teleological thinking. On the contrary, Aristotle’s own theory of justice provides ample resources for a critique of his views on slavery. In fact, his notion of justice as fit is more morally demanding, and potentially more critical of existing allocations of work, than theories based on choice and consent. To see how this is so, let’s examine Aristotle’s argument.
+
+For slavery to be just, according to Aristotle, two conditions must be met: it must be necessary, and it must be natural. Slavery is necessary, Aristotle argues, because someone must look after the household chores if citizens are to spend time in the assembly deliberating about the common good. The polis requires a division of labor. Unless we invent machines that could take care of all menial tasks, some people have to attend to the necessities of life so that others can be free to participate in politics.
+
+So Aristotle concludes that slavery is necessary. But necessity is not enough. For slavery to be just, it must also be the case that certain persons are suited by their nature to perform this role.24So Aristotleasks if there are “persons for whom slavery is the better and just condition, or whether the reverse is the case and all slavery is contrary to nature.”25Unless there are such people, the political and economic need for slaves is not enough to justify slavery.
+
+Aristotle concludes that such people exist. Some people are born to be slaves. They differ from ordinary people in the same way that the body differs from the soul. Such people “are by nature slaves, and it is better for them . . . to be ruled by a master.”26
+
+“A man is thus by nature a slave if he is capable of becoming (and this is the reason why he also actually becomes) the property of another, and if he participates in reason to the extent of apprehending it in another, though destitute of it himself.27
+
+“[J]ust as some are by nature free, so others are by nature slaves, and for these latter the condition of slavery is both beneficial and just.”28
+
+Aristotle seems to sense something questionable in the claim he is making, because he quickly qualifies it: “But it is easy to see that those who hold an opposite view are also in a way correct.”29Looking at slavery as it existed in the Athens of his day, Aristotle had to admit that the critics had a point. Many slaves found themselves in that condition for a purely contingent reason: they were formerly free people who had been captured in war. Their status as slaves had nothing to do with their being fit for the role. For them, slavery was not natural, but the result of bad luck. By Aristotle’s own standard, their slavery is unjust: “Not all those who are actually slaves, or actually freemen, are natural slaves or natural freemen.”30
+
+How can you tell who is fit to be a slave? Aristotle asks. In principle, you would have to see who, if anyone, flourishes as a slave, and who chafes in the role or tries to flee. The need for force is a good indication that the slave in question is not suited to the role.31For Aristotle, coercion is a sign of injustice, not because consent legitimates all roles, but because the need for force suggests an unnatural fit. Those who are cast in a role consistent with their nature don’t need to be forced.
+
+For liberal political theory, slavery is unjust because it is coercive. For teleological theories, slavery is unjust because it is at odds with our nature; coercion is a symptom of the injustice, not the source of it. It is perfectly possible to explain, within the ethic of telos and fit, the injustice of slavery, and Aristotle goes some way (though not all the way) toward doing so.
+
+The ethic of telos and fit actually sets a more demanding moral standard for justice in the workplace than does the liberal ethic of choice and consent.32Consider a repetitive, dangerous job, such as working long hours on an assembly line in a chicken processing plant. Is this form of labor just or unjust?
+
+For the libertarian, the answer would depend on whether the workers had freely exchanged their labor for a wage: if they did, the work is just. For Rawls, the arrangement would be just only if the free exchange of labor took place against fair background conditions. For Aristotle, even consent against fair background conditions is not sufficient; for the work to be just, it has to be suited to the nature of the workers who perform it. Some jobs fail this test. They are so dangerous, repetitive, and deadening as to be unfit for human beings. In those cases, justice requires that the work be reorganized to accord with our nature. Otherwise, the job is unjust in the same way that slavery is.
+
+Casey Martin’s Golf Cart
+
+Casey Martin was a professional golfer with a bad leg. Due to a circulatory disorder, walking the course caused Martin considerable pain and posed a serious risk of hemorrhaging and fracture. Despite his disability, Martin had always excelled at the sport. He played on Stanford’s championship team while in college, then turned pro.
+
+Martin asked the PGA (Professional Golfers’Association) for permission to use a golf cart during tournaments. The PGA turned him down, citing its rule prohibiting carts in top professional tournaments.
+
+Martin took his case to court. He argued that the Americans with Disabilities Act (1990) required reasonable accommodations for people with disabilities, provided the change did not “fundamentally alter the nature” of the activity.33
+
+Some of the biggest names in golf testified in the case. Arnold Palmer, Jack Nicklaus, and Ken Venturi all defended the ban on carts. They argued that fatigue is an important factor in tournament golf, and that riding rather than walking would give Martin an unfair advantage.
+
+The case went to the United States Supreme Court, where the justices found themselves wrestling with what seemed to one a silly question, at once beneath their dignity and beyond their expertise: “Is someone riding around a golf course from shot to shotreallya golfer?”34
+
+In fact, however, the case raised a question of justice in classic Aristotelian form: In order to decide whether Martin had a right to a golf cart, the Court had to determine the essential nature of the activity in question. Was walking the course essential to golf, or merely incidental? If, as the PGA claimed, walking was an essential aspect of the sport, then to let Martin ride in a cart would “fundamentally alter the nature” of the game. To resolve the question about rights, the court had to determine the telos, or essential nature, of the game.
+
+The Court ruled 7–2 that Martin had a right to use a golf cart. Justice John Paul Stevens, writing for the majority, analyzed the history of golf and concluded that the use of carts was not inconsistent with the fundamental character of the game. “From early on, the essence of the game has been shot-making—using clubs to cause a ball to progress from the teeing ground to a hole some distance away with as few strokes as possible.”35As for the claim that walking tests the physical stamina of golfers, Stevens cited testimony by a physiology professor who calculated that only about five hundred calories were expended in walking eighteen holes, “nutritionally less than a Big Mac.”36Because golf is “a low intensity activity, fatigue from the game is primarily a psychological phenomenon in which stress and motivation are thekey ingredients.”37The Court concluded that accommodating Martin’s disability by letting him ride in a cart would not fundamentally alter the game or give him an unfair advantage.
+
+Justice Antonin Scalia disagreed. In a spirited dissent, he rejected the notion that the Court could determine the essential nature of golf. His point was not simply that judges lack the authority or competence to decide the question. He challenged the Aristotelian premise underlying the Court’s opinion—that it is possible to reason about the telos, or essential nature of a game:
+
+To say that something is “essential” is ordinarily to say that it is necessary to the achievement of a certain object. But since it is the very nature of a game to have no object except amusement (that is what distinguishes games from productive activity), it is quite impossible to say that any of a game’s arbitrary rules is “essential.”38
+
+Since the rules of golf “are (as in all games) entirely arbitrary,” Scalia wrote, there is no basis for critically assessing the rules laid down by the PGA. If the fans don’t like them, “they can withdraw their patronage.” But no one can say that this or that rule is irrelevant to the skills that golf is meant to test.
+
+Scalia’s argument is questionable on several grounds. First, it disparages sports. No real fan would speak of sports that way—as governed by totally arbitrary rules and having no real object or point. If people really believed that the rules of their favorite sport were arbitrary rather than designed to call forth and celebrate certain skills and talents worth admiring, it would be hard for them to care about the outcome of the game. Sport would fade into spectacle, a source of amusement rather than a subject of appreciation.
+
+Second, it’s perfectly possible to argue the merits of different rules, and to ask whether they improve or corrupt the game. These arguments take place all the time—on radio call-in shows and among those who govern the game. Consider the debate over the designated-hitterrule in baseball. Some say it improves the game by enabling the best hitters to bat, sparing weak-hitting pitchers the ordeal. Others say it damages the game by overemphasizing hitting and removing complex elements of strategy. Each position rests on a certain conception of what baseball at its best is all about: What skills does it test, what talents and virtues does it celebrate and reward? The debate over the designated-hitter rule is ultimately a debate about the telos of baseball—just as the debate over affirmative action is a debate about the purpose of the university.
+
+Finally, Scalia, by denying that golf has a telos, misses altogether the honorific aspect of the dispute. What, after all, was the four-year saga over the golf cart really about? On the surface, it was an argument about fairness. The PGA and the golfing greats claimed that allowing Martin to ride would give him an unfair advantage; Martin replied that, given his disability, the cart would simply level the playing field.
+
+If fairness were the only thing at stake, however, there is an easy and obvious solution: let all golfers use carts in the tournaments. If everyone can ride, the fairness objection disappears. But this solution was anathema to professional golf, even more unthinkable than making an exception for Casey Martin. Why? Because the dispute was less about fairness than about honor and recognition—specifically the desire of the PGA and top golfers that their sport be recognized and respected as an athletic event.
+
+Let me put the point as delicately as possible: Golfers are somewhat sensitive about the status of their game. It involves no running or jumping, and the ball stands still. No one doubts that golf is a demanding game of skill. But the honor and recognition accorded great golfers depends on their sport being seen as a physically demanding athletic competition. If the game at which they excel can be played while riding in a cart, their recognition as athletes could be questioned or diminished. This may explain the vehemence with which some professional golfers opposed Casey Martin’s bid for a cart. Here is Tom Kite, atwenty-five-year veteran of the PGA Tour, in an op-ed piece inThe New York Times:
+
+It seems to me that those who support Casey Martin’s right to use a cart are ignoring the fact that we are talking about a competitive sport. . . . We are talking about an athletic event. And anyone who doesn’t think professional golf is an athletic sport simply hasn’t been there or done that.39
+
+Whoever is right about the essential nature of golf, the federal case over Casey Martin’s cart offers a vivid illustration of Aristotle’s theory of justice. Debates about justice and rights are often, unavoidably, debates about the purpose of social institutions, the goods they allocate, and the virtues they honor and reward. Despite our best attempts to make law neutral on such questions, it may not be possible to say what’s just without arguing about the nature of the good life.
