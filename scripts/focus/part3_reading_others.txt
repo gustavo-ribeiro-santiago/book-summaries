@@ -1,0 +1,379 @@
+PART III
+
+READING OTHERS
+
+9
+
+THE WOMAN WHO KNEW TOO MUCH
+
+Her father had an explosive temper, and as a child she was always terrified that he might be about to erupt. So Katrina, as I’ll call her, learned to be hypervigilant, straining to sense the small cues—a rise in his tone of voice, the lowering of his eyebrows into a glower—that signaled he was heading toward another rampage.
+
+That emotional radar grew more sensitive as Katrina grew older. In graduate school, for example, just by reading their body language she realized that a fellow student had secretly slept with a professor.
+
+She saw how their bodies synchronized in a subtle dance. “They would shift together, move in unison,” Katrina told me. “When she wiggled, he wiggled. When I saw they were intimately attuned at the body level, like lovers, I had the thought,Oh, creepy. . .
+
+“Lovers don’t know they’re doing it, but you both become super-responsive to each other at a primal level,” she added.
+
+Only months later did the student confide the clandestine affair to Katrina, who adds, “Their affair had stopped, but their bodies were still together.”
+
+Whenever she’s with someone, Katrina says, “I’m hyperaware of dozens of streams of information people don’t usually sense—things like the lift of an eyebrow, the movement of a hand. It’s disruptive—I know way too much and it kills me. I’m overly aware.”
+
+What Katrina senses—and sometimes spills into the open—not only upsets other people; it can throw her off, too. “I came late to a meeting and made everyone wait. They were all being perfectly friendly in what they said—but what they were telling me with their bodies was not. I could see by their postures and the way they would not meet my eyes that everyone there was angry. I felt a rush of sadness and a lump in my throat. The meeting didn’t go great.
+
+“I’m always seeing things I’m not supposed to—and it’s a problem,” she added. “I poke into private stuff without meaning to. For a long time I didn’t realize I do not have to share every telling thing I know.”
+
+After getting feedback from people on her team that she was being too intrusive, Katrina began working with an executive coach. “The coach told me I have a problem leaking emotional cues—when I pick up this stuff I’m not supposed to notice, I react in a way that makes people think I’m angry all the time. So now I have to be careful about that, too.”
+
+People like Katrina are social sensitives, keenly attuned to the most minimal emotional signals, with an almost uncanny knack for reading cues so subtle that other people miss them. A slight dilation of your iris, lift of your eyebrow, or shift of your body is all they need to know how you feel.
+
+This means trouble if, like Katrina, they can’t handle such data well.
+
+But these same talents can make us socially astute, sensing when not to broach a touchy topic, when someone needs to be alone, or when people would welcome words of comfort.
+
+A trained eye for the subtle cue offers advantage in many life arenas. Take top players in sports like squash and tennis, who can sense where an opponent’s serve will land by noting subtle shifts in his posture as he positions himself to hit the ball. Many of baseball’s great hitters, like Hank Aaron, would watch films over and over of the pitchers they would face in their next game, to spot telling cues that revealed which pitch would come next.
+
+Justine Cassell, director of the Human-Computer Interaction Institute at Carnegie Mellon University, applies a similar well-trained empathy in the service of science. “Observing people was a game we played in our family,” Cassell told me. That childhood propensity was refined when as a graduate student she spent hundreds of hours studying hand movements in videos of people describing a cartoon they had just seen.
+
+Working with thirty-frames-per-second slices of the video, she’d annotate a hand’s shape as it changed, as well as the stream of shifts in its orientation, placement in space, and trajectory of movement. And to check her accuracy, she’d then work back from her notes to see if she could precisely reproduce the movement of the hand.
+
+Cassell more recently has done similar work with tiny movements of the facial muscles, with eye gaze, eyebrow raises, and head nods, all scored second by second and checked. She’s done that for hundreds of hours—and does it to this day with grad students in her lab at Carnegie Mellon.
+
+“Gestures always occur just before the most emphasized part of what you’re saying,” Cassell tells me. “One reason why some politicians may look insincere is that they have been taught to make particular gestures, but have not been taught the correct timing, and so when they produce those gestures after the word, they give us the sense that something fake is going on.”
+
+The timing of the gesture interprets its meaning. If your timing is off, a positive statement can have negative impact. Cassell gives this example: “If you say, ‘She’s a great candidate for the job’ and raise your eyebrows, nod, and emphasize the wordgreatall at the same time, you send a very positive emotional message. But if as you say the same sentence your head nod and eyebrow raise come in the short silence aftergreat, then it shifts the emotional meaning to sarcasm—you’re really saying she’s not all that great.”
+
+Such readings of meta-messages in nonverbal channels occur to us instantly, unconsciously, and automatically. “We cannotnotmake meaning of what someone tells us,” says Cassell, whether in words or just gestures, or both together. Everything we attend to in another person generates meaning at an unconscious level, and our bottom-up circuitry constantly reads it.
+
+In one study, listeners remembered having “heard” information they only saw in gesture. For example, somebody who heard “He comes out the bottom of the pipe” but saw the speaker’s hand formed into a fist and bouncing up and down said that he had heard “and then goes down stairs.”1
+
+Cassell’s work makes visible what typically whizzes by us in microseconds. Our automatic circuitry gets the message, but our top-down awareness misses almost all of it.
+
+These hidden messages have powerful impacts. Marital researchers have long known, for instance, that if one of the partners repeatedly makes fleeting facial expressions for disgust or contempt during conflicts, the odds are great against that couple staying together.2In psychotherapy, if the therapist and client move in synch with one another, there are likely to be better therapeutic outcomes.3
+
+While Cassell was a professor at MIT’s Media Lab, one way she deployed this extremely precise analysis of how we express ourselves was in developing a system that guides professional animators in the art of nonverbal behavior. The system—called BEAT—allows animators to type in a segment of dialogue and get back an automatically animated cartoon person with the right gestures, head and eye movement, and posture, which they can then tweak for artistic value.4
+
+Getting the “feel” just right of a virtual actor’s remarks, tone of voice, and gestures seems to demand a top-down grasp of bottom-up processes. These days Cassell is building similarly animated cartoons where, she says, images of children “act as virtual peers to elementary school students, using social skills to build rapport, and then using that rapport to facilitate learning.”
+
+When we met over coffee while on a break at a conference, Cassell explained how those hundreds of hours of parsing nonverbal messages have fine-tuned her sensitivity. “Now I automatically track this when I’m with anyone,” she told me—which, I confess, made me a bit self-conscious (even more so when I realized she probably noticed that, too).
+
+10
+
+THE EMPATHY TRIAD
+
+Supersensitive reading of emotional signals represents a zenith ofcognitiveempathy, one of three main varieties of the ability to focus on what other people experience.1This variety of empathy lets us take other people’s perspective, comprehend their mental state, and at the same time manage our own emotions while we take stock of theirs. These can be top-down mental operations.2
+
+In contrast, withemotionalempathy we join the other person in feeling along with him or her; our bodies resonate in whatever key of joy or sorrow that person may be going through. Such attunement tends to occur through automatic, spontaneous—and bottom-up—brain circuits.
+
+While cognitive or emotional empathy means we recognize what another person thinks and resonate with their feelings, it does not necessarily lead to sympathy, concern for others’ welfare. The third variety, empathic concern, goes further: leading us to care about them, mobilizing us to help if need be. This compassionate attitude builds on bottom-up primal systems for caring and attachment deep down in the brain, though these mix with more reflective, top-down circuits that evaluate how much we value their well-being.
+
+Our circuitry for empathy was designed for face-to-face moments. Today, working together online poses special challenges for empathy. Take, for example, that familiar moment in a meeting when everyone has reached a tacit consensus, and one person then articulates aloud what everyone already knows but has not said: “Okay, then we all agree on this.” Heads nod.
+
+But coming to such consensus in an online text-based discussion requires flying blind, without relying on the continuous cascade of nonverbal messages that in a real meeting let someone announce aloud the as-yet-unspoken agreement. We can base our reading of others only on what they have to say. Beyond that, there’s reading between the lines: online we rely on cognitive empathy, the variety of mind-reading that lets us infer what’s going on in someone else’s mind.
+
+Cognitive empathy gives us the ability to understand another person’s ways of seeing and of thinking. Seeing through the eyes of others and thinking along their lines helps you choose language that fits their way of understanding.
+
+This ability, as cognitive scientists put it, demands “additional computational mechanisms”: we need to think about feelings. Justine Cassell’s researchers routinely employ this variety of empathy in their work.
+
+An inquisitive nature, which predisposes us to learn from everybody, feeds our cognitive empathy, amplifying our understanding of other people’s worlds. One successful executive who exemplifies this attitude put it this way: “I’ve always just wanted to learn everything, to understand anybody that I was around—why they thought what they did, why they did what they did, what worked for them, and what didn’t work.”3
+
+The earliest roots in life of such perspective-taking trace to the ways infants learn the basic building blocks of emotional life, such as how their own states differ from other people’s and how people react to the feelings they express. This most basic emotional understanding marks the first time an infant can take another person’s point of view, entertain several perspectives, and share meaning with other people.
+
+By age two or three, toddlers can put words to feelings and name a face as “happy” or “sad.” A year or so later, kids realize that how another child perceives events will determine how the other child will react. By adolescence, another aspect, accurately reading a person’s feelings, gets stronger, paving the way for smoother social interactions.
+
+Tania Singer, director of the social neuroscience department at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany, has studied empathy and self-awareness in alexythimics—people who have great difficulty understanding their own feelings and putting these into words. “You need to understand your own feelings to understand the feelings of others,” she says.
+
+The executive circuits that allow us to think about our own thoughts and feelings let us apply the same reasoning to other people’s minds. “Theory of mind,” the understanding that other people have their own feelings, desires, and motives, lets us reason about what someone else might be thinking and wanting. Such cognitive empathy shares circuitry with executive attention; it first blooms around the years between two and five and continues to develop right through the teen years.
+
+EMPATHY RUN AMOK
+
+A muscle-bound inmate in a New Mexico prison was being interviewed by a psychology student. The inmate was so dangerous that the office was equipped with a button for the interviewer to press if things got out of control. The inmate told the psychology student in graphic detail the gruesome way he had killed his girlfriend—but did so in such a charming fashion that the student found it difficult not to laugh along with him.
+
+About a third of professionals whose job requires they interview criminal sociopaths like that murderer report feeling their skin crawl, a creepy sensation that some think signifies the triggering of a primitive defensive empathy.4
+
+A darker side of cognitive empathy emerges when someone uses it to spot weakness in others and so takes advantage of them. This strategy typifies sociopaths, who use their cognitive empathy to manipulate. They feel no anxiety, and so the threat of a punishment does not deter them.5
+
+The classic work on sociopaths (they were known as “psychopaths” back then), the 1941 bookThe Mask of Sanity, by Hervey M. Cleckley, describes them as concealing “an irresponsible personality” behind “a perfect mimicry of normal emotion, fine intelligence, and social responsibility.”6The irresponsible part emerges in a history of pathological lying, living off others as a parasite, and the like. Tellingly, other indicators signal deficits in attention, such as bored distractibility, poor impulse control, and a lack of emotional empathy or of sympathy for others in distress.
+
+Sociopathy is thought to occur in about 1 percent of the population; if so, the working world harbors millions of what clinicians call “successful sociopaths” (Bernie Madoff once in jail exemplifies an unsuccessful one). Sociopaths, like their close cousins “Machiavellian personalities,” are able to read others’ emotions but register facial expressions in a different part of their brain than the rest of us do.
+
+Instead of registering emotion in their brain’s limbic centers, sociopaths show activity in the frontal areas, particularly the language centers. They tell themselvesaboutemotions, but do not feel them directly as other people do; instead of a normal bottom-up emotional reaction, sociopaths “feel” top-down.7
+
+This is strikingly true for fear—sociopaths seem to have no apprehension whatever about the punishment their crimes will bring. One theory: they suffer a particular lack in cognitive control for impulse, what amounts to an attention deficit that leaves them focusing on the thrill at hand and blinds them to the consequences of what they do.8
+
+EMOTIONAL EMPATHY: I FEEL YOUR PAIN
+
+“This machine can save lives,” an ad trumpets. It features a hospital setting where a wheeled platform holds a video monitor and keyboard, with a shelf for blood pressure cuffs and the like.
+
+I encountered that very “lifesaving” apparatus when I had a visit with a physician the other day. As I sat on an exam table to have my blood pressure read, the platform was tucked away to my right and behind me. The nurse stood by my side, facing that video monitor—not me. As she took my readings, she read mechanically through a list of health status questions from the screen, typing in my answers.
+
+Our eyes never met, save for a moment as she left the room and said (rather ironically, considering), “Nice to see you.”
+
+Itwouldhave been nice to see her, if we had had the opportunity. That lack of eye contact makes an encounter anonymous, draining it of emotional connection. The paucity of warmth meant I (or she) may as well have been a cyborg.
+
+I’m not alone. Studies in medical schools find that if a doctor looks you in the eye, nods as she listens, touches you gently if you are in pain, and asks, for example, if you’re warm enough on the exam table, she gets high patient ratings. If she mainly looks at her clipboard or computer screen, the ratings are low.9
+
+While the nurse may have had some cognitive empathy for me, there was little chance for her to tune in to my feelings. Emotional empathy, sensing what other people feel and caring about them, has ancient roots in evolution; we share this circuitry with other mammals, who like us need a keen attention to an infant’s signal of distress. Emotional empathy operates bottom-up: much of the neural wiring for directly sensing the feelings of others lies beneath the cortex in ancient parts of the brain that “think fast,” but not deeply.10These circuits tune us in by arousing in our own body the emotional state picked up in the other person.
+
+Take listening to a gripping story. Brain studies show that when people listen to someone telling such a story, the brains of the listeners become intimately coupled with that of the storyteller. The listener’s brain patterns echo those of the storyteller with precision, though lagging by a second or two. The more overlap in neural coupling of the two brains, the better the listener’s understanding of the story.11And the brains of those with the very best understanding—who are fully focused and comprehend most—do something surprising: certain patterns of their brains’ activitiesanticipatethat of the storyteller by a second or two.
+
+The ingredients of rapport begin with total shared focus between two people, which leads to an unconscious physical synchrony, which in turn generates good feeling. Such a shared focus with the teacher puts a child’s brain in the best mode for learning. Any teacher who has struggled to get a class to pay attention knows that once everyone quiets down and focuses, the students can start to comprehend that lesson in history or math.
+
+The circuits for emotional empathy begin to operate in early infancy, giving a primal taste of resonance between ourselves and someone else. In the brain’s development, we are wired to feel another’s joy or pain before we can think about it. The mirror neuron system, a part of the wiring for this resonance (but by no means the only wiring), kicks in as early as six months.12
+
+Empathy depends on a muscle of attention: to tune in to others’ feelings requires we pick up the facial, vocal, and other signals of their emotion. The anterior cingulate, a part of the attention network, tunes us to someone else’s distress by tapping our own amygdala, which resonates with that distress. In this sense, emotional empathy is “embodied”—we actually feel in our physiology what’s going on in the body of the other person.
+
+When volunteers had their brains imaged while they watched another person get a painful shock, their own pain circuitry lit up in what amounts to a neural simulation of the other person’s suffering.13
+
+Tania Singer has found that we empathize with others’ pain via our anterior insula—the same area that we use to sense how our own pain feels. So we first sense another’s emotions within ourselves, as our brain applies to the other person’s feelings the identical system used to read our own feeling states.14Empathy builds on our capacity for sensing visceral feelings within our own body.
+
+So does synchrony, that nonverbal meshing of how we move and what we do that signals an interaction in rapport. You see it in jazz musicians, who never rehearse exactly what they do, but just seem to know when to take center stage, when to fade into the background. When jazz artists were compared with classical musicians in brain function, they showed more neural indicators of self-awareness.15As one jazz artist put it, “In jazz you have to tune in to how your body is feeling so you know when to riff.”
+
+The brain’s very design seems to integrate self-awareness with empathy by packing the way we pick up information about ourselves and about others within the same far-flung neural networks. One clever part: as our mirror neurons and other social circuitry re-create in our brain and body what’s going on with the other person, our insula summates all that. Empathy entails an act of self-awareness: we read other people by tuning in to ourselves.
+
+Take, for instance, von Economo neurons, or VENs. These unique brain cells, remember, are crucial for self-awareness. But they are situated in areas that activate in moments of anger, grief, love, and lust—as well as tender moments like when a mother hears her baby crying or at the sound of the voice of a loved one. When these circuits tag an event as salient, they direct our focus there.
+
+These spindly cells allow a super-quick connection between the prefrontal cortex and the insula—areas active during both introspection and empathy. These circuits monitor our interpersonal world for what matters to us, doing so super-quickly, helping us react on the fly. The brain’s basic circuitry for attention interweaves with that for social sensitivity and for understanding other people’s experiences and how they see things—in short, for empathy.16This social superhighway in the brain lets us know—and so reflect on and manage—our own emotions, and those of others.
+
+EMPATHIC CONCERN: I’M HERE FOR YOU
+
+A woman staggered into her surgeon’s waiting room, blood seeping from every visible orifice. Instantly the doctor and her staff sprang into action to handle the emergency, rushing the woman into a treatment room to stanch her bleeding, calling an ambulance, and canceling all the appointments of other patients for the remainder of the day.
+
+The patients who had been waiting to see their doctor understood that, of course, this woman’s dire need trumped their own. All, that is, save one woman who was indignant because her appointment had been canceled. Outraged, she shouted at the receptionist, “I took the day off work! How dare you cancel me!”
+
+The surgeon who tells me the story says such indifference to suffering and the needs of others has become more prevalent in her practice. It was even the topic of a meeting for all surgeons in her state.
+
+The biblical parable of the Good Samaritan tells of a man who stopped to help a stranger who had been beaten and robbed and was lying in pain by the side of the road. Two others had seen the injured man and, fearing danger, had crossed to the other side of the road and passed him by.
+
+Martin Luther King Jr. observed that those who failed to offer their aid asked themselves the question: “If I stop to help this man, what will happen to me?”
+
+But the Good Samaritan reversed the question: “If I do not stop to help this man what will happen tohim?”
+
+Compassion builds on empathy, which in turn requires a focus on others. If self-absorbed, we simply do not notice other people; we can walk by utterly indifferent to their predicament. But once we notice them we can tune in, sense their feelings and needs, and act on our concern.
+
+Empathic concern, which is what you want in your physician, boss, or spouse (not to mention yourself), has substrates in the neural architecture for parenting. In mammals, this circuitry compels attention and concern toward babies and the young, who can’t survive without their parents.17Watch where people’s eyes go when someone brings an adorable baby into a room, and you see the mammalian brain center for caring leap into action.
+
+Empathic concern first emerges early in infancy: when one baby hears another cry she, too, starts crying. This response is triggered by the amygdala, the brain’s radar for danger (as well as a site for primal emotions both negative and positive). One neural theory holds that the amygdala drives bottom-up circuits in the brain of the baby who hears the crying to feel the same sadness and upset. Simultaneously top-down circuits release oxytocin, the chemical for caring, which stirs a rudimentary sense of concern and goodwill in the second baby.18
+
+Empathic concern, then, is a double-edged feeling. On the one hand there is implicit discomfort from the direct experience in one person of the distress of the other combined with the same concern a parent feels toward her child. But we also add to our caring instinct a social equation that weighs how much we value the other person’s well-being.
+
+Getting this bottom-up/top-down mix right has great implications. Those in whom the stirring of sympathetic feelings becomes too strong can suffer themselves—in the helping professions this can sometimes lead to emotional exhaustion and compassion fatigue. And those who protect themselves against sympathetic distress by deadening feeling can lose touch with empathy. The neural road to empathic concern takes top-down management of personal distress but without numbing us to the pain of others.
+
+While volunteers listened to tales of people subjected to physical pain, brain scans revealed that their own brain centers for experiencing such pain lit up instantly. But if the story was aboutpsychologicalsuffering, it took relatively longer to activate the higher brain centers involved in empathic concern and compassion. As the research team put it, it takes time to tell “the psychological and moral dimensions of a situation.”
+
+Moral sentiments derive from empathy, and moral reflections take thinking and focus. One cost of the frenetic stream of distractions we face today, some fear, is an erosion of empathy and compassion.19The more distracted we are, the less we can exhibit attunement and caring.
+
+Perceiving pain in others reflexively draws our attention—the expression of pain is a crucial biological signal to evoke help. Even rhesus monkeys do not pull a chain to get a banana if that also gives a shock to another rhesus monkey (suggesting, perhaps, one root of civility).
+
+But there are exceptions. For one, pain empathy ends if we don’t like the people in pain—for instance, if we think they have been unfair—or if we see them as part of a group we dislike.20Then pain empathy can easily be transformed into its opposite, feelings of “schadenfreude.”21
+
+When resources are scarce the need to compete for them can sometimes suppress empathic concern, and competition is part of life in almost any social group, whether for food, mates, or power—or an appointment with a doctor.
+
+Another exception is understandable: our brains resonate less with another person’s pain when the pain has a good reason—say, getting a helpful medical treatment. Finally, where we focus matters: our emotional empathy grows stronger if we attend to the intensity of the pain, and lessens as we look away.
+
+Such constraints aside, one of the subtle forms of caring occurs when we simply use our reassuring, loving presence to help calm someone. The mere presence of a loved one, studies show, has an analgesic property, quieting the centers that register pain. Remarkably, the more empathic the person who is present with someone in pain, the greater the calming effect.22
+
+THE EMPATHY BALANCE
+
+“You know, when you discover a lump in your breast, you kind of feel—well, kind of . . . ,” the patient says, her words tapering off. She looks down, tears forming in her eyes.
+
+“When did you actually discover the lump?” her doctor asks softly.
+
+The patient replies, absently, “I don’t know. It’s been a while.”
+
+The doctor responds, “That sounds frightening.”
+
+The patient answers, “Well, yeah, sort of.”
+
+“Sort of frightening?” the doctor asks.
+
+“Yeah,” says the patient, “and I guess I’m feeling like my life is over.”
+
+“I see. Worried and sad, too.”
+
+“That’s it, Doctor.”
+
+Contrast that exchange with one where right after the patient gets teary talking about the lump in her breast, the doctor starts running briskly through a checklist of impersonal, detailed clinical questions—with not so much as a nod toward her teary feelings.
+
+The patient in that second encounter will be likely to leave feeling unheard and uncared about. But after that first, more empathic interaction, the patient—despite having had the same amount of distress—would feel better: understood and cared for.
+
+Those two scenarios were used to illustrate this crucial difference in an article for physicians on how to build empathy with their patients.23The title of the article features an empathy-building phrase: “Let me see if I have this right . . .” It argues that taking just a few moments to pay attention to how a patient feels about her illness builds emotional connection.
+
+Not listening is at the top of the list of complaints patients have about their physicians. For their part, many physicians complain they are not given the time they need with their patients and so the human side of their interaction gets short shrift. The barrier to human contact rises as physicians—mandated to keep digital records—tap notes on a computer keyboard during patient interviews, and so end up communing with their laptop rather than with the patient.
+
+Yet personal moments with patients, many physicians say, are the most satisfying part of their day. Such rapport between doctor and patient greatly increases diagnostic accuracy and how the patients comply with their doctor’s instructions, and enhances patients’ satisfaction and loyalty.
+
+“Empathy, the ability to connect with patients—in a deep sense, to listen, to pay attention—lies at the heart of medical practice,” the article tells its medical audience. Orienting to the patient’s emotions builds rapport. Tuning out feelings and focusing only on clinical details builds a wall.
+
+Physicians who are sued for malpractice in the United States generally make no more medical errors than those who are not sued. The main difference, research shows, often comes down to the tenor of the doctor-patient relationship. Those who are sued, it turns out, have fewer signs of emotional rapport: they have shorter visits with patients, fail to ask about the patients’ concerns or make sure their questions are answered, and have more emotional distance—there’s little or no laughter, for example.24
+
+But attention to patients’ distress may pose a particular challenge to physicians giving excellent technical care—say when it demands keen concentration on performing a medical procedure perfectly despite the patient’s agony.
+
+The same network that activates when we see someone in pain also fires when we see anything aversive:That’s scary—I should get out of hereis the primal thought. Ordinarily, when people see someone else being pricked with a pin, their brain emits a signal indicating that their own pain centers are echoing that distress.
+
+Physicians do not. Their brains are unique in blocking even such automatic responses to someone else’s pain and discomfort, according to findings from a study led by Jean Decety, professor of psychology and psychiatry at the University of Chicago.25This attentional anesthetic seems to deploy the temporal-parietal junction (or TPJ) and regions of the prefrontal cortex, a circuit that boosts concentration by tuning out emotions. The TPJ protects focus by walling off emotions along with other distractions, and helps keep a distance between oneself and others.
+
+This same neuronal network kicks into action in any of us when we see a problem and look for a solution. So if you’re talking with someone who is upset, this system helps you understand the person’s perspective intellectually by shifting from heart-to-heart emotional rapport to the head-to-heart connection of cognitive empathy.
+
+The TPJ maneuver insulates the brain from experiencing the wash of emotion—it’s the brain basis for the stereotype of someone with cool rationality amid emotional turmoil. A shift into the TPJ mode creates a boundary so you’re immune to emotional contagion, freeing your brain from being affected by the other person’s emotions while you’re focusing.
+
+Sometimes that’s a crucial advantage: you can stay calm and concentrated when those around you are falling apart. Sometimes it’s not: it also means you may tune out of emotional cues and so lose the thread of empathy.
+
+This damping down of emotional entrainment has obvious benefits for someone who has to keep focused amid flinch-inducing procedures: injections into eyeballs, suturing bloody wounds, scalpels rending open flesh.
+
+“I was on the team of the first doctors to respond to the earthquake in Haiti—we were there within the first few days,” Dr. Mark Hyman tells me. “When we got to the one hospital in Port-au-Prince, which miraculously was largely intact, there was no food, no water, no power, almost no supplies, and just one or two hospital staff. There were hundreds of dead bodies rotting in the sun, stacked in the hospital morgue, and being loaded onto trucks to go to a mass grave. There were about fifteen hundred people in the courtyard desperately needing help—legs hanging by a thread, bodies cut nearly in half. It was traumatic. Yet we immediately got to work and focused on what we could do.”
+
+When I spoke to Dr. Hyman, he had just returned from several weeks in India and Bhutan, where he again volunteered his medical help to needy patients. “The act of service gives you the ability to transcend the pain all around you,” Dr. Hyman said. “In Haiti, it was hyperreal, totally in the moment. It’s weird to say, but there was a level of equanimity and calm—even peace and clarity—in the midst of all that chaos. Everything else but what we were doing fell away.”
+
+The TPJ response seems to be acquired rather than innate. Medical students learn this reaction during their socialization into the profession, as they encounter patients under duress. The cost of being too empathic is having upsetting, intrusive thoughts that compete for attention with medical imperatives.
+
+“If you can’t do anything in a situation like that,” said Dr. Hyman about Haiti, “you’re paralyzed. Sometimes the hurt and pain all around you would break through in moments of fatigue, heat exhaustion, and hunger. But mostly my mind put me in a state where I could function despite the horror.”
+
+As William Osler, the father of medical residency training, wrote in 1904, a doctor should be so detached that “his blood vessels don’t constrict and his heart rate remains steady when he sees terrible sights.”26Osler recommended doctors have the attitude of a “detached concern.”
+
+This could mean simply damping down emotional empathy—but in practice it can sometimes lead to blockading empathy entirely. The challenge for a physician in a daily medical practice is to maintain cool focus while staying open to the patient’s feelings and experience—and to let her patient know she understands and cares.
+
+Medical care can fail when patients do not follow what their physician tells them; about half of all the medicines doctors prescribe for patients are never taken. The strongest predictor of patients following such instruction is whether they feel their doctor is genuinely concerned about them.27Within the same week recently, two deans of major medical schools independently told me they face a dilemma in admitting students: how to spot those who will have empathic concern for their patients.
+
+None other than Jean Decety, the University of Chicago neurobiologist who led the study of TPJ and patient pain, put it this way: “I want my doctor to look at me if I’m in pain—to be there, be present to me, the patient. Empathic—but not too sensitive to treat my pain well.”
+
+BUILDING EMPATHY
+
+In one survey, about half of young physicians say their empathy for patients declined over the course of their training (only about a third say it increased).28And that lost art of connection persists into their career for many. That gets us back to the TPJ, the circuitry that dampens down a doctor’s physiological reaction to seeing someone in pain and helps her keep calm and clear while treating what’s causing it.
+
+The buffering from distress probably helps medical residents as they learn to perform painful procedures on patients. But once learned, that damping down of bodily resonance seems to become automatic, sometimes at the cost of a more general empathy.
+
+Yet compassionate care embodies a core value in medicine; boosting empathy is among the mandated learning objectives for medical schools. While few medical schools specifically teach the art of empathy, now that neuroscience reveals its underlying circuitry some well-designed coaching might just boost this human art.
+
+That’s the hope of Dr. Helen Riess of Massachusetts General Hospital, the mother ship of Harvard Medical School. Dr. Riess, director of the Empathy and Relational Science Program there, designed an educational program to enhance empathy for medical residents and interns that significantly improved patients’ perception of their physicians’ empathy.29
+
+In the standard mold of medical school, some of this training was purely academic, reviewing the neuroscience of empathy in a language doctors know and respect.30A series of videos showed the physiological changes (as revealed by their sweat response) in doctors and their patients during difficult encounters—like when a doctor was arrogant or dismissive—revealing how upset their patients became. And, as the videos made graphically clear, when the doctors tuned in to their patients with empathy, both doctor and patient became more relaxed and in synch biologically.
+
+To help the physicians monitor themselves, they learned to focus using deep, diaphragmatic breathing, and to “watch the interaction from the ceiling” rather than being lost in their own thoughts and feelings. “Suspending your own involvement to observe what’s going on gives you a mindful awareness of the interaction without being completely reactive,” says Dr. Riess. “You can see if your own physiology is charged up or balanced. You can notice what’s transpiring in the situation.”
+
+If the doctor notices she’s feeling irritated, for instance, that’s a signal that the patient might be bothered, too. “By being more self-aware,” Riess points out, “you can see what’s being projected onto you, and what you’re projecting onto your patients.”
+
+Training in picking up nonverbal cues includes reading patients’ emotions from their tone of voice, their posture, and, to a large extent, their facial expression. Using the work of emotions expert Paul Ekman, who has identified with precision how the facial muscles move during every major emotion, the program teaches doctors how to recognize patients’ fleeting feelings from reading their faces.
+
+“If you act in a compassionate and caring way—when you deliberately look the patient in the eye and notice their emotional expressions, even when you don’t feel like it at first—you start to feel more engaged,” Dr. Riess told me. This “behavioral empathy” may begin with going through the motions but it makes the interaction more connected. That, she adds, can help counter a resident’s emotional exhaustion in the emergency room at 2 a.m., when he has to see yet another patient and thinks,Why couldn’t he wait to come in until later in the morning?
+
+A direct lesson in a specific skill for being empathic—reading emotions from the face—proved to be among the most potent parts of the entire training. The more the doctors in training learned to read subtle emotional expressions, the more their actual patients reported feeling empathic care.
+
+Dr. Riess expected the finding. “The more you can pick up the subtle cues of emotion,” she told me, “the more empathic understanding you are able to have.”
+
+There are no doubt ways an empathic physician can juggle both the laptop and connecting with patients—for instance if she can manage to type on her computer and still look up from time to time and maintain meaningful eye contact. Or she could share the screen at apt moments with the patient: “I’m looking at your lab results—here, let me show you,” and review them together.
+
+Still, many physicians are afraid of getting behind schedule and that these touches will add too much time. “We are trying to dispel that myth,” says Dr. Reiss. “Empathy actually saves time in the long run.”
+
+11
+
+SOCIAL SENSITIVITY
+
+Years ago I occasionally used the services of a freelance editor. But every time we’d get in a casual conversation, it would go on . . . and on . . . and on. I’d send himlet’s-wrap-this-upcues in my pacing and tone of voice—which he’d ignore. I’d say, “I’ve got to run now,” and he’d just keep talking. I’d take my car keys out and head for the door—and he’d come along with me to the car without missing a beat. I’d tell him, “See you later,” and he’d just go on chatting.
+
+I’ve known several people like that editor, each with the same blindness to the cues a conversation was ending. That very tendency, in fact, is one of the diagnostic indicators of social dyslexia. Its opposite, social intuition, tells us how accurate we are at decoding the stream of nonverbal messages people constantly send, silent modifiers of what they are saying.
+
+This steady stream of nonverbal exchanges rushes to and from everyone we interact with, whether in a routine hello or a tense negotiation, transmitting messages received every bit as powerfully as whatever we might be saying. Perhapsmorepowerfully.
+
+In job interviews, for example, if the applicant moves in synch with the interviewer (not intentionally—it has to occur naturally as a by-product of brain synchronization), she’s more likely to be hired. That’s a problem for those who are “gesturally dysfunctional,” a term coined by scientists to refer to people who just can’t seem to get right the movements that annotate what we are saying.
+
+Queen Elizabeth II’s husband, Prince Philip, well-known for his social gaffes, describes himself as expert in “dontopedalogy,” the science of putting your foot in your mouth.
+
+Take what was a momentous event in Nigeria: the first visit in forty-seven years by a British monarch. Queen Elizabeth and her royal consort, Prince Philip himself, came to open a conference of Commonwealth nations. The country’s president, proudly decked out in traditional Nigerian robes, met them at the airport.
+
+“You look,” said Prince Philip to the president with disdain, “like you’re ready for bed.”
+
+The prince once wrote to a family friend, “I know you will never think very much of me. I am rude and unmannerly and I say many things out of turn, which I realize afterwards must have hurt someone. Then I am filled with remorse and I try to put matters right.”1
+
+Such lack of politesse reflects deficient self-awareness: People who are tuned out not only stumble socially, but are surprised when someone tells them they have acted inappropriately. Whether it’s by talking too loudly in a restaurant or inadvertent rudeness, they tend to make others feel uneasy.
+
+One brain test for social sensitivity, used by Richard Davidson, looks at the neural zone for recognizing and reading faces—the “fusiform face area”—while people are shown photos of faces. If we are asked to tell what emotion the person feels, our fusiform face area lights up in a brain scanner. Those who are highly socially intuitive show, as you might expect, high levels of activity when they do this. On the other hand, those whose focus just cannot pick up the emotional wavelength show low levels.
+
+Those with autism show little fusiform action, but lots in the amygdala, which registers anxiety.2Looking at faces tends to make them anxious, particularly looking at a person’s eyes, a rich source of emotional data. The crow’s-feet wrinkles around people’s eyes, for example, tell us when they are genuinely feeling happy; smiles lacking those crinkles signal faked joy. Ordinarily, small children learn much about emotions by looking at the other person’s eyes, while those with autism avoid the eyes and so fail to get those lessons.
+
+But everyone falls somewhere on this dimension. A manager at a financial advisory company had been accused of sexual harassment three times in as many years—and, I’m told, each time the manager had been stunned because he had no idea that he had been acting inappropriately. Such gaffe-prone people fail to notice the implicit ground rules for a situation—and don’t pick up the social signals that they are making other people uneasy. Their insula is out of the loop. These are the folks who blithely check for text messages while there’s a solemn moment of silence for a colleague who passed away.
+
+Remember the woman who knew too much—who could read supersubtle nonverbal messages, and then would blurt out something about them that was embarrassing? She tried mindfulness meditation to help her gain more inner awareness.
+
+After a few months of practicing mindfulness, she reported, “I already see places where I feel as if I am able to make a little bit of a choice about my reaction to events—places where I can still see what people are saying with their bodies, but don’t need to react right away. It’s a good thing!”
+
+GETTING THE CONTEXT
+
+Then there are the situations where most anyone will be “off,” at least at first. We are inevitably prone to inadvertent gaffes when we travel to a new culture, where we start out blind to the fresh set of ground rules. I remember being in a monastery in the hills of Nepal, when a pert European trekker walked through in short shorts—a transgression from the Nepali perspective, but one she hadn’t a clue she was committing.
+
+Those who do business with diverse sets of people in a global economy need particular sensitivity to such unspoken norms. In Japan, I learned the hard way that the moment of exchanging business cards signals an important ritual. We Americans are prone to casually pocketing the card without looking, which there indicates disrespect. I was told you should take the card carefully, hold it in both hands, and study it for a while before putting it away in a special case (this advice came a bit too late—I had just stuffed a card into my pocket without giving it a glance).
+
+The cross-cultural talent for social sensitivity appears related to cognitive empathy. Executives good at such perspective-taking, for example, do better at overseas assignments, presumably because they can pick up implicit norms quickly as they learn the unique mental models of a given culture.
+
+Ground rules for what’s appropriate can create invisible barriers when people from different cultures work together. An engineer from Austria who works for a Dutch company lamented, “Debate is highly valued in Dutch culture; you grow up with it from the time you’re in primary school. They see it as necessary. But I don’t like that kind of debate; I find it upsetting—it’s too confrontational. For me the inner challenge is not to take it personally, and to stay connected and feel respect during the confrontation.”
+
+Culture aside, ground rules shift greatly depending on whom we are with. There are jokes you tell to your best buddies that you should never tell your boss.
+
+Attention to context lets us pick up subtle social cues that can guide how we behave. Those who are tuned in this way act with skill no matter what situation they find themselves in. They know not only what to say and do, but also, just as vital, whatnotto say or do. They instinctively follow the universal algorithm for etiquette, to behave in ways that put others at ease. Sensitivity to how people are feeling in reaction to what we do or say lets us navigate hidden social minefields.
+
+While we may have some conscious ideas of such norms (how to dress for casual Friday at work; eat only with your right hand in India), attention to implicit norms is largely intuitive, a bottom-up capacity. Our felt sense of what’s socially appropriate comes to us as a feeling in our body—when we’re “off” it’s the physical manifestation ofthis doesn’t feel right. We may be picking up subtle signals of embarrassment or distress from the people we’re with.
+
+If we’re oblivious to these sensations of being socially off-key (or never have them in the first place) we just keep going, clueless as to how far off course we are. One brain test for context focus assesses the function of the hippocampus, which is a nexus for circuits that gauge social circumstances. The anterior zone of the hippocampus backs up against the amygdala and plays a key role in keeping what we do appropriate to the context. The anterior hippocampus, in conversation with the prefrontal area, squelches that impulse to do something inappropriate.
+
+Those most alert to social situations, Richard Davidson hypothesizes, have stronger activity and connectivity in these brain circuits than do those who just can’t seem to get it right. The hippocampus is at work, he says, to make you act differently when with your family and when at work, and differently again in the office versus with your workmates in a bar.
+
+Context awareness also helps at another level: mapping the social networks in a group or at a new school or on the job—a skill that lets us navigate those relationships well. People who excel at organizational influence, it turns out, can not only sense the flow of personal connections but also name the people whose opinions hold most sway—and so, when they need to, focus on convincing those who will in turn persuade others.
+
+Then there are those who are just tuned out of a particular social context—like the video game champ who spent so much of his life glued to his computer monitor that once when he agreed to meet a journalist at a restaurant he was mystified as to why the place should be so busy on Valentine’s Day.
+
+An extreme of being “off” in reading social context can be seen in post-traumatic stress disorder, when a person reacts to an innocent event like a car backfiring as though it were a dire emergency and dives under a table. Tellingly, the hippocampus shrinks in those with PTSD but grows larger again as symptoms abate.3
+
+POWER’S INVISIBLE DIVIDE
+
+Miguel was a day laborer, one of countless illegal immigrants from Mexico who scrape by on the meager wages they can make picking up jobs day by day—gardening, housepainting, cleaning, anything.
+
+In Los Angeles, day laborers can be found of an early morning huddled on certain street corners sprinkled throughout the metro area, where locals will cruise up, stop their car, and make an offer for work. One day Miguel took a gardening job for a woman who, after his long and hard day’s work, refused to pay him a cent.
+
+Miguel replayed that crushing disappointment when he took part in a workshop that had him act this drama from his own life. The workshop employs methods of the “theater of the oppressed,” which is designed to help a relatively privileged audience empathize with the emotional reality of victims of oppression.
+
+After someone like Miguel depicts a scenario, a volunteer from the audience steps up to replay the scene. For Miguel, a woman repeated his performance, adding what she saw as a possible solution to his predicament.
+
+“She depicted going to the employer and telling her how unfair she was being, reasoning with her,” Brent Blair, who produced the performance, told me.
+
+But for Miguel that was not an option: while that approach might have worked for a middle-class woman with citizenship, it would be impossible for an immigrant working as a day laborer.
+
+Miguel watched this replay of his own story in silence, standing at the corner of the stage. Says Blair, “At the end he couldn’t turn around to talk it over with the rest of us—he was weeping.
+
+“Miguel said he didn’t realize how oppressed he was until he saw his own story told by someone else.”
+
+The contrast between how that woman imagined his situation and his reality highlighted how it felt to be unseen, unheard, unfelt—a nonperson to be exploited.
+
+When the method works, people like Miguel gain a new perspective on themselves by watching their stories as seen through another person’s eyes. When audience members come up and become actors performing these scenes, ideally they share the reality of the oppressed person, “sympathizing” in the true sense of the word: having the same pathos, or pain.
+
+“When you communicate an emotional experience, you can understand a problem through the heart and mind, and find new solutions,” says Blair, who directs the Applied Theatre Arts master’s program at the University of Southern California, which uses these techniques to help people in downtrodden communities. He’s staged such theatrics with rape victims in Rwanda and gang members in Los Angeles.
+
+In doing so, Blair has taken on a subtle force dividing people along otherwise invisible signs of social status and powerlessness: the powerful tend to tune out the powerless. And that deadens empathy.
+
+Blair recounts a moment at a global conference where he ended up seeing himself through the eyes of someone more powerful. He was listening to the CEO of a giant beverage company—a man notorious for lowering workers’ wages—talking about how his company was helping children become healthier.
+
+During the question period following the CEO’s talk, Blair asked an intentionally provocative question: how can you talk about healthy kids without also talking about healthy wages for their parents?
+
+The CEO ignored Blair’s question and went right on to the next one. Blair suddenly felt like a nonperson.
+
+The ability of the powerful to dismiss inconvenient people (and inconvenient truths) by paying no attention has become the focus of social psychologists, who are finding relationships between power and the people we pay most and least attention to.4
+
+Understandably, we focus on the people we value most. If you are poor, you depend on good relationships with friends and family whom you may need to turn to for help—say, when you need someone to look after your four-year-old until you get home from work. Those with few resources and a fragile perch on stability “need to lean on people,” says Dacher Keltner, a psychologist at the University of California, Berkeley.
+
+So the poor are particularly attentive to other people and their needs.
+
+The wealthy, on the other hand, can hire help—pay for a day care center or even an au pair. This means, Keltner argues, that rich people can afford to be less aware of the needs of other people, and so can be less attentive to them and their suffering.
+
+His research has surfaced this disdain in just a five-minute get-acquainted session.5The more wealthy (at least among American college students) exhibit fewer signs of engagement like making eye contact, nods, and laughing—and more of those for uninterest, like checking the time, doodling, or fidgeting. Students from wealthy families seem standoffish, while those from poorer roots appear more engaged, warm, and expressive.
+
+And in a Dutch study, strangers told each other about distressing episodes in their lives, ranging from the death of a loved one or divorce to loss of a love or betrayal, or childhood pains like being bullied.6Again the more powerful person in the pairs tended to be more indifferent: to feel less of the other person’s pain—to be less empathic, let alone compassionate.
+
+Keltner’s group has found similar attention gaps just by comparing high-ranking people in an organization with those at the lower tiers on their skill at reading emotions from facial expression.7In any interaction the more high-power person tends to focus his or her gaze on the other person less than others, and is more likely to interrupt and to monopolize the conversation—all signifying a lack of attention.
+
+In contrast, people of lower social status tend to do better on tests of empathic accuracy, such as reading others’ emotions from their faces—even just from muscle movements around the eyes. By every measure they focus on other people more than do people of higher status.
+
+The mapping of attention on lines of power shows up in a simple metric: how long does it take person A to respond to an email from person B? The longer someone ignores an email before finally responding, the more relative social power that person has. Map these response times across an entire organization and you get a remarkably accurate chart of the actual social standing. The boss leaves emails unanswered for hours or days; those lower down respond within minutes.
+
+There’s an algorithm for this, a data mining method called “automated social hierarchy detection,” developed at Columbia University.8When applied to the archive of email traffic at Enron Corporation before it folded, the method correctly identified the roles of top-level managers and their subordinates just by how long it took them to answer a given person’s emails. Intelligence agencies have been applying the same metric to suspected terrorist gangs, piecing together the chain of influence to spot the central figures.
+
+Power and status are highly relative, varying from one encounter to another. Tellingly, when students from wealthy families imagined themselves talking with someone of still higher status than themselves, they improved on their ability to read emotions in faces.
+
+Where we see ourselves on the social ladder seems to determine how much attention we pay: more vigilant when we feel subordinate, less so when superior. The corollary: The more you care about someone, the more attention you pay—and the more attention you pay, the more you care. Attention interweaves with love.

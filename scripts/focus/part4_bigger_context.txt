@@ -1,0 +1,313 @@
+PART IV
+
+THE BIGGER CONTEXT
+
+12
+
+PATTERNS, SYSTEMS, AND MESSES
+
+While he was visiting a village in India’s Himalayan foothills, a fall down some stairs left Larry Brilliant confined to bed for weeks to heal a back injury. To while away the hours in that isolated hamlet, he asked his wife, Girija, to see if the local library had any books on Indian coins—he had been an avid coin collector as a kid.
+
+That’s around when I first met Dr. Larry, as his friends call him. An M.D., he had joined the World Health Organization initiative to vaccinate the world against smallpox. I remember him telling me at the time how, by immersing himself in reading about the coins of ancient India, he had started to grasp the history of the trading networks in that part of the world.
+
+With his appetite for coin collecting renewed, once he got back on his feet, during his travels across India Dr. Larry started to visit local goldsmiths, who often sold gold and silver coins by weight. Some were ancient.
+
+These included coins dating from the Kushans, a nation that in the second century C.E. adminstered from Kabul an empire extending from the Aral Sea to Benares. Kushan coins adopted a format borrowed from a conquered group, the Bactrians, descendants of Greek soldiers left behind to man outposts after Alexander the Great’s foray into Asia. Those coins told an intriguing story.
+
+On one side of Kushan coins was the image of their king of a given period; the flip side portrayed the image of a god. Kushans were Zoroastrian, followers of a Persian religion at the time among the world’s largest. But various Kushan coins depicted not just their Persian deity, but also a wide variety of divinities, like Shiva or Buddha, borrowed from Persian, Egyptian, Greek, Hindu, and Roman pantheons—even from nations far distant from Kushan territory.
+
+How, in the second century, could an empire centered in Afghanistan learn so much about religions—and pay tribute to their deities—ranging far beyond its borders? The answer lay in the economic systems of the day. The Kushan Empire allowed, for the first time in history, a protected linkage between the already vibrant trade routes of the Indian Ocean and the Silk Road. Kushans were in regular contact with merchants and holy men whose roots stretched from the Mediterranean basin to the Ganges, from the Arabian Peninsula to the deserts of northwestern China.
+
+There were other such revelations. “I’d find an abundance of Roman coins in the south of India, and try to figure out how it got there,” Dr. Larry told me. “It turns out the Romans, whose empire touched the Red Sea in Egypt, came around Arabia by boat to Goa to trade. You could reverse-engineer where these ancient coins were turning up and deduce the trade routes of the period.”
+
+At the time Dr. Larry had just finished working throughout South Asia on the historically successful worldwide smallpox eradication program for WHO, and he was about to embark for the University of Michigan to get a master’s degree in public health. There was a surprising resonance between his exploration of trade routes and what he was to learn at Michigan.
+
+“I had taken courses in system analysis and was studying epidemiology. This fitted my way of thinking. I realized tracking an epidemic was much like tracking the spread of an ancient civilization like the Kushans with all the archaeological, linguistic, and cultural clues along the way.”
+
+The 1918 flu pandemic, for instance, killed an estimated 50 million people worldwide. “It probably began in Kansas and was first spread by American troops traveling abroad during World War I,” Dr. Larry says. “That flu marched around the world at the speed of steamships and the Orient Express. Today pandemics can spread at the speed of a 747.”
+
+Or take the case of polio, a disease known in the ancient world, but only sporadically. “What made polio become an epidemic was urbanization; in cities people shared a single, polluted water system rather than getting water from their own individual wells.
+
+“An epidemic exemplifies system dynamics. The more you can think systemically, the more you can follow the path of coins, art, religion, or disease. Understanding how coins travel along trade routes parallels analyzing the spread of a virus.”
+
+That kind of pattern detection signals the systems mind at work. This sometimes uncanny ability lets us spot with ease the telling detail in a vast visual array (think “Where’s Waldo”). If you flash a photo of lots of dots and tell people to guess how many there are, the better estimators should be better systems thinkers. The gift shows up in those best at, say, designing software or finding interventions to save failing ecosystems.
+
+A “system” boils down to a cohesive set of lawful, regular patterns. Pattern recognition operates in circuitry within the parietal cortex, though the specific sites of a more extensive “systems brain”—if any—have yet to be identified. As it stands, there seems to be no dedicated network or circuitry in the brain that gives us a natural inclination toward systems understanding.
+
+We learn how to read and navigate systems through the remarkable general learning talents of the neocortex. Such cortical talents—as in math or engineering—can be duplicated by computers. That sets the systems mind apart from self-awareness and empathy, which operate on dedicated, largely bottom-up, circuitry. It takes a bit of effort to learn about systems, but to navigate life successfully we need strengths in this variety of focus as well as the two that come more naturally.
+
+MESSES AND SUPER-WICKED PROBLEMS
+
+A systems perspective has carried over to Dr. Larry’s current post as head of the Skoll Global Threats Fund, which has a mandate to safeguard humanity against dangers that include Middle East conflicts, nuclear proliferation, pandemics, climate change, and the battles that can arise over the scarcity of water.
+
+“We find the hot spots, the points where trouble might start. Take water scarcity and the struggle among three nuclear-armed nations—Pakistan, India, and China. About ninety-five percent of water in Pakistan is used for agriculture, and India is upstream of most of its main rivers. Pakistanis think that India manipulates floodgates in India and controls when and how much water Pakistan gets. And upstream from India, Indians believe that China is controlling the water flowing out of the Third Pole, the ice and snow of the Himalayan plateau.”
+
+But no one knows how much water flows through these river systems and at what season, or how many gates control that flow, or where, or for what purpose. “This data is shrouded as a political tool by the three governments,” Dr. Larry says. “So we support the gathering of that data by a trusted third party, and making it transparent. That will allow the next step: analysis of the key nodes and the ‘ouch’ points.”
+
+A rapid response will be essential for combating any future global flu pandemics caused by mutating strains for which no one has immunity. Yet that response will have no chance to be pretested; the situation will be unique in history (there were, for example, no 747s during the last pandemic in 1918); and the stakes are so high there is no room for error. These are among the qualifications that rank pandemics as a “wicked” problem—not in the sense of “evil,” but rather meaning extremely hard to solve.
+
+Combating global warming, on the other hand, poses a “super-wicked” problem: there is no single authority in charge of its solution, time is running out, the people who seek to solve the problem are among those (all of us) who cause it, and official policies dismiss its importance for our future.1
+
+What’s more, both pandemics and global warming are what are technically called “messes,” where a troubling predicament interacts in a system of other interrelated problems.2So, as Dr. Larry points out, these are incredibly complicated dilemmas, and lots of the data we need to solve them are missing.
+
+Systems are virtually invisible to the naked eye, but their workings can be rendered visible by gathering data from enough points that the outlines of their dynamics come into focus. The more data, the clearer the map becomes. Enter the era of big data.
+
+Years after his coin-collecting days in India, Dr. Larry became the founding executive director of Google.org, Google’s nonprofit arm. While there he brought about one of the first widely hailed applications for big data: flu-spotting. A volunteer Google team of engineers, working with epidemiologists from the Centers for Disease Control and Prevention, analyzed an enormous number of search queries for words, such asfeverorache, connected with flu symptoms.3
+
+“We used tens of thousands of simultaneous computers to search every keystroke on Google over five years to create an algorithm to predict flu outbreaks,” Dr. Larry recalls. The resulting algorithm identifies flu outbreaks within a day, compared with the two weeks it typically takes the CDC to notice hot spots for the disease based on reports from physicians.
+
+Big data software analyzes voluminous amounts of information; using Google data to spot flu outbreaks was one of the early applications of big data to a mob—what’s become known as “collective intelligence.” Big data lets us know where the collective attention focuses.
+
+The uses are endless. For instance, analyzing who connects to whom—via calls, tweets, texts, and the like—surfaces the human nerve system of an organization, mapping connectivity. Hyperconnected folks are typically the most influential: an organization’s social connectors, knowledge holders, or power brokers.
+
+Among the multiplying commercial applications for big data: A mobile phone company used the methodology to analyze the calls its customers made. This identified “tribal leaders,” individuals who got and made the largest number of connections to a small affinity group. The company found that if such a leader adopted a new phone service the company offered, those in the tribe were highly likely to do so, too. On the other hand, if the leader dropped the phone service for another, the tribe would be likely to follow.4
+
+“The focus of organizational attention has been on internal information,” Thomas Davenport, who tracks the uses of big data, told me. “We’ve squeezed about as much juice from that fruit as we can. So we’ve turned to external information—the Internet, customer sentiment, supply chain risk, and the like.”
+
+Davenport, formerly director of the Accenture Institute for Strategic Change, was on the faculty at Harvard Business School when we spoke. He added, “What we need is an ecological model, where you survey the external information environment—everything happening in a company’s surround that might impact it.”
+
+The information an organization gets from its computer systems, Davenport argues, can be far less useful than what comes in from other sources in the overall ecology of information, as processed by people. And a search engine may give you massive data, but no context for understanding, let alone wisdom about that information. What makes data more useful is the person curating it.5Ideally, the person who curates information will zero in on what matters, prune away the rest, establish a context for what the data means, and do all that in a way that shows why it is vital—and so captures people’s attention.
+
+The best curators don’t just put the data in a meaningful context—they know what questions to ask. When I interviewed Davenport, he was writing a book that encourages those who manage big data projects to ask questions like these: Are we defining the right problem? Do we have the right data? What are the assumptions behind the algorithm the data gets fed into? Does the model guiding those assumptions map on reality?6
+
+At an MIT conference on big data, one speaker pointed out that the financial crisis of 2008 onward was a failure of the method, as hedge funds around the world collapsed. The dilemma is that the mathematical models embodied in big data are simplifications. Despite the crisp numbers they yield, the math behind those numbers hinges on models and assumptions, which can fool those who use them into placing too much confidence in their results.
+
+At that same conference, Rachel Schutt, a senior statistician at Google Research, observed that data science requires more than math skills: it also takes people who have a wide-ranging curiosity, and whose innovation is guided by their own experience—not just data. After all, the best intuition takes huge amounts of data, harvesting our entire life experience, and filters it through the human brain.7
+
+13
+
+SYSTEM BLINDNESS
+
+Mau Piailug could read the stars and clouds, the ocean swells and the birds in flight, as though they were a GPS screen. Mau would take these readings and many others in the middle of the South Pacific, with nothing but sky on the horizon for weeks on end, using only the knowledge of the seas he learned from his elders on his native Caroline island of Satawal.
+
+Mau, born in 1932, was the last surviving native practitioner of the ancient Polynesian art of “wayfinding”: piloting a double-hulled canoe with only the lore in your head, traversing hundreds or thousands of miles from one island to another. Wayfinding embodies systems awareness at its height, reading subtle cues like the temperature or saltiness of seawater; flotsam and plant debris; the patterns of flight of seabirds; the warmth, speed, and direction of winds; variations in the swells of waves; and the rising and setting of the stars at night. All that gets mapped against a mental model of where islands are to be found, lore learned through native stories, chants, and dances.
+
+That allowed Mau to pilot a Polynesian-style canoe the 2,361 miles from Hawaii to Tahiti, a 1976 voyage that made anthropologists realize ancient islanders could traverse the South Pacific routinely, in two-way traffic from distant island to distant island.
+
+But over the half century during which Mau preserved this refined awareness of natural systems, Polynesians had turned to the navigational aids of the modern world. His was a dying lore.
+
+Mau’s epic canoe voyage stirred a revival in the study of the art of wayfinding among the native peoples of the South Pacific, a renewed interest that continues to this day. Fifty years after his own initiation as a wayfinder, Mau held the same ceremony once again for the first time, for a handful of students he had trained.
+
+Such lore, handed down for generations from elders to the young, exemplifies the local knowledge that native peoples everywhere have relied on to survive in their particular ecological niche, letting them get basics like food, safety, clothing, and shelter.
+
+Through human history, systems awareness—detecting and mapping the patterns and order that lie hidden within the chaos of the natural world—has been propelled by this urgent survival imperative for native peoples to understand their local ecosystem. They must know what plants are toxic, which nourish or heal; where to get drinking water and where to gather herbs and find food; how to read the signs of seasonal change.
+
+Here’s the catch. We are prepared by our biology to eat and sleep, mate and nurture, fight-or-flee, and exhibit all the other built-in survival responses in the human repertoire. But as we’ve seen, there are no neural systems dedicated to understanding the larger systems within which all this occurs.
+
+Systems are, at first glance, invisible to our brain—we have no direct perception of any of the multitude of systems that dictate the realities of our lives. We understand them indirectly, through mental models (the meanings of wave swells, constellations, and the flight of seabirds are each such models) and take action based on those models. The more grounded in data those models are, the more effective our interventions (for example, a rocket to an asteroid). The less grounded in data, the less effective they will be (much education policy).
+
+This lore stems from hard-learned lessons that become distributed knowledge, shared among a people, such as the healing property of specific herbs. And older generations pass on this accumulated lore to the younger.
+
+One of Mau’s students, Elizabeth Kapu’uwailani Lindsey, a Hawaii-born anthropologist who specialized in ethnonavigation, has become an explorer and fellow at the National Geographic Society. Her mission: ethnographic rescue, the conservation of vanishing indigenous knowledge and traditions.
+
+“Much of the loss of native lore is due to acculturation and colonization, and governments marginalizing native wisdom,” she told me. “This lore is passed on in many ways. Hawaiian dance, for example, was a code of movement and chants that told our genealogy, astronomy, and natural laws, and the backstory of our cultural history. The dancer’s movements, the chants, even the sound of thepahudrums, held meaning.
+
+“These were traditionally sacred practices,” she added. “Then when missionaries arrived, they deemed these dances immoral. It was only during our cultural renaissance in the 1970s that ancient hula, orhula kahiko, emerged once more. Until then, modern hula had become entertainment for tourists.”
+
+Mau studied for years, with many teachers: his grandfather chose him to begin studies as a navigator-to-be when Mau was but five or so. From that time on, Mau joined the older men preparing their canoes to go fishing; he’d ride the seas, listening to their tales of sailing—and the navigational tips embedded in them—into the night as they drank in the canoe house. All in all he studied with a half dozen expert navigators.
+
+Such native lore represents the root sciences, the needs-to-know that have over centuries grown into today’s burgeoning multitude of scientific specialties. This growth has been self-organizing, perhaps fulfilling an innate survival drive to understand the world around us.
+
+The invention of culture was a huge innovation forHomosapiens: creating language and a shared cognitive web of understanding that transcends any individual’s knowledge and life span—and that can be drawn on as needed and passed on to new generations. Cultures divide up expertise: there are midwives and healers, warriors and builders, farmers and weavers. Each of these domains of expertise can be shared, and those who hold the deepest reservoir of understanding in each are the guides and teachers for others.
+
+Native lore has been a crucial part of our social evolution, the way cultures pass down their wisdom through time. Primitive bands in early evolution would have thrived or died depending on their collective intelligence in reading the local ecosystem: to anticipate key moments for planting, harvesting, and the like—and so the first calendars came into being.
+
+But as modernity has provided machines to take the place of such lore—compasses, navigational guides, and, eventually, online maps—native people have joined everyone else in relying on them, forgetting their local lore, like wayfinding.
+
+And so it has gone with almost every traditional form of expertise for attuning to nature’s systems. The first contact of a native people with the outside world typically marks the start of a gradual forgetting of their lore.
+
+When I spoke with Lindsey, she was preparing to leave for Southeast Asia to see the Moken, who are sea nomads. Just before the 2004 tsunami swept through the islands they inhabited in the Indian Ocean, the Moken “realized the birds had stopped singing and the dolphins were swimming farther out to sea,” she told me. “So they all climbed in their boats and traveled to deep ocean, where the tsunami crest was minimal as it passed them. Not one Moken was hurt.”
+
+Other peoples—who had long forgotten to listen to the birds and watch the dolphins, as well as what to make of how those species behaved—perished. Lindsey is worried that the Moken are being forced to give up their gypsy life at sea and settle on land in Thailand and Burma. Such ecological intelligence can vanish from collective memory within a generation as the forms for passing it on vanish.
+
+Lindsey—an anthropologist raised by native healers in Hawaii—told me, “I was taught by my elders that when you go into the forest to pick flowers for making leis or plants for medicine, you only take a few blossoms or leaves from each limb. When you’re done, the forest should look like you had never been there. Today kids often go in with plastic garbage bags and break off branches.”
+
+This obliviousness to the systems around us has long puzzled me, particularly as I’ve investigated our collective cluelessness in the face of a threat to our species survival posed by our daily doings. We seem curiously unable to perceive in a way that leads us to prevent the adverse consequences of human systems, such as those for industry or commerce.
+
+THE ILLUSION OF UNDERSTANDING
+
+Here was the dilemma and opportunity for a major national retailer: its magazine buyers were reporting that close to 65 percent of all the magazines printed in the United States were never sold. This represented an annual cost of hundreds of millions of dollars to the system, but no one party in the system could change it alone. So the retail chain—among the biggest customers for magazines in the country—got together with a group of publishers and magazine distributors to see what they could do.
+
+For the magazine industry, squeezed by the digital media and falling sales, the matter was urgent. For years no one could solve this problem; everyone just shrugged. Now the industry was ready to take a hard look.
+
+“There was a huge amount of waste, whether you look at it from the perspective of sheer cost, trees cut, or carbon emitted,” Jib Ellison, CEO of Blu Skye consulting, told me.
+
+Ellison, who helped convene the group, added, “We find this in most supply chains: they were built in the nineteenth century with a view toward what can be sold, not with sustainability or reducing waste in mind. When one part of the chain optimizes for itself, it tends to suboptimize the whole.”
+
+One of the biggest dilemmas was that advertisers paid according to how many magazines their ads appeared in—not how many were sold. But a magazine “in circulation” might just sit on a shelf for weeks or months, and then be pulped. So publishers had to go back to their advertisers and explain a new basis for charging them.
+
+The retail chain analyzed which were its best-selling magazines in what stores. It found, for example, thatRoadstermight sell well in five markets but not at all in another five. The chain was able to adjust where magazines went by where they were wanted. All in all, the various fixes reduced waste by up to 50 percent. This was not only an environmental plus; it also opened shelf space for other products while saving beleaguered publishers money.
+
+Solving such problems takes seeing the systems that are in play. “We look for a systemic problem that no one player can solve—not a person, a government, a company,” Ellison tells me. The first breakthrough in the magazine dilemma was simply getting all these players together—and getting the system into the room.1
+
+“Systems blindness is the main thing we struggle with in our work,” says John Sterman, who holds the Jay W. Forrester chair at MIT’s Sloan School of Management. Forrester, Sterman’s mentor, was a founder of systems theory, and Sterman has been the go-to systems expert at MIT for years, directing MIT’s Systems Dynamics Group.
+
+His classic textbook on system thinking applied to organizations and other complex entities makes the fundamental point that what we think of as “side effects” are misnamed. In a system there are no side effects—just effects, anticipated or not. What we see as “side effects” simply reflect our flawed understanding of the system. In a complex system, he observes, cause and effect may be more distant in time and space than we realize.
+
+Sterman gives the example of debates over “zero-emission” electric cars.2They are not, in fact, “zero-emission” within a systems perspective, if they draw their electricity from an energy grid composed largely of polluting coal plants. And even if the power is generated in, say, solar farms, there’s the cost to the planet of the emissions of greenhouse gases in manufacturing the solar panels and the powering of their supply chain.3
+
+One of the worst results of system blindness occurs when leaders implement a strategy to solve a problem—but ignore the pertinent system dynamics.
+
+“It’s insidious,” says Sterman. “You get short-term relief, and then the problem comes back, often worse than before.”
+
+Traffic jams? The shortsighted solution means building more and wider roads. The new capacity brings short-term relief in congestion. But because it’s now easier to get around, those very roads mean people, stores, and workplaces spread throughout the region. Traffic over the long term increases until the jams and delays are just as bad as, or worse than, before—the traffic keeps growing until it’s so unpleasant to drive that further growth in trips stops.
+
+“Feedback loops regulate congestion,” says Sterman. “Anytime you have more capacity for traffic, people take more car trips, move farther away, buy more cars. As people spread out, mass transit loses viability. You’re trapped.”
+
+We think we are held up because of that traffic jam, but the jam itself emerges from the dynamics of highway systems. The disconnect between such systems and how we relate to them begins with distortions in our mental models. We blame those other drivers clogging the road but fail to take into account the systems dynamics that put them there.
+
+“Much of the time,” Sterman notes, “people attribute what happens to them to events close in time and space, when in reality it’s the result of the dynamics of the larger system within which they are embedded.”
+
+The problem gets compounded by what’s called the “illusion of explanatory depth,” where we feel confidence in our understanding of a complex system, but in reality have just superficial knowledge. Try to explain in depth how an electric grid operates or why increasing atmospheric carbon dioxide ups the energy in storms, and the illusory nature of our systems understanding becomes clearer.4
+
+In addition to mismatches of our mental models and the systems they presume to map, there are even more profound predicaments: our perceptual and emotional systems are all but blind to them. The human brain was molded by what helped us and our forerunners survive in the wild, particularly in the Pleistocene geological epoch (roughly from 2 million years ago to about 12,000 years ago, when there was the rise of agriculture).
+
+We are finely tuned to a rustling in the leaves that may signal a stalking tiger. But we have no perceptual apparatus that can sense the thinning of the atmosphere’s ozone layer, nor the carcinogens in the particulates we breathe on a smoggy day. Both can eventually be fatal, but our brain has no direct radar for these threats.
+
+MAKING THE INVISIBLE PALPABLE
+
+It’s not just perceptual mistuning. If our emotional circuitry (particularly the amygdala, the trigger point for the fight-or-flight response) perceives an immediate threat it will flood us with hormones like cortisol and adrenaline, which ready us to hit or run. But this does not happen if we hear of potential dangers that might emerge in years or centuries to come; the amygdala hardly blinks.
+
+The amygdala’s circuitry, concentrated in the middle of the brain, operates automatically, bottom-up. We rely on it to be on the alert for dangers and tell us what we need to pay urgent attention to. But our automatic circuitry, usually so reliable in guiding our attention, have no perceptual apparatus or emotional loading for systems and their dangers. They draw a blank.
+
+“It’s easier to override an automatic, bottom-up response with top-down reasoning than it is to deal with the complete absence of a signal,” Columbia University psychologist Elke Weber observes. “But that’s the situation when it comes to dealing with the environment. There’s nothing here in the Hudson Valley on this lovely summer day to tell me the planet is warming.”
+
+“Ideally, some of my attention should go there—it’s a long-term danger,” adds Weber, whose work includes advising the National Academy of Sciences on environmental decision-making.5“But there’s no bottom-up message to pay attention to, nothing that says: ‘Danger over here! Do something,’ so this is much harder to address. We don’t notice what’s not there—and neither mental system alerts us to this. It’s the same with our health or our retirement savings. When we eat some very rich dessert, we don’t get a signal telling us, ‘If you keep this up, you’ll die three years earlier.’ And when you buy that spunky second car, nothing tells you, ‘You will regret this when you are old and destitute.’ ”
+
+Dr. Larry, whose mandate includes fighting global warming, puts it this way: “I have to persuade you that there’s an odorless, tasteless, invisible gas that’s gathering in the heavens and capturing the sun’s heat because of what man does in using fossil fuels. It’s a heavy lift.
+
+“Actually the most comprehensive, complex science shows this,” he adds. “More than two thousand scientists put together what might be the most elegant coordination of scientific findings in history—the Intergovernmental Panel on Climate Change. They did it to convince people who are not wired for this to realize the dangers.
+
+“But unless you live in the Maldives or Bangladesh, it seems far away,” Dr. Larry observes. “The dimension of time is a huge problem—if the pace of global warming were accelerated to a few years instead of over centuries, people would pay more attention. But it’s like the national debt:I’ll leave it to my grandchildren—I’m sure they’ll think of some solution.”
+
+As Sterman observes, “Climate change will come over a long time horizon that we can’t see, so it’s hard to convince people. Only the leaf-rustling problems get our attention, not the big ones that will kill us.”
+
+At one time, the survival of human groups depended on ecological attunement. Today we have the luxury of living well using artificial aids. Or seem to have the luxury. For the same attitudes that have made us reliant on technology have lulled us into indifference to the state of the natural world—at our peril.
+
+So to meet the challenge of impending system collapse we need what amounts to a prosthesis for the mind.
+
+14
+
+DISTANT THREATS
+
+As the Indian yogi Neem Karoli Baba once told me, “You can plan for a hundred years, but you don’t know what will happen the next moment.”
+
+On the other hand, cyberpunk author William Gibson observes, “The future is already here. It’s just not evenly distributed.”
+
+What we can know of the future lies somewhere between the two views: we have glimmerings, and yet there’s always the potential of a black-swan event that could wash it all away.1
+
+Back in the 1980s, in her prophetic workIn the Age of the Smart Machine, Shoshona Zuboff saw that the advent of computers was flattening the hierarchy in organizations. Where once knowledge was power, and so the most powerful hoarded their information, new tech systems were opening the gates to data for everyone.
+
+When Zuboff wrote, that future was by no means evenly distributed—the Internet did not yet exist, let alone the cloud, YouTube, or Anonymous. But today (and certainly tomorrow) the flow of information ranges ever more freely, not just within an organization, but globally. A frustrated fruit vendor sets himself aflame in a marketplace in Tunisia, sparking the Arab Spring.
+
+Two classic instances of not knowing what will happen the next moment: Thomas Robert Malthus’s prediction in 1798 that population growth would reduce human existence to a “perpetual struggle for room and food,” trapped in a downward spiral of squalor and famine; and Paul R. Ehrlich’s 1968 warning about the “population bomb,” which would produce vast famines by 1985.
+
+Malthus failed to foresee the Industrial Revolution, and the ways mass production allowed more people to live longer. Ehrlich’s calculations missed the coming of the “green revolution,” which accelerated food production ahead of the population curve.
+
+The Anthropocene Age, which began with the Industrial Revolution, marks the first geologic epoch in which the activities of one species—we humans—inexorably degrade the handful of global systems that support life on earth.
+
+The Anthropocene represents systems in collision. Human systems for construction, energy, transportation, industry, and commerce daily attack the operation of natural systems like the nitrogen and carbon cycles, the rich dynamics of ecosystems, the availability of usable water, and the like.2What’s more, within the last fifty years this onslaught has undergone what scientists call the “great acceleration,” with atmospheric carbon dioxide concentrations, among other indicators of coming systems crises, increasing at an ever-greater rate.3
+
+The human planetary footprint, Ehrlich saw, is a product of three forces: what each of us consumes, how many of us there are, and the methods we deploy to get the stuff we consume. Using those three measures, the United Kingdom’s Royal Society tried to estimate the earth’s carrying capacity for humanity—the maximum number of people the earth can support without a collapse in the systems that support life. Their conclusion: it depends.
+
+The biggest unknown in the forecast was improvements in technology. China, for instance, worryingly expanded its capacity for generating electricity from coal—and more recently increased its use of solar and wind energy at a rapid rate. Net result: the ratio of CO2emitted relative to economic output in China has plummeted by around 70 percent over the last thirty years (although these numbers hide the continuing steep growth in coal-burning power plants in “the world’s factory”).4In short, technological revolutions may save us from ourselves, letting us use resources in ways that protect the planet’s vital life-support systems—if we can find methods that don’t just create new problems or conceal old ones.
+
+Or at least that’s the hope. But no strong economic force favors such technology revolutions in the long run. The short-term gains are made largely because companies can save money, not because of the planetary virtues of sustainability per se.
+
+For example, during the economic crisis that began in 2008, CO2levels began falling in the United States not because of government mandates, but because of market forces—less demand, plus cheaper natural gas for power plants replaced coal (though the local pollution and health problems caused by fracking for that gas creates other headaches).
+
+As we’ve seen, a blind spot in the human brain may contribute to this mess. Our brain’s perceptual apparatus has fine-tuning for a range of attention that has paid off in human survival. While we are equipped with razor-sharp focus on smiles and frowns, growls and babies, as we’ve seen, we have zero neural radar for the threats to the global systems that support human life. They are too macro or micro for us to notice directly. So when we are faced with news of these global threats, our attention circuits tend to shrug.
+
+Worse, our core technologies were invented in a day long before we had a clue about their threat to the planet. Half of industry’s CO2emissions are due to how we make steel, cement, plastic, paper, and energy. While we can make substantial reductions in those emissions with improvements in those methods, we’d be far better off reinventing them entirely so they have zero negative impact, or even replenish the planet.
+
+What could make that reinvention pay? A factor unnoted by Ehrlich and others who have tried to diagnose this dilemma: ecological transparency.
+
+Knowing where to focus in a system makes all the difference. Take the biggest mess facing our species: our slow-motion mass suicide as human systems degrade the global systems that support life on this planet. We can begin to get a more fine-tuned handle on this degradation by applying life cycle analysis (LCA) to the products and processes that cause it.
+
+Over the course of its life cycle a simple glass jar, for instance, goes through about two thousand discrete steps. At each step the LCA can calculate a multitude of impacts, from emissions into air, water, and soil to impacts on human health or degradation of an ecosystem. The addition of caustic soda to the mix for glass—one of those steps—accounts for 6 percent of the jar’s danger to ecosystems, and 3 percent of its harm to health; 20 percent of the jar’s role in climate warming is from the power plants that feed the glass factory. Each of the 659 ingredients used in glassmaking has its own LCA profile. And so on, ad infinitum.
+
+Life cycle analyses can give you a tsunami of information, overwhelming even the most ardent ecologists in the business world. An information system designed to cache all that life cycle information would spew out a bewildering cloud of millions or billions of data points. Still, digging into that data can pinpoint, for instance, exactly where in the history of that object changes can most readily reduce its ecological footprint.5
+
+The need to focus on a less complicated order (whether in organizing our closets, developing a business strategy, or analyzing LCA data) reflects a fundamental truth. We live within extremely complex systems, but engage them lacking the cognitive capacity to understand or manage them completely. Our brain has solved this problem by finding means to sort through what’s complicated via simple decision rules. For instance, navigating our lives within the intricate social world of all the people we know gets simpler if we use trust as an organizing rule of thumb.6
+
+To simplify that LCA tsunami, promising software zeroes in on the four biggest impacts four levels down in a product’s supply chain.7This offers up the roughly 20 percent of the causes that account for about 80 percent of effects—the ratio known as the Pareto principle, that a small amount of variables account for the largest portion of effect.
+
+Such heuristics determine whether a flood of data offers up a “Eureka!” or we suffer from information overload. That decision (Got it!versusToo much information) emanates from a thin strip in the brain’s prefrontal area, the dorsolateral circuits. The arbiter of this cognitive tipping point resides in the same neurons that keep the turbulent impulses of the amygdala damped down. When we hit cognitive overwhelm, the dorsolateral gives up, and our decisions and choices get worse and worse as our anxiety rises.8We’ve reached the pivot where more data leads to poor choices.
+
+Better: Zero in on a manageable number of meaningful patterns within a data torrent and ignore the rest. Our cortical pattern detector seems designed to simplify complexity into manageable decision rules. One cognitive capacity that continues to increase as the years go on is “crystallized intelligence”: recognizing what matters, the signal within the noise. Some call it wisdom.
+
+WHAT’S YOUR HANDPRINT?
+
+I’m as trapped in these systems as anyone. Yet I find it hard to write about this without sounding shrill; our impacts on the planet are inherently guilt-inducing and depressing. And that’s my point. Focusing on what’s wrong about what we do activates circuitry for distressing emotions. Emotions, remember, guide our attention. And attention glides away from the unpleasant.
+
+I used to think that complete transparency about the negative impacts of what we do and buy—knowing our eco-footprints—would in itself create a market force that would encourage us all to vote with our dollars by buying better alternatives.9Sounded like a good idea—but I neglected a psychological fact. Negative focus leads to discouragement and disengagement. When our neural centers for distress take over, our focus shifts to the distress itself, and how to ease it. We long to tune out.
+
+So instead we need a positive lens. Enter www.handprinter.org, a website that encourages anyone to take the lead in environmental improvements. Handprinter draws on LCA data to guide us in assessing our habits (such as in cooking, travel, heating, and cooling) to get a baseline for our carbon footprints. But that’s just the beginning.
+
+Then Handprinter takes all the helpful things we do—use renewable energy, ride a bike to work, turn the thermostat down—and gives us a precise metric for thegoodwe do by lessening our footprint. The sum total of all our good habits yields the value for our handprint. The key idea: keep making improvements, so that our handprint becomes bigger than our footprint. At that point we become a net positive for the planet.
+
+If you can get other people to follow your lead and adopt the same changes, your handprint grows accordingly. Handprinter is a natural for social media; it’s already an app on Facebook. Families, stores, teams, and clubs, even towns and companies, can increase their handprint together.
+
+So can schools. That’s one venue where Gregory Norris, who developed Handprinter, sees special promise. Norris is an industrial ecologist who studied with John Sterman while at MIT, and then taught life cycle analysis there. Now he’s working with an elementary school in York, Maine, to help it grow its handprint.
+
+Norris got the head of sustainability at Owens-Corning, the giant glass products corporation, to donate three hundred fiberglass blankets for water heaters to the school. In Maine, those blankets can reduce carbon emissions by a significant amount—and save households around seventy dollars a year in utility bills.10Houses that get the blankets will share part of their fuel savings with the school, which can use that cash to make improvements at the school and still have plenty left over to buy water blankets to give away to two other schools.11
+
+Those two schools will repeat the process, each giving blankets to two other schools, in an ever-expanding sequence. The math of such a geometric progression augurs a ripple effect throughout the region and, potentially, far beyond.
+
+In the first round, every participating school gets credited in its handprint with a reduction of some 130 tons of CO2emissions per year, for an expected blanket life of at least ten years. But Handprinter also gives it successive credits for every other school in the chain; in just six rounds that should include 128 schools, a carbon reduction of around 16,000 tons of CO2. Assuming new “rounds” every three months, that would be 60,000 tons by the start of the third year, and 1 million by the fourth.
+
+“The LCA calculation for one house’s heater wrap starts off negative, when you assess the wrap’s supply chain and life cycle,” says Norris. “But once you get into the impacts of its use, at a certain point it becomes progressively positive for greenhouse gases” as a home draws less power from coal-burning power plants or uses less fuel oil.12
+
+Handprints put the negatives (our footprint) in the background and positives in the foreground. When we are motivated by positive emotions, what we do feels more meaningful and the urge to act lasts longer. It all stays longer in attention. In contrast, fear of global warming’s impacts may get our attention quickly, but once we do one thing and feel a little better, we think we’re done.
+
+“Twenty years ago few people paid attention to how their activities mattered for carbon emissions,” Columbia’s Elke Weber observes. “There was no way to measure it. Now the carbon footprint gives us a metric for what we do, making these decisions easier: you can diagnose where you stand. What we measure we pay more attention to and have goals around.
+
+“But a footprint is a negative metric, and negative emotions are poor motivators. For example, you can get women’s attention about getting breast exams by scaring them about what might happen if they don’t get examined. This tactic captures attention in the short term, but because fear is a negative feeling, people will take just enough action to change their mood for the better—then ignore it.
+
+“For long-term change you need sustained action,” Weber added. “A positive message says, ‘Here are better actions to take and with this metric you can see the good you’re doing—as you keep going, you can continually feel better about how you are doing.’ That’s the beauty of handprints.”
+
+SYSTEMS LITERACY
+
+Raid on Bungeling Bay, an early video game, put the player in a helicopter that was attacking a military enemy. You could bomb factories, roads, docks, tanks, planes, and ships.
+
+Or, if you understood that the game was mapping the enemy’s supply chain, you could win with a smarter strategy: bombing his supply boats first.
+
+“But most people just flew around and blew up everything as fast as they could,” says the game’s designer, Will Wright, better known as the brain behind SimCity and its successive universes of multiplayer simulations.13One of Wright’s early inspirations in designing these virtual worlds was the work of MIT’s Jay Forrester (John Sterman’s mentor and a founder of modern systems theory), who in the 1950s was among the first to try to simulate a living system on a computer.
+
+While there are reasonable concerns about the social impacts of games on kids, a little-recognized benefit of games is acquiring the knack for learning the ground rules of an unknown reality. Games teach kids how to experiment with complex systems. Winning demands acquiring an intuitive sense of the algorithms built into the game and figuring out how to navigate through them, as Wright points out.14
+
+“Trial and error, reverse-engineering stuff in your mind—all the ways kids interact with games—that’s the kind of thinking schools should be teaching. As the world becomes more complex,” Wright adds, “games are better at preparing you.”
+
+“Kids are natural systems thinkers,” says Peter Senge, who brought systems thinking to organizational learning, and has more recently been teaching this perspective in schools. “You’ll get three six-year-olds looking at why they have so many fights on the playground, and they’ll realize they have a feedback loop where calling names leads to hurt feelings, which leads to calling names, with more hurt feelings—and it all builds to a fight.”
+
+Why not embed this understanding in the general education our culture passes on to our children, like Mau’s tutorial in celestial navigation? Call it systems literacy.
+
+Gregory Norris has become part of the Center for Health and the Global Environment at the Harvard School of Public Health, where he long taught a course in LCA. He and I did some brainstorming about what a curriculum for kids in systems and LCA might look like.
+
+Take those particulates that are emitted less by power plants if homes use a water heater blanket. There are two main kinds, both damaging to the lungs: tiny particles that go into the lungs’ deepest recesses, and some that start as the gases nitrous oxide or sulfur dioxide and transform into particles that do the same damage.
+
+These particles are an enormous problem in public health, particularly in urban areas like Los Angeles, Beijing, Mexico City, and New Delhi, where highly polluted days are frequent. The World Health Organization estimates that outdoor air pollution causes about 3.2 million deaths yearly worldwide.15
+
+Given such data, a health or math class could calculate for a smoggy day in a city the resulting “disability adjusted life years” (or DALY; one DALY unit equals the loss of a year of good health)—computing the days of healthy life lost due to particulate emissions. This can be calculated for even a tiny amount of exposure and translated into its role in increased disease rates.
+
+Different topics would analyze these systems in their own way. Biology would explore, for example, the mechanisms involved when particulates in the lungs lead to asthma, cardiovascular disease, or emphysema. A chemistry class could focus on the conversion of the gases nitrous oxide and sulfur dioxide into those particles. Social policy, civics, or environmental studies could discuss the issues of how today’s systems of energy, transportation, and construction routinely pose such threats to the public’s health—and how these systems could be changed to lower those health risks.
+
+Embedding this learning in school lesson plans erects the conceptual scaffolding for systems thinking that can be elaborated on more explicitly as children at higher grades engage the specifics in greater detail.16
+
+“It takes a panoramic attention to appreciate system-level interactions,” says Richard Davidson. “You need to be attentionally flexible, so you can expand and contract your focus, like a zoom lens, to see elements big and small.” Why not teach children these basic skills in reading systems?
+
+Education upgrades mental models. Helping students master the cognitive maps for, say, industrial ecology as part of their overall education means these insights will become part of their decision rules in adulthood.
+
+For consumers, this would affect thinking about what brands to buy and which to avoid; for decision-makers at work it would come up in everything from where to invest to manufacturing processes and material sourcing, to business strategy and risk avoidance. Most especially this way of thinking should lead some among our younger generations to become avid about research and development, particularly along the lines of bio-mimicry—doing things the way nature does them.
+
+Virtually all of today’s industrial platforms, chemicals, and manufacturing processes were developed in an earlier era when no one knew or cared about environmental impacts. Now that we have the LCA lens with systems thinking, we need to rethink them all—a huge entrepreneurial opportunity for the future.
+
+At a closed-door meeting of several dozen heads of sustainability, I was encouraged to hear them tick off lists of improvements their company had made, ranging from energy-saving solar-powered factories to sourcing sustainably grown raw materials. But I was equally depressed to hear a chorus of complaints boiling down to this: “But our customers don’t care.”
+
+This education initiative should help solve that problem in the long run. The young inhabit a world of social media, where the forces emerging from digital hyperconnections can sway markets and minds. If a method like Handprints goes viral, it could help create the now-missing economic force that makes it imperative for companies to change how they do business.
+
+The more well-informed minds the better. When we confront an immense system, attention needs to be widely distributed. One set of eyes can see only so far; a swarm grasps much more. The most robust entity takes in the greatest amount of relevant information, understands it most deeply, and responds most nimbly. We, collectively, can become that entity.
+
+Add systems literacy to the long and growing list of what people around the world are already doing to avoid a planetary meltdown. The more, the better: there may be no single fulcrum for change, but rather many widely dispersed ones. That’s the argument made by Paul Hawken in his bookBlessed Unrest. When the 2009 Copenhagen climate meeting (like all the others) failed to come up with an agreement, Hawken said it was “irrelevant because I don’t think that’s where change comes from.”
+
+Hawken’s perspective: “Imagine 50,000 people in Copenhagen exchanging antennae and notes and cards and contacts and ideas and so forth and then spreading back all over the world to 192 countries. Energy and climate is a system; this is a systemic problem. That means everything we’re doing is part of the healing of the system and that there is no Archimedean point in the system where we’re either failing or, if we pull harder, we’re going to succeed.”17

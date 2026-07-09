@@ -1,0 +1,543 @@
+PART I
+
+THE ANATOMY OF ATTENTION
+
+2
+
+BASICS
+
+As a teenager I got into the habit of listening to the string quartets of Béla Bartók—which I found slightly cacophonous but still enjoyed—while doing my homework. Somehow tuning out those discordant tones helped me focus on, say, the chemical equation for ammonium hydroxide.
+
+Years later, when I found myself writing articles on deadline for theNew York Times, I remembered that early drill in ignoring Bartók. At theTimesI labored away in the midst of the science desk, which in those years occupied a classroom-sized cavern into which were crammed desks for the dozen or so science journalists and a half dozen editors.
+
+There was always a Bartók-ish hum of cacophony. Nearby there might be three or four people chatting; you’d overhear the near end of a phone conversation—or several—as reporters interviewed sources; editors shouted across the room to ask when an article would be ready for them. There were rarely, if ever, the sounds of silence.
+
+And yet we science writers, myself among them, would reliably deliver our ready-to-edit copy right on time, day after day. No one ever pleaded,Everyone please be quiet, so we could concentrate. We all just redoubled our focus, tuning out the roar.
+
+That focus in the midst of a din indicates selective attention, the neural capacity to beam in on just one target while ignoring a staggering sea of incoming stimuli, each one a potential focus in itself. This is what William James, a founder of modern psychology, meant when he defined attention as “the sudden taking possession by the mind, in clear and vivid form, of one of what seems several simultaneously possible objects or trains of thought.”1
+
+There are two main varieties of distractions: sensory and emotional. The sensory distractors are easy: as you read these words you’re tuning out of the blank margins surrounding this text. Or notice for a moment the feeling of your tongue against your upper palate—just one of an endless wave of incoming stimuli your brain weeds out from the continuous wash of background sounds, shapes and colors, tastes, smells, sensations, and on and on.
+
+More daunting is the second variety of lures: emotionally loaded signals. While you might find it easy to concentrate on answering your email in the hubbub of your local coffee shop, if you should overhear someone mention your name (potent emotional bait, that) it’s almost impossible to tune out the voice that carries it—your attention reflexively alerts to hear what’s being said about you. Forget that email.
+
+The biggest challenge for even the most focused, though, comes from the emotional turmoil of our lives, like a recent blowup in a close relationship that keeps intruding into your thoughts. Such thoughts barge in for a good reason: to get us to think through what to do about what’s upsetting us. The dividing line between fruitless rumination and productive reflection lies in whether or not we come up with some tentative solution or insight and then can let those distressing thoughts go—or if, on the other hand, we just keep obsessing over the same loop of worry.
+
+The more our focus gets disrupted, the worse we do. For instance, a test of how much college athletes are prone to having their concentration disrupted by anxiety correlates significantly with how well or poorly they will perform in the upcoming season.2
+
+The ability to stay steady on one target and ignore everything else operates in the brain’s prefrontal regions. Specialized circuitry in this area boosts the strength of incoming signals we want to concentrate on (that email) and dampens down those we choose to ignore (those people chattering away at the next table).
+
+Since focus demands we tune out our emotional distractions, our neural wiring for selective attention includes that for inhibiting emotion. That means those who focus best are relatively immune to emotional turbulence, more able to stay unflappable in a crisis and to keep on an even keel despite life’s emotional waves.3
+
+Failure to drop one focus and move on to others can, for example, leave the mind lost in repeating loops of chronic anxiety. At clinical extremes it means being lost in helplessness, hopelessness, and self-pity in depression; or panic and catastrophizing in anxiety disorders; or countless repetitions of ritualistic thoughts or acts (touch the door fifty times before leaving) in obsessive-compulsive disorder. The power to disengage our attention from one thing and move it to another is essential for well-being.
+
+The stronger our selective attention, the more powerfully we can stay absorbed in what we’ve chosen to do: get swept away by a moving scene in a film or find a powerful poetry passage exhilarating. Strong focus lets people lose themselves in YouTube or their homework to the point of being oblivious to whatever tumult might be nearby—or their parents calling them to come eat dinner.
+
+You can spot the focused folks at a party: they are able to immerse themselves in a conversation, their eyes locked on the other person as they stay fully absorbed in their words—despite that speaker next to them blaring the Beastie Boys. The unfocused, in contrast, are in continual play, their eyes gravitating to whatever might grab them, their attention adrift.
+
+Richard Davidson, a neuroscientist at the University of Wisconsin, names focus as one of a handful of essential life abilities, each based in a separate neural system, that guide us through the turbulence of our inner lives, our relationships, and whatever challenges life brings.4
+
+During sharp focus, Davidson finds, key circuitry in the prefrontal cortex gets into a synchronized state with the object of that beam of awareness, a state he calls “phase-locking.”5If people are focused on pressing a button each time they hear a certain tone, the electrical signals in their prefrontal area fire precisely in synch with the target sound.
+
+The better your focus, the stronger your neural lock-in. But if instead of concentration there’s a jumble of thoughts, synchrony vanishes.6Just such a drop in synchrony marks people with attention deficit disorder.7
+
+We learn best with focused attention. As we focus on what we are learning, the brain maps that information on what we already know, making new neural connections. If you and a small toddler share attention toward something as you name it, the toddler learns that name; if her focus wanders as you say it, she won’t.
+
+When our mind wanders off, our brain activates a host of brain circuits that chatter about things that have nothing to do with what we’re trying to learn. Lacking focus, we store no crisp memory of what we’re learning.
+
+ZONING OUT
+
+Time for a quick quiz:
+
+1.   What’s that technical term for brain wave synchrony with a sound you hear?
+
+2.What are the two main varieties of distraction?
+
+3.What aspect of attention predicts how well college athletes perform?
+
+If you can answer these off the top of your head, you’ve been sustaining focused attention while you read—the answers were in the last few pages of this book (and can be found at the bottom of this page).*
+
+If you can’t recall the answers, you may have been zoning out from time to time while you read. And you’re not alone.
+
+A reader’s mind typically wanders anywhere from 20 to 40 percent of the time while perusing a text. The cost for students, not surprisingly, is that the more wandering, the worse their comprehension.8
+
+Even when our minds are not wandering, if the text turns to gibberish—likeWe must make some circus for the money, instead ofWe must make some money for the circus—about 30 percent of the time readers continue reading along for a significant stretch (an average of seventeen words) before catching it.
+
+As we read a book, a blog, or any narrative, our mind constructs a mental model that lets us make sense of what we are reading and connects it to the universe of such models we already hold that bear on the same topic. This expanding web of understanding lies at the heart of learning. The more we zone out while building that web, and the sooner the lapse after we begin reading, the more holes.
+
+When we read a book, our brain constructs a network of pathways that embodies that set of ideas and experiences. Contrast that deep comprehension with the interruptions and distractions that typify the ever-seductive Internet. The bombardment of texts, videos, images, and miscellaneous of messages we get online seems the enemy of the more full understanding that comes from what Nicholas Carr calls “deep reading,” which requires sustained concentration and immersion in a topic rather than hopscotching from one to another, nabbing disconnected factoids.9
+
+As education migrates onto Web-based formats, the danger looms that the multimedia mass of distractions we call the Internet will hamper learning. Way back in the 1950s the philosopher Martin Heidegger warned against a looming “tide of technological revolution” that might “so captivate, bewitch, dazzle, and beguile man that calculative thinking may someday come to be . . . the only way of thinking.”10That would come at the loss of “meditative thinking,” a mode of reflection he saw as the essence of our humanity.
+
+I hear Heidegger’s warning in terms of the erosion of an ability at the core of reflection, the capacity to sustain attention to an ongoing narrative. Deep thinking demands sustaining a focused mind. The more distracted we are, the more shallow our reflections; likewise, the shorter our reflections, the more trivial they are likely to be. Heidegger, were he alive today, would be horrified if asked to tweet.
+
+HAS ATTENTION SHRUNK?
+
+There’s a swing band from Shanghai playing lounge music in a crowded Swiss convention hall, with hundreds of people milling about. In the midst of the manic throng, standing stock-still at a small circular bar table, Clay Shirky has zoned in to his laptop and is typing furiously.
+
+I met Clay, a New York University–based social media maven, some years back, but rarely have the chance to see him in the flesh. For several minutes I’m standing about three feet away from Clay, off to his right, watching him—positioned in his peripheral vision, if he had any attention bandwidth to spare. But Clay takes no notice until I speak his name. Then, startled, he looks up and we start chatting.
+
+Attention is a limited capacity: Clay’s rapt concentration fills that full bore until he shifts to me.
+
+“Seven plus or minus two” chunks of information has been taken as the upper limit of the beam of attention since the 1950s, when George Miller proposed what he called this “magical number” in one of psychology’s most influential papers.11
+
+More recently, though, some cognitive scientists have argued that four chunks is the upper limit.12That caught the public’s limited attention (for a brief moment, anyway), as the new meme spread that this mental capacity had shrunk from seven to four bits of information. “Mind’s Limit Found: 4 Bits of Information,” one science news site proclaimed.13
+
+Some took the presumed downsizing of what we can hold in mind as an indictment of the distractedness of everyday life in the twenty-first century, decrying the shrinking of this crucial mental ability. But they misinterpret the data.
+
+“Working memory hasn’t shrunk,” said Justin Halberda, a cognitive scientist at Johns Hopkins University. “It’s not the case that TV has made our working memory smaller”—that in the 1950s we all had an upper limit of seven plus or minus two bits of information, and now we have only four.
+
+“The mind tries to make the most of its limited resources,” Halberda explained. “So we use memory strategies that help”—say, combining different elements, like 4, 1, and 5, into a single chunk, such as the area code 415. “When we perform a memory task, the result might be seven plus or minus two bits. But that breaks down into a fixed limit of four, plus three or four more that memory strategies add. So both four and seven are right, depending on how you measure it.”
+
+Then there’s what many people think of as “splitting” attention in multitasking, which cognitive science tells us is a fiction, too. Rather than having a stretchable balloon of attention to deploy in tandem, we have a narrow, fixed pipeline to allot. Instead of splitting it, we actually switch rapidly. Continual switching saps attention from full, concentrated engagement.
+
+“The most precious resource in a computer system is no longer its processor, memory, disk or network, but rather human attention,” a research group at Carnegie Mellon University notes.14The solution they propose to this human bottleneck hinges on minimizing distractions: Project Aura proposes to do away with bothersome systems glitches so we don’t waste time in hassles.
+
+The goal of a hassle-free computing system is laudable. This solution, however, may not get us that far: it’s not a technological fix we need but a cognitive one. The source of distractions is not so much in the technology we use as in the frontal assault on our focusing ability from the mounting tide of distractions.
+
+Which gets me back to Clay Shirky, particularly his research on social media.15While none of us can focus on everything at once, all of us together create a collective bandwidth for attention that we each can access as needed. Witness Wikipedia.
+
+As Shirky proclaims in his bookHere Comes Everybody, attention can be seen as a capacity distributed among many people, as can memory or any cognitive expertise. “What’s trending now” indexes how we are allotting our collective attention. While some argue that our tech-facilitated learning and memory dumb us down, there’s also a case to be made that they create a mental prosthesis that expands the power of individual attention.
+
+Our social capital—and range of attention—increases as we up the number of social ties through which we gain crucial information, like tacit knowledge of “how things work here,” whether in an organization or a new neighborhood. Casual acquaintances can be extra sets of eyes and ears on the world, key sources of the guidance we need to operate in complex social and information ecosystems. Most of us have a handful of strong ties—close, trusted friends—but we can have hundreds of so-called weak ties (for example, our Facebook “friends”). Weak ties have high value as multipliers of our attention capacity, and as a source of tips for good shopping deals, job possibilities, and dating partners.16
+
+When we coordinate what we see and what we know, our efforts in tandem multiply our cognitive wealth. While at any given moment our quota for working memory remains small, the total of data we can pull through that narrow width becomes huge. This collective intelligence, the sum total of what everyone in a distributed group can contribute, promises maximal focus, the summation of what multiple eyes can notice.
+
+A research center at the Massachusetts Institute of Technology on collective intelligence sees this emerging capacity as abetted by the sharing of attention on the Internet. The classic example: millions of websites cast their spotlight within narrow niches—and a Web search selects and directs our focus so we can harvest all that cognitive work efficiently.17
+
+The MIT group’s basic question: “How can we connect people and computers so that collectively we act with more intelligence than any one person or group?”
+
+Or, as the Japanese say, “All of us are smarter than any one of us.”
+
+DO YOU LOVE WHAT YOU DO?
+
+The big question: When you get up in the morning, are you happy about getting to work, school, or whatever it is that occupies your day?
+
+Research by Harvard’s Howard Gardner, Stanford’s William Damon, and Claremont’s Mihaly Csikszentmihalyi zeroed in on what they call “good work,” a potent mix of what people are excellent at, what engages them, and their ethics—what they believe matters.18Those are more likely to be high-absorption callings: people love what they are doing. Full absorption in what we do feels good, and pleasure is the emotional marker for flow.
+
+People are in flow relatively rarely in daily life.19Sampling people’s moods at random reveals that most of the time people are either stressed or bored, with only occasional periods of flow; only about 20 percent of people have flow moments at least once a day. Around 15 percent of people never enter a flow state during a typical day.
+
+One key to more flow in life comes when we align what we do with what we enjoy, as is the case with those fortunate folks whose jobs give them great pleasure. High achievers in any field—the lucky ones, anyway—have hit on this combination.
+
+Apart from a career change, there are several doorways to flow. One may open when we tackle a task that challenges our abilities to the maximum—a “just-manageable” demand on our skills. Another entryway can come via doing what we are passionate about; motivation sometimes drives us into flow. But either way the final common pathway is full focus: these are each ways to ratchet up attention. No matter how you get there, a keen focus jump-starts flow.
+
+This optimal brain state for getting work done well is marked by greater neural harmony—a rich, well-timed interconnection among diverse brain areas.20In this state, ideally, the circuits needed for the task at hand are highly active while those irrelevant are quiescent, with the brain precisely attuned to the demands of the moment. When our brains are in this zone we are more likely to perform at our personal best whatever our pursuit.
+
+Workplace surveys, though, find large numbers of people are in a very different brain state: they daydream, waste hours cruising the Web or YouTube, and do the bare minimum required. Their attention scatters. Such disengagement and indifference are rampant, especially among repetitive, undemanding jobs. To get the disengaged workers any nearer the focused range demands upping their motivation and enthusiasm, evoking a sense of purpose, and adding a dollop of pressure.
+
+On the other hand, another large group are stuck in the state neurobiologists call “frazzle,” where constant stress overloads their nervous system with floods of cortisol and adrenaline. Their attention fixates on their worries, not their job. This emotional exhaustion can lead to burnout.
+
+Full focus gives us a potential doorway into flow. But when we choose to focus on one thing and ignore the rest, we surface a constant tension—usually invisible—between a great neural divide, where the top of the brain tussles with the bottom.
+
+3
+
+ATTENTION TOP AND BOTTOM
+
+Iturned my attention to the study of some arithmetical questions, apparently without much success,” wrote the nineteenth-century French mathematician Henri Poincaré. “Disgusted with my failure, I went to spend a few days at the seaside.”1
+
+There, as he walked on a bluff above the ocean one morning, the insight suddenly came to him “that the arithmetical transformations of indeterminate ternary quadratic forms were identical with those of non-Euclidian geometry.”
+
+The specifics of that proof do not matter here (fortunately so: I could not begin to understand the math myself). What’s intriguing about this illumination ishowit came to Poincaré: with “brevity, suddenness, and immediate certainty.” He was taken by surprise.
+
+The lore of creativity is rife with such accounts. Carl Gauss, an eighteenth- and nineteenth-century mathematician, worked on proving a theorem for four years, with no solution. Then, one day, the answer came to him “as a sudden flash of light.” Yet he could not name the thread of thought that connected his years of hard work with that flash of insight.
+
+Why the puzzle? Our brain has two semi-independent, largely separate mental systems. One has massive computing power and operates constantly, purring away in quiet to solve our problems, surprising us with a sudden solution to complex pondering. Since it operates beyond the horizon of conscious awareness we are blind to its workings. This system presents the fruit of its vast labors to us as though out of nowhere, and in a multitude of forms, from guiding the syntax of a sentence to constructing complex full-blown mathematical proofs.
+
+This back-of-the-mind attention typically comes to the center of focus when the unexpected happens. You’re talking on your cell phone while driving (the driving part is back-of-the-mind) and suddenly a horn honk makes you realize the light has changed to green.
+
+Much of this system’s neural wiring lies in the lower part of our brain, in subcortical circuitry, though its efforts break into awareness by notifying our neocortex, the brain’s topmost layers, from below. Through their pondering, Poincaré and Gauss reaped breakthroughs from the brain’s lower layers.
+
+“Bottom-up” has become the phrase of choice in cognitive science for such workings of this lower-brain neural machinery.2By the same token, “top-down” refers to mental activity, mainly within the neocortex, that can monitor and impose its goals on the subcortical machinery. It’s as though there were two minds at work.
+
+The bottom-up mind is:
+
+•   faster in brain time, which operates in milliseconds
+
+•   involuntary and automatic: always on
+
+•   intuitive, operating through networks of association
+
+•   impulsive, driven by emotions
+
+•   executor of our habitual routines and guide for our actions
+
+•   manager for our mental models of the world
+
+By contrast, the top-down mind is:
+
+•   slower
+
+•   voluntary
+
+•   effortful
+
+•   the seat of self-control, which can (sometimes) overpower automatic routines and mute emotionally driven impulses
+
+•   able to learn new models, make new plans, and take charge of our automatic repertoire—to an extent
+
+Voluntary attention, willpower, and intentional choice are top-down; reflexive attention, impulse, and rote habit are bottom-up (as is the attention captured by a stylish outfit or a nifty ad). When we choose to tune in to the beauty of a sunset, concentrate on what we’re reading, or have a deep talk with someone, it’s a top-down shift. Our mind’s eye plays out a continual dance between stimulus-driven attention capture and voluntarily directed focus.
+
+The bottom-up system multitasks, scanning a profusion of inputs in parallel, including features of our surroundings that have not yet come into full focus; it analyzes what’s in our perceptual field before letting us know what it selects as relevant for us. Our top-down mind takes more time to deliberate on what it gets presented with, taking things one at a time and applying more thoughtful analysis.
+
+Through what amounts to an optical illusion of the mind, we take what’s within our awareness to equal the whole of the mind’s operations. But in fact the vast majority of mental operations occur in the mind’s backstage, amid the purr of bottom-up systems.
+
+Much (some say all) of what the top-down mind believes it has chosen to focus on, think about, and do is actually plans dictated bottom-up. If this were a movie, psychologist Daniel Kahneman wryly notes, the top-down mind would be a “supporting character who believes herself to be the hero.”3
+
+Dating back millions of years in evolution, the reflexive, quick-acting bottom-up circuitry favors short-term thinking, impulse, and speedy decisions. The top-down circuits at the front and top of the brain are a later addition, their full maturation dating back mere hundreds of thousands of years.
+
+Top-down wiring adds talents like self-awareness and reflection, deliberation, and planning to our mind’s repertoire. Intentional, top-down focus offers the mind a lever to manage our brain. As we shift our attention from one task, plan, sensation or the like to another, the related brain circuitry lights up. Bring to mind a happy memory of dancing and the neurons for joy and movement spring to life. Recall the funeral of a loved one and the circuitry for sadness activates. Mentally rehearse a golf stroke and the axons and dendrites that orchestrate those moves wire together a bit more strongly.
+
+The human brain counts among evolution’s good-enough, but not perfect, designs.4The brain’s more ancient bottom-up systems apparently worked well for basic survival during most of human prehistory—but their design makes for some troubles today. In much of life the older system holds sway, usually to our advantage but sometimes to our detriment: overspending, addictions, and recklessly speeding drivers all count as signs of this system out of whack.
+
+The survival demands of early evolution packed our brains with preset bottom-up programs for procreation and child-rearing, for what’s pleasurable and what’s disgusting, for running from a threat or toward food, and the like. Fast-forward to today’s very different world: we so often need to navigate life top-down despite the constant undertow of bottom-up whims and drives.
+
+A surprising factor constantly tips the balance toward bottom-up: the brain economizes on energy. Cognitive efforts like learning to use your latest tech upgrade demand active attention, at an energy cost. But the more we run through a once-novel routine, the more it morphs into rote habit and gets taken over by bottom-up circuitry, particularly neural networks in the basal ganglia, a golf-ball-sized mass nestled at the brain’s bottom, just above the spinal cord. The more we practice a routine, the more the basal ganglia take it over from other parts of the brain.
+
+The bottom/top systems distribute mental tasks between them so we can make minimal effort and get optimal results. As familiarity makes a routine easier, it gets passed off from the top to the bottom. The way we experience this neural transfer is that we need pay less attention—and finally none—as it becomes automatic.
+
+The peak of automaticity can be seen when expertise pays off in effortless attention to high demand, whether a master-level chess match, a NASCAR race, or rendering an oil painting. If we haven’t practiced enough, all of these will take deliberate focus. But if we have mastered the requisite skills to a level that meets the demand, they will take no extra cognitive effort—freeing our attention for the extras seen only among those at top levels.
+
+As world-class champions attest, at the topmost levels, where your opponents have practiced about as many thousands of hours as you have, any competition becomes a mental game: your mind state determines how well you can focus, and so how well you can do. The more you can relax and trust in bottom-up moves, the more you free your mind to be nimble.
+
+Take, for example, star football quarterbacks who have what sports analysts call “great ability to see the field”: they can read the other team’s defensive formations to sense the opponent’s intentions to move, and once the play starts instantly adjust to those movements, gaining a priceless second or two to pick out an open receiver for a pass. Such “seeing” requires enormous practice, so that what at first requires much attention—dodge that rusher—occurs on automatic.
+
+From a mental computation perspective, spotting a receiver while under the pressure of several 250-pound bodies hurtling toward you from various angles is no small feat: the quarterback has to keep in mind the pass routes of several potential receivers at the same time he processes and responds to the moves of all eleven opposing players—a challenge best managed by well-practiced bottom-up circuits (and one that would be overwhelming if he had to consciously think through each move).
+
+RECIPE FOR A SCREWUP
+
+Lolo Jones was winning the women’s 100-meter hurdles race, on her way to a gold medal at the 2008 Beijing Olympics. In the lead, she was clearing the hurdles with an effortless rhythm—until something went wrong.
+
+At first it was very subtle: she had a sense that the hurdles were coming at her too fast. With that, Jones had the thoughtMake sure you don’t get sloppy in your technique. . . . Make sure your legs are snapping out.
+
+With those thoughts, she overtried, tightening up a bit too much—and hit the ninth hurdle of ten. Jones finished seventh, not first, and collapsed on the track in tears.5
+
+Looking back as she was about to try again at the 2012 London Olympics (where she eventually finished fourth in the 100-meter race), Jones could recall that earlier moment of defeat with crystal clarity. And if you asked neuroscientists, they could diagnose the error with equal certainty: when she began to think about the details of her technique, instead of just leaving the job to the motor circuits that had practiced these moves to mastery, Jones had shifted from relying on her bottom-up system to interference from the top.
+
+Brain studies find that having a champion athlete start pondering technique during a performance offers a sure recipe for a screwup. When top soccer players raced a ball around and through a line of traffic cones—and had to notice which side of their foot was controlling the ball—they made more errors.6The same happened when baseball players tried to track whether their bat was moving up or down during a swing for a pitched ball.
+
+The motor cortex, which in a well-seasoned athlete has these moves deeply etched in its circuits from thousands of hours of practice, operates best when left alone. When the prefrontal cortex activates and we start thinking about how we’re doing, how to do what we’re doing—or, worse, whatnotto do—the brain gives over some control to circuits that know how to think and worry, but not how to deliver the move itself. Whether in the hundred meters, soccer, or baseball, it’s a universal recipe for tripping up.
+
+That’s why, as Rick Aberman, who directs peak performance for the Minnesota Twins baseball team, tells me, “When the coach reviews plays from a game and only focuses on whatnotto do next time, it’s a recipe for players to choke.”
+
+It’s not just in sports. Making love comes to mind as another activity where getting too analytic and self-critical gets in the way. A journal article on the “ironic effects of trying to relax under stress” suggests still another.7
+
+Relaxation and making love go best when we just let them happen—not try to force them. The parasympathetic nervous system, which kicks in during these activities, ordinarily acts independently of our brain’s executive, which thinks about them.
+
+Edgar Allan Poe dubbed the unfortunate mental tendency to bring up some sensitive topic you resolved not to mention “the imp of the perverse.” An article fittingly called “How to Think, Say, or Do Precisely the Worst Thing for Any Occasion,” by Harvard psychologist Daniel Wegner, explains the cognitive mechanism that animates that imp.8
+
+Flubs, Wegner has found, escalate to the degree we are distracted, stressed, or otherwise mentally burdened. In those circumstances a cognitive control system that ordinarily monitors errors we might make (likedon’t mention that topic) can inadvertently act as a mental prime, increasing the likelihood of that very mistake (likementioning that topic).
+
+When Wegner has had experimental volunteers trynotto think of a particular word, when they then are pressured to respond quickly to a word association task, ironically they often offer up that same forbidden word.
+
+Overloading attention shrinks mental control. It’s in the moments we feel most stressed that we forget the names of people we know well, not to mention their birthdays, our anniversaries, and other socially crucial data.9
+
+Another example: obesity. Researchers find that the prevalence of obesity in the United States over the last thirty years tracks the explosion of computers and tech gadgets in people’s lives—and suspect this is no accidental correlation. Life immersed in digital distractions creates a near-constant cognitive overload. And that overload wears out self-control.
+
+Forget that resolve to diet. Lost in the digital world we mindlessly reach for the Pringles.
+
+THE BOTTOM-UP SKEW
+
+A survey of psychologists asked them if there might be “one nagging thing” that they did not understand about themselves.10
+
+One said that for two decades he had studied how gloomy weather makes one’s whole life look bleak, unless you become aware of how the gloom worsens your mood—but that even though he understood all that, gloomy skies still made him feel bad.
+
+Another was puzzled by his compulsion to write papers that show how some research is badly misguided, and how he continues to do so even though none of the relevant researchers has paid much attention.
+
+And a third said that though he had studied “male sexual overperception bias”—the misinterpretation of a woman’s friendliness as romantic interest—he still succumbs to the bias.
+
+The bottom-up circuitry learns voraciously—and quietly—taking in lessons continually as we go through the day. Such implicit learning need never enter our awareness, though it acts as a rudder in life nonetheless, for better or for worse.
+
+The automatic system works well most of the time: we know what’s going on and what to do and can meander through the demands of the day well enough while we think about other things. But this system has weaknesses, too: our emotions and our motives create skews and biases in our attention that we typically don’t notice, and don’t notice that we don’t notice.
+
+Take social anxiety. In general, anxious people fixate on anything even vaguely threatening; those with social anxiety compulsively spot the least sign of rejection, such as a fleeting expression of disgust on someone’s face—a reflection of their habitual assumption that they will be social flops. Most of this emotional transaction goes on out of awareness, leading people to avoid situations where they might get anxious.
+
+An ingenious method for remedying this bottom-up skew is so subtle that people have no idea that their attention patterns are being rewired (just as they had no idea that wiring was going on as they acquired it in the first place). Called “cognitive bias modification,” or CBM, this invisible therapy has those suffering from severe social anxiety look at photos of an audience while they are asked to track when flashing patterns of lights appear and press a button as quickly as they can.11
+
+Flashes never appear in the area of the pictures that are threatening, like frowning faces. Though this intervention stays beneath their awareness, over the course of several sessions the bottom-up circuitry learns to direct attention to nonthreatening cues. Though people haven’t a clue about the subtle repatterning of attention, their anxiety in social situations dials down.12
+
+That’s a benign use of this circuitry. Then there’s advertising. The old-school tactics for getting attention in a crowded marketplace—what’s new, improved, surprising—still work. But a mini-industry of brain studies in the service of marketing has led to tactics based on manipulating our unconscious mind. One such study found, for example, that if you show people luxury items or just have them think about luxury goods, they become more self-centered in their decisions.13
+
+One of the most active areas of research on unconscious choice centers on what gets us to reach for some product when we shop. Marketers want to know how to mobilize our bottom-up brain.
+
+Marketing research finds, for instance, that when people are shown a drink along with happy faces that flit across a screen too rapidly to be registered consciously—but nonetheless are noticed by the bottom-up systems—they drink more than when those fleeting images are angry faces.
+
+A review of such research concludes that people are “massively unaware” of these subtle marketing forces, even as they shape how we shop.14Bottom-up awareness makes us suckers for subconscious primes.
+
+Life today seems ruled to a troubling degree by impulse; a flood of ads drives us, bottom-up, to desire a sea of goods and spend today without regard to how we will pay tomorrow. The reign of impulse for many goes beyond overspending and overborrowing to overeating and other addictive habits, from bingeing on Twizzlers to spending countless hours staring at one or another variety of digital screen.
+
+NEURAL HIJACKS
+
+Walk into someone’s office, and what’s the first thing you notice? That’s a clue to what’s driving your bottom-up focus in that moment. If you’re set on a financial goal, you might immediately take in an earnings graph on the computer screen. If you have arachnophobia, you’ll fixate on that dusty web in the corner of the window.
+
+These are subconscious choices in attention. Such attention capture occurs when the amygdala circuitry, the brain’s sentinel for emotional meaning, spots something it finds significant; an oversize insect, wrathful look, or cute toddler gives you an idea of the brain’s settings for such instinctual interest.15This midbrain fixture of the bottom-up system reacts far more quickly in neural time than does the top-down prefrontal area; it sends signals upward to activate higher cortical pathways that alert the (relatively) sluggish executive centers to wake up and pay attention.
+
+Our brain’s attention mechanisms evolved over hundreds of thousands of years to survive in a fang-and-claw jungle where threats approached our ancestors within a specific visual range and set of rates—somewhere around the lunge of a snake and the speed of a leaping tiger. Those of our ancestors whose amygdala was quick enough to help us dodge that snake and evade that tiger passed on their neural design to us.
+
+Snakes and spiders, two animals that the human brain seems primed to notice with alarm, capture attention even when their images are flashed so fast we have no conscious awareness of having seen them. The bottom-up circuits spot them more quickly than neutral objects, and send an alarm (flash those images by an expert on snakes or spiders and she will still have attention capture—but no alarm signal).16
+
+The brain finds it impossible to ignore emotional faces, particularly furious ones.17Angry faces have super-salience: scan a crowd and someone with an angry face will pop out. The bottom brain will even spot a cartoon with V-shaped eyebrows (like the kids inSouth Park) more quickly than it takes in a happy face.
+
+We are wired to pay reflexive attention to “super-normal stimuli,” whether for safety, nutrition, or sex—like a cat that can’t help chasing a fake mouse on a string. In today’s world, ads that play on those same pre-wired inclinations tug at us bottom-up, too, getting our reflexive attention. Just tie sex or prestige to a product to activate these same circuits to prime us to buy for reasons we don’t even notice.
+
+Our particular proclivities make us all the more vulnerable. That’s why alcoholics are riveted by vodka ads, randy folks by the sexy people in a spot for a vacation getaway.
+
+This is bottom-up preselected attention; such capture from below is automatic, an involuntary choice. We’re most prone to emotions driving focus this way when our minds are wandering, when we are distracted, or when we’re overwhelmed by information—or all three.
+
+Then there are emotions gone wild. I was writing this very section yesterday, sitting at my desktop, when out of the blue I had a crippling attack of lower back pain. Maybe not out of nowhere: it had been building quietly since morning. But then as I sat at my desk it suddenly ripped through my body, from my lower spine straight up to the pain centers in my brain.
+
+When I tried to stand, the bolt of pain was so severe I crumpled back into my chair. What’s worse, my mind started racing about the worst that might happen:I’ll be crippled by this for life, I’ll have to get regular steroid injections. . . and that train of thought brought my panicked mind to recall that a fungus in a poorly run drug-compounding facility had led to the death from meningitis of twenty-seven patients who had gotten just those very injections.
+
+As it happens, I had just deleted a block of text on a related point, which I intended to move to about here in this book. But with my attention in the grip of pain and worry, I completely forgot about it—and so it has vanished into a black hole.
+
+Such emotional hijacks are triggered by the amygdala, the brain’s radar for threat, which constantly scans our surroundings for dangers. When these circuits spot a threat (or what we interpret as one—they are often mistaken), a superhighway of neuronal circuitry running upward to the prefrontal areas sends a barrage of signals that let the lower brain drive the upper: our attention narrows, glued to what’s upsetting us; our memory reshuffles, making it easier to recall anything relevant to the threat at hand; our body goes into overdrive as a flood of stress hormones prepares our limbs to fight or run. We fixate on what’s so disturbing and forget the rest.
+
+The stronger the emotion, the greater our fixation. Hijacks are the superglue of attention. But the question is, How long does our focus stay captured? That depends, it turns out, on the power of the left prefrontal area to calm the aroused amygdala (there are two amygdalae, one in each brain hemisphere).
+
+That amygdala-prefrontal neuronal superhighway has branches to the left and right prefrontal sides. When we are hijacked the amygdala circuitry captures the right side and takes over. But the left side can send signals downward that calm the hijack.
+
+Emotional resilience comes down to how quickly we recover from upsets. People who are highly resilient—who bounce back right away—can have as much as thirty times more activation in the left prefrontal area than those who are less resilient.18The good news: as we’ll see in part 5, we can increase the strength of the amygdala-calming left prefrontal circuitry.
+
+LIFE ON AUTOMATIC
+
+My friend and I are rapt in conversation in a busy restaurant, toward the end of our lunch. He’s immersed in his narrative, telling me about a particularly intense moment he’s had recently.
+
+He’s been so lost in telling me about it that he’s not done with his food. My plate was cleared a while ago.
+
+At that point the server comes to our table and asks him, “Are you enjoying your lunch?”
+
+He barely notices her, mutters a dismissive, “No, not yet,” and continues on with his story without missing a beat.
+
+My friend’s reply, of course, was not to what the server actually said, but rather to what waitersusuallysay at that point in a meal: “Have you finished?”
+
+That small mistake typifies the downside of a life lived bottom-up, on automatic: we miss the moment as it actually comes to us, reacting instead to a fixed template of assumptions about what’s going on. And we miss the humor of the moment:
+
+Waiter: “Are you enjoying your lunch?”
+
+Customer: “No, not yet.”
+
+Back in the day when there were often long lines in many offices as people waited to use a copier, Harvard psychologist Ellen Langer had people go to the head of the line and simply say, “I’ve got to make some copies.”
+
+Of course, everyone else in line was there to make copies, too. Yet more often than not, the person at the head of the line would let Langer’s confederate go ahead. That, says Langer, exemplifies mindlessness, attention on automatic. An active attention, by contrast, might lead the person at the front of the line to question whether there really was some privileged urgent need for those copies.
+
+Active engagement of attention signifies top-down activity, an antidote to going through the day with a zombie-like automaticity. We can talk back to commercials, stay alert to what’s happening around us, question automatic routines or improve them. This focused, often goal-oriented attention, inhibits mindless mental habits.19
+
+So while emotions can drive our attention, with active effort we can also manage emotions top-down. Then the prefrontal areas take charge of the amygdala, tuning down its potency. An angry face, or even that cute baby, can fail to capture our attention when the circuits for top-down control of attention take over the brain’s choices of what to ignore.
+
+4
+
+THE VALUE OF A MIND ADRIFT
+
+Let’s step back for a moment, and think again about thinking. In what I’ve written so far there is an implicit bias: that focused, goal-driven attention has more value than open, spontaneous awareness. But the easy assumption that attention need be in the service of solving problems or achieving goals downplays the fruitfulness of the mind’s tendency to drift whenever left to its own devices.
+
+Every variety of attention has its uses. The very fact that about half of our thoughts are daydreams suggests there may well be some advantages to a mind that can entertain the fanciful.1We might revise our own thinking about a “wandering mind,” by considering that rather than wanderingawayfrom what counts, we may well be wanderingtowardsomething of value.2
+
+Brain research on mind wandering faces a unique paradox: top-down intent does not yield a fruitful bottom-up routine. It’s impossible to instruct someone to have a spontaneous thought—that is, to make the person’s mind wander.3If you want to capture wandering thoughts in the wild, you’ve got to take them whenever they happen to pop up. One preferred research strategy: while people are having their brains scanned, ask them at random moments what they are experiencing. This yields a messy mix of the contents of the mind, including a great deal of wandering.
+
+The inner tug to drift away from effortful focus is so strong that cognitive scientists see a wandering mind as the brain’s “default” mode—where it goes when it’s not working away on some mental task. The circuitry for this default network, a series of brain imaging studies has found, centers on the medial, or middle, zone of the prefrontal cortex.
+
+More recent brain scans revealed a surprise: during mind wanderingtwomajor brain areas seem to be active, not just the medial strip that had long been associated with a drifting mind.4The other—the executive system of the prefrontal cortex—had been thought crucial for keeping us focused on tasks. Yet the scans seem to show both areas activated as the mind meandered.
+
+That’s a bit of a puzzle. After all, mind wandering by its very nature takes focus from the business at hand and hampers our performance, particularly on cognitively demanding matters. Researchers tentatively solve that puzzle by suggesting that the reason mind wandering hurts performance may be its borrowing the executive system for other matters.
+
+This gets us back to what the mind wanderstoward: more often than not, our current personal concerns and unresolved business—stuff we’ve got to figure out (more on this in the next chapter). While mind wandering may hurt our immediate focus on some task at hand, some portion of the time it operates in the service of solving problems that matter for our lives.
+
+In addition, a mind adrift lets our creative juices flow. While our minds wander we become better at anything that depends on a flash of insight, from coming up with imaginative wordplay to inventions and original thinking. In fact, people who are extremely adept at mental tasks that demand cognitive control and a roaring working memory—like solving complex math problems—can struggle with creative insights if they have trouble switching off their fully concentrated focus.5
+
+Among other positive functions of mind wandering are generating scenarios for the future, self-reflection, navigating a complex social world, incubation of creative ideas, flexibility in focus, pondering what we’re learning, organizing our memories, just mulling life—and giving our circuitry for more intensive focusing a refreshing break.6
+
+A moment’s reflection leads me to add two more: reminding me of things I have to do so they don’t get lost in the mind’s shuffle, and entertaining me. I’m sure you can suggest some other useful features, if you let your mind drift awhile.
+
+THE ARCHITECTURE OF SERENDIPITY
+
+A Persian fairy tale tells of the Three Princes of Serendip, who “were always making discoveries, by accident and sagacity, of things they were not in quest of.”7Creativity in the wild operates much like that.
+
+“New ideas won’t appear if you don’t have permission within yourself,” Salesforce CEO Marc Benioff tells me. “When I was a VP at Oracle, I took off to Hawaii for a month just to relax, and when I did that it opened up my career to new ideas, perspectives, and directions.”
+
+In that open space Benioff realized the potential uses for cloud computing that led him to quit Oracle, start Salesforce in a rented apartment, and evangelize for what was then a radical concept. Salesforce was a pioneer in what is now a multibillion-dollar industry.
+
+By contrast, a scientist too determined to confirm his hypothesis risks ignoring findings that don’t fit his expectations—dismissing them as noise or error, not a doorway to new discoveries—and so misses what might become more fruitful theories. And the naysayer in the brainstorming session, the guy who always shoots down any new idea, throttles innovative insight in its infancy.
+
+Open awareness creates a mental platform for creative breakthroughs and unexpected insights. In open awareness we have no devil’s advocate, no cynicism or judgment—just utter receptivity to whatever floats into the mind.
+
+But once we’ve hit upon a great creative insight, we need to capture the prize by switching to a keen focus on how to apply it. Serendipity comes with openness to possibility, then homing in on putting it to use.
+
+Life’s creative challenges rarely come in the form of well-formulated puzzles. Instead we often have to recognize the very need to find a creative solution in the first place. Chance, as Louis Pasteur put it, favors a prepared mind. Daydreaming incubates creative discovery.
+
+A classic model of the stages of creativity roughly translates to three modes of focus: orienting, where we search out and immerse ourselves in all kinds of inputs; selective attention on the specific creative challenge; and open awareness, where we associate freely to let the solution emerge—then home in on the solution.
+
+The brain systems involved in mind wandering have been found active just before people hit upon a creative insight—and, intriguingly, are unusually active in those with attention deficit disorder, or ADD. Adults with ADD, relative to those without, also show higher levels of original creative thinking and more actual creative achievements.8The entrepreneur Richard Branson, founder of the corporate empire built on Virgin Air and other companies, has offered himself as a poster boy for success with ADD.
+
+The Centers for Disease Control and Prevention says almost 10 percent of children have the disorder in a form mixed with hyperactivity. In adults, the hyperactivity fades, leaving ADD; around 4 percent of adults seem to have the problem.9When challenged by a creative task, for example, finding novel uses for a brick, those with ADD do better, despite their zoning out—or perhaps because of it.
+
+We all might learn something here. In an experiment where volunteers were challenged with the novel-uses task, those whose minds had been wandering—compared with those whose attention had been fully concentrated—came up with 40 percent more original answers. And when people who had creative accomplishments like a novel, patent, or art show to their credit were tested for screening out irrelevant information to focus on a task, their minds wandered more frequently than did others’—indicating an open awareness that may have served them well in their creative work.10
+
+In our less frenetic creative moments, just before an insight the brain typically rests in a relaxed, open focus, marked by an alpha rhythm. This signals a state of daydreamy reverie. Since the brain stores different kinds of information in wide-reaching circuitry, a freely roaming awareness ups the odds of serendipitous associations and novel combinations.
+
+Rappers immersed in “freestyling,” where they improvise lyrics in the moment, show heightened activity in the mind-wandering circuitry, among other parts of the brain—allowing fresh connections between far-ranging neural networks.11In this spacious mental ecology we are more likely to have novel associations, theahasense that marks a creative insight—or a good rhyme.
+
+In a complex world where almost everyone has access to the same information, new value arises from the original synthesis, from putting ideas together in novel ways, and from smart questions that open up untapped potential. Creative insights entail joining elements in a useful, fresh way.
+
+Imagine for a moment biting into a crisp apple: the patina of colors on its skin, the sounds of the crunch as you bite into it, the wash of tastes, smells, and textures. Take a moment to experience that virtual apple.
+
+As that imagined moment came to life in your mind your brain almost certainly generated a gamma spike. Such gamma spikes are familiar to cognitive neuroscientists; they occur routinely during mental operations like the virtual apple bite—and just before creative insights.
+
+It would be making too much of this to see gamma waves as some secret of creativity. But thesiteof the gamma spike during a creative insight seems telling: an area associated with dreams, metaphors, the logic of art, myth, and poetry. These operate in the language of the unconscious, a realm where anything is possible. Freud’s method of free association, where you speak whatever comes into your mind without censoring, opens one door to this open-awareness mode.
+
+Our mind holds endless ideas, memories, and potential associations waiting to be made. But the likelihood of the right idea connecting with the right memory within the right context—and all that coming into the spotlight of attention—diminishes drastically when we are either hyperfocused or too gripped by an overload of distractions to notice the insight.
+
+Then there’s what’s stored in other people’s brains. For about a year the astronomers Arno Penzias and Robert Wilson searched the universe with powerful new equipment, much stronger than any that had yet been used for scanning the vastness of the skies. They were overwhelmed by a sea of fresh data, and tried to simplify their work by ignoring some meaningless static they assumed was due to faulty equipment.
+
+One day a chance encounter with a nuclear physicist gave them an insight (and eventually, a Nobel Prize). The insight led them to realize that what they had been interpreting as “noise” was actually a faint signal from the continued reverberations of the big bang.
+
+THE CREATIVE COCOON
+
+“The intuitive mind is a sacred gift and the rational mind is a faithful servant,” Albert Einstein once said. “We have created a society that honors the servant and has forgotten the gift.”12
+
+For many of us it’s a luxury just to get some uninterrupted private moments during the day when we can lean back and reflect. Yet those count as some of the most valuable moments in our day, especially when it comes to creativity.
+
+But there’s something more required if those associations are to bear fruit in a viable innovation: the right atmosphere. We need free time where we can sustain an open awareness.
+
+The nonstop onslaught of email, texts, bills to pay—life’s “full catastrophe”—throws us into a brain state antithetical to the open focus where serendipitous discoveries thrive. In the tumult of our daily distractions and to-do lists, innovation dead-ends; in open times it flourishes. That’s why the annals of discovery are rife with tales of a brilliant insight during a walk or a bath, on a long ride or vacation. Open time lets the creative spirit flourish; tight schedules kill it.
+
+Take the late Peter Schweitzer, a founder of the field of evaluating cryptography, encrypted codes that look like nonsense to the unschooled eye but protect the secrecy of everything from government records to your credit card.13Schweitzer’s specialty: breaking codes in a friendly test of encryption that tells you if some adversary like a rogue hacker can crack your system and steal your secrets.
+
+This daunting challenge requires you to generate a large array of novel potential solutions to an extraordinarily complicated problem, and then test each one by working it through a methodical number of steps.
+
+Schweitzer’s laboratory for this intense task was not some sound-insulated, windowless office. Typically he’d mull an encrypted code while on a long walk or simply soaking up some sun, eyes closed. “It looked like someone taking a nap, but he was doing higher math in his head,” as a colleague put it. “He’d lie around sunbathing, and meanwhile his mind would be going a zillion miles an hour.”
+
+The import of such cocoons in time and space emerged from a Harvard Business School study of the inner work lives of 238 members of creative project teams tasked with innovative challenges from solving complex information technology problems to inventing kitchen gadgets.14Progress in such work demands a steady stream of small creative insights.
+
+Good days for insights had nothing to do with stunning breakthroughs or grand victories. The key turned out to be having small wins—minor innovations and troubling problems solved—on concrete steps toward a larger goal. Creative insights flowed best when people had clear goals but also freedom in how they reached them. And, most crucial, they had protected time—enough to really think freely. A creative cocoon.
+
+5
+
+FINDING BALANCE
+
+The faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will,” observed the founder of American psychology, William James.
+
+But, as we’ve seen, if you ask people, “Are you thinking about something other than what you’re currently doing?” the odds are fifty-fifty their minds will be wandering.1
+
+Those odds change greatly depending on what that current activity happens to be. A random survey of thousands of people found focus in the here-and-now understandably was highest by far while they were making love (apparently even among those people who answered that badly timed inquiry from a phone app). A more distant second was exercising, followed by talking with someone, and then playing. In contrast, mind wandering was most frequent while they were working (employers take note), using a home computer, or commuting.
+
+On average, people’s moods were generally skewed to the unpleasant while their minds wandered; even thoughts that had seemingly neutral content were shaded with a negative emotional tone. Mind wandering itself seemed to be a cause of unhappiness some or much of the time.
+
+Where do our thoughts wander when we’re not thinking of anything in particular? Most often, they are all about me. The “me,” William James proposed, weaves together our sense of self by telling our story—fitting random bits of life into a cohesive narrative. This it’s-all-about-me story line fabricates a feeling of permanence behind our ever-shifting moment-to-moment experience.
+
+“Me” reflects the activity of the default zone, that generator of the restless mind, lost in a meandering stream of thought that has little or nothing to do with the present situation and everything to do with, well, me. This mental habit takes over whenever we give the mind a rest from some focused activity.
+
+Creative associations aside, mind wandering tends to center on our self and our preoccupations:all the many things I have to do today; the wrong thing I said to that person; what I should have said instead.While the mind sometimes wanders to pleasant thoughts or fantasy, it more often seems to gravitate to rumination and worry.
+
+The medial prefrontal cortex fires away as our self-talk and ruminations generate a background of low-level anxiety. But during full concentration a nearby area, the lateral prefrontal cortex, inhibits this medial area. Our selective attentiondeselects these circuits for emotional preoccupations, the most powerful type of distraction. Responding to what’s going on, or active focus of any kind, shuts off the “me,” while passive focus returns us to this comfy mire of rumination.2
+
+It’s not the chatter of people around us that is the most powerful distractor, but rather the chatter of our own minds. Utter concentration demands these inner voices be stilled. Start to subtract sevens successively from 100 and, if you keep your focus on the task, your chatter zone goes quiet.
+
+THE LAWYER AND THE RAISIN
+
+As a litigator, the lawyer had fueled his career by mobilizing a seething anger at the injustices done his clients. Energized by outrage, he was relentless in pursuing his cases, making his arguments with a fiery force, staying up long into the night researching and preparing. Often he’d lie awake much of the night fuming as he reviewed his clients’ predicament over and over and plotted legal strategy.
+
+Then, on a vacation, he met a woman who taught meditation and asked her for instruction. To his surprise, she started by handing him a few raisins. She then led him through the steps in eating one of the raisins slowly and with full focus, savoring the richness of every moment in that process: the sensations as he lifted it into his mouth and chewed, the burst of flavors as he bit into it, the sounds of eating. He immersed himself in the fullness of his senses.
+
+Then, as she instructed him, he brought that same full in-the-moment focus to the natural flow of his breath, letting go of any and all thoughts that floated through his mind. With her guidance he continued that meditation on his breath for the next fifteen minutes.
+
+As he did so, the voices in his mind went quiet. “It was like flipping a switch into a Zen-like state,” he said. He liked it so much that he has made it a daily habit: “After I’m done, I feel really calm—I like that a lot.”
+
+When we turn such full attention to our senses, the brain quiets its default chatter. Brain scans during mindfulness—the form of meditation the lawyer was trying—reveal it quiets the brain circuits for me-focused mental chatter.3
+
+That in itself can be an immense relief. “To the extent absorption means dropping this mind-wandering state and getting a total focus on an activity, we’re likely to be deactivating the default circuits,” neuroscientist Richard Davidson says. “You can’t ruminate about yourself while you’re absorbed in a challenging task.”
+
+“This is one reason people love dangerous sports like mountain climbing, a situation where you have to be totally focused,” Davidson adds. Powerful focus brings a sense of peace, and with it, joy. “But when you come down the mountain, the self-referencing network brings your worries and cares right back.”
+
+In Aldous Huxley’s utopian novelIsland, trained parrots fly over to people at random and chirp, “Here and now, boys, here and now!” That reminder helps the denizens of this idyllic island pop their daydreams and refocus on what’s happening in this very place and moment.
+
+A parrot seems an apt choice as messenger: animals live only in the here-and-now.4A cat hopping into a lap to be stroked, a dog eagerly waiting for you at the door, a horse cocking its head to read your intentions as you approach: all share the same focus on the present.
+
+This capacity to think in ways that are independent of an immediate stimulus—about what’s happened and whatmighthappen in all its possibilities—sets the human mind apart from that of almost every other animal. While many spiritual traditions, like Huxley’s parrots, see mind wandering as a source of woe, evolutionary psychologists see this as a great cognitive leap. Both views have some truth.
+
+In Huxley’s vision the eternal now harbors everything we need for fulfillment. Yet the human ability to think about things not happening in that eternal present represents a prerequisite for all the achievements of our species that required planning, imagination, or logistic skill. And that’s just about everything that’s a uniquely human accomplishment.
+
+Mulling thingsnotgoing on here and now—“situation-independent thought” as cognitive scientists call it—demands we decouple the contents of our mind from what our senses perceive at the moment. So far as we know, no other species can make this radical shift from an external focus to an inward one with anything near the power of the human mind, or nearly so often.
+
+The more our mind wanders, the less we can register what’s going on right now, right here. Take comprehending what we’re reading. When volunteers had their gaze monitored while they read the entirety of Jane Austen’sSense and Sensibility, erratic eye movements signaled that a great deal of mindless reading went on.5
+
+Wandering eyes indicate a breakdown in the connection between understanding and visual contact with the text, as the mind meanders elsewhere (there might have been far less meandering if the volunteers had been free to choose what they read—sayBlinkorFifty Shades of Grey, depending on their taste).
+
+Using tools such as fluctuations in eye gaze or “random experience sampling” (in other words, just asking someone what’s happening) while people are having their brains scanned, neuroscientists observe that major neural dynamic: while the mind wanders, our sensory systems shut down, and, conversely, while we focus on the here and now, the neural circuits for mind wandering go dim.
+
+At the neural level mind wandering and perceptual awareness tend to inhibit each other: internal focus on our train of thought tunes out the senses, while being rapt in the beauty of a sunset quiets the mind.6This tune-out can be total, as when we get utterly lost in what we’re doing.
+
+Our usual neural settings allow a bit of wandering while we engage the world—or just enough engagement while we are adrift, as when we daydream while we drive. Of course, such partial tuning out bears risks: one study of a thousand drivers injured in accidents found that about half said their mind was wandering just before the accident; the more intense the disruptive thoughts, the more likely it was that the driver caused the accident.7
+
+Situations that do not demand constant task-focus—particularly boring or routine ones—free the mind to wander. As the mind drifts off and the default network activates more strongly, our neural circuits for task-focus go quiet—another variety of neural decoupling akin to that between the senses and daydreaming. Since daydreaming competes for neural energy with task-focus and sensory perception, there’s small wonder that as we daydream we make more errors in anything that requires us to pay focused attention.
+
+THE WANDERING MIND
+
+“Whenever you notice your mind wandering,” a fundamental instruction in meditation advises, “bring your mind back to its point of focus.” The operative phrase here iswhenever you notice. As our mind drifts off, we almost never notice the moment it launches into some other orbit on its own. A meander away from the focus of meditation can last seconds, minutes, or the entire session before we notice, if we do at all.
+
+That simple challenge is so hard because the very brain circuits we need to catch our mind as it wanders are recruited into the neural web that sets the mind adrift in the first place.8What are they doing? Apparently, managing the random bits that fill a wandering mind into a detailed train of thought, likeHow do I pay my bills?Such thoughts require cooperation between the mind’s drifting circuitry and the organizational talents of the executive circuits.9
+
+Catching a wandering mind in the act is elusive; more often than not when we are lost in thought we fail to realize that our mind has wandered in the first place. Noticing that our mind has wandered marks a shift in brain activity; the greater this meta-awareness, the weaker the mind wandering becomes.10Brain imaging reveals that at the moment we catch our mind adrift that act of meta-awareness lessens the activity of the executive and medial circuits, but it does not completely suppress them.11
+
+Modern life values sitting in school or an office, focusing on one thing at a time—an attentional stance that may not always have paid off in early human history. Survival in the wild, some neuroscientists argue, may have depended at crucial moments on a rapidly shifting attention and swift action, without hesitating to think what to do. What we now diagnose as an attentional deficit may reflect a natural variation in focusing styles that had advantages in evolution—and so continues to be dispersed in our gene pool.
+
+When facing a focus-demanding mental task like tough math problems, as we’ve seen, those with ADD show both more mind wandering and increased activity in the medial circuitry.12But when conditions are right, those with ADD can have keen focus, fully absorbed in the activity at hand. Such conditions might arise more often in an art studio, basketball court, or stock exchange floor—just not in the classroom.
+
+AN EVEN KEEL
+
+On 12/12/12, the very day a quirk in the Mayan calendar supposedly foretold as the end of the world (according to clearly unfounded rumors), my wife and I happened to take one of our granddaughters to the Museum of Modern Art. A budding artist, she was keen to see the offerings of that famous New York City museum.
+
+Among the first displays to greet us on entering the first gallery at MoMA were two industrial-sized vacuum cleaners, spotless white three-wheeled cylinders with neat pin-striping. They were stacked one atop the other encased in Plexiglas cubes, the neon lights beneath each making them gleam. Our granddaughter was not impressed; she was eager to see Van Gogh’sStarry Nightin a gallery several floors above.
+
+Just the night before, the main curator at MoMA had convened an evening on the theme of “attention and distraction.” The focusing of attention holds the key to museum displays: the frames around the art announce where we should look. Those glass cubes and neon lights directed our attentionhere, toward the sparkling vacuum cleaners, and away fromthere—whatever else was in the gallery.
+
+That point came home to me as we left. Near an out-of-the-way wall in the museum’s cavernous lobby I noticed some chairs stacked haphazardly, waiting to be placed for some special event. Lurking near them in the shadows, I could barely discern what appeared to be a vacuum cleaner. No one paid it the least attention.
+
+But our attention need not be at the mercy of how the world around us gets framed; we can choose to observe the vacuum cleaner in the shadow as much as the one in the spotlight. An even keel in attention reflects a mental mode where we simply notice whatever comes into awareness without getting caught up or swept away by any particular thing. Everything flows through.
+
+This openness can be seen in everyday moments when, for instance, you find yourself waiting a turn behind a customer who is taking endless time, and instead of focusing on resentment or on how this will make you late, you simply let yourself enjoy the store’s background music.
+
+Emotional reactivity flips us into a different mode of attention, one where our world contracts into fixation on what’s upsetting us. Those who have difficulty sustaining open awareness typically get caught up by irritating details like that person in front of them in the security line at the airport who took forever to get carry-on ready for the scanner—and will still be fuming about it while waiting for their plane at the gate. But there are no emotional hijacks in open awareness—just the richness of the moment.
+
+One brain measure for such open attention assesses how well people can track an occasional number embedded in a stream of letters: S, K, O, E, 4, R, T, 2, H, P . . .
+
+Many people, it turns out, fix their attention on the first number, 4, and miss seeing the second, 2. Their attention blinks. Those with strong open focus, though, register the second number, too.
+
+People who are able to rest their attention in this open mode notice more about their surroundings. Even in the bustle of an airport they can maintain awareness of what’s going on, rather than getting lost in one detail or another. In brain tests, those who score highest on open awareness register a greater amount of detail flashing by in a moment’s time than do most people. Their attention does not blink.13
+
+This enriching of attention applies, too, to our interior life—in the open mode we take in far more of our feelings, sensations, thoughts, and memories than we do when, say, we’re focused on marching through our to-do list or rushing to back-to-back meetings.
+
+“The capacity to remain with your attention open in a panoramic awareness,” says Davidson, “lets you attend with equanimity, without getting caught in a bottom-up capture that ensnares the mind in judging and reactivity, whether negative or positive.”
+
+It also decreases mind wandering. The goal, he adds, is to be better able to engage in mind wandering when you want to, and not otherwise.
+
+RESTORING ATTENTION
+
+On vacation at a tropical resort with his family, magazine editor William Falk bemoans, he found himself sitting staring at his work while his daughter waited for him to go to the beach.
+
+“Not so long ago,” Falk reflects, “I would have found it unthinkable to work while on vacation; I recall glorious two-week sojourns where I had no contact with bosses, employees, even friends. But that was before I traveled with a smartphone, an iPad, and a laptop, and learned to like living in a constant stream of information and connection.”14
+
+Consider the cognitive effort demanded by our new normal information overload—the explosion of news streams, emails, phone calls, tweets, blogs, chats, reflections about opinions about opinions that we expose our cognitive processors to daily.
+
+That neural buzz adds tension to the demands of getting something done. Selecting one sharp focus requires inhibiting a multitude of others. The mind has to fight off the pull of everything else, sorting out what’s important from what’s irrelevant. That takes cognitive effort.
+
+Tightly focused attention gets fatigued—much like an overworked muscle—when we push to the point of cognitive exhaustion. The signs of mental fatigue, such as a drop in effectiveness and a rise in distractedness and irritability, signify that the mental effort needed to sustain focus has depleted the glucose that feeds neural energy.
+
+The antidote to attention fatigue is the same as for the physical kind: take a rest. But what rests a mental muscle?
+
+Try switching from the effort of top-down control to more passive bottom-up activities, taking a relaxing break in a restful setting. The most restful surroundings are in nature, argues Stephen Kaplan at the University of Michigan, who proposes what he calls “attention restoration theory.”15
+
+Such restoration occurs when we switch from effortful attention, where the mind needs to suppress distractions, to letting go and allowing our attention to be captured by whatever presents itself. But only certain kinds of bottom-up focus act to restore energy for focused attention. Surfing the Web, playing video games, or answering email does not.
+
+We do well to unplug regularly; quiet time restores our focus and composure. But that disengagement is just the first step. What we do next matters, too. Taking a walk down a city street, Kaplan points out, still puts demands on attention—we’ve got to navigate through crowds, dodge cars, and ignore honking horns and the hum of street noise.
+
+In contrast, a walk through a park or in the woods puts little such demand on attention. We can restore by spending time in nature—even a few minutes strolling in a park or any setting rich in fascinations like the muted reds of clouds at sunset or a butterfly’s flutter. This triggers bottom-up attention “modestly,” as Kaplan’s group put it, allowing circuits for top-down efforts to replenish their energy, restoring attentiveness and memory, and improving cognition.16
+
+A walk through an arboretum led to better focus on return to concentrated tasks than a stroll though downtown.17Even sitting by a mural of a nature scene—particularly one with water in it—is better than the corner coffee shop.18
+
+But I wonder. These moments seem fine for switching off intense concentration, but open the way for the still-busy wandering mind-set of the default circuitry. There’s another step we can take in switching off the busy mind: full focus on something relaxing.
+
+The key is an immersive experience, one where attention can be total but largely passive. This starts to happen when we gently arouse the sensory systems, which quiet down those for effortful focus. Anything we can get enjoyably lost in will do it. Remember, in that survey of people’s moods the single most focusing activity in anyone’s day, and the most pleasant, is lovemaking.
+
+Total, positive absorption shuts off the inner voice, that running dialogue with ourselves that goes on even during our quiet moments. That’s a main effect of virtually every contemplative practice that keeps your mind focused on a neutral target, like your breath or a mantra.
+
+Traditional advice for ideal settings for a “retreat” seems to include all the ingredients needed for cognitive restoration. Monasteries designed for meditation are typically in restful, quiet natural environments.
+
+Not that we need go to such extremes. For William Falk, the remedy was simple: he stopped his work and went to play with his daughter in the waves. “Tumbling and hooting in the pounding surf with my daughter, I was fully present in the moment. Fully alive.”
