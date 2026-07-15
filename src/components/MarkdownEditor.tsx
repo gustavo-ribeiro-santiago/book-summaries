@@ -29,6 +29,38 @@ export default function MarkdownEditor({
     }
   };
 
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
+    if (e.key !== 'Tab') return;
+    e.preventDefault();
+
+    const textarea = e.currentTarget;
+    const { selectionStart, selectionEnd, value } = textarea;
+    const indent = '  ';
+
+    if (!e.shiftKey) {
+      const next = value.slice(0, selectionStart) + indent + value.slice(selectionEnd);
+      setContent(next);
+      requestAnimationFrame(() => {
+        textarea.selectionStart = textarea.selectionEnd = selectionStart + indent.length;
+      });
+      return;
+    }
+
+    const lineStart = value.lastIndexOf('\n', selectionStart - 1) + 1;
+    const removable = value.slice(lineStart, lineStart + indent.length) === indent
+      ? indent.length
+      : value[lineStart] === ' '
+        ? 1
+        : 0;
+    if (!removable) return;
+
+    const next = value.slice(0, lineStart) + value.slice(lineStart + removable);
+    setContent(next);
+    requestAnimationFrame(() => {
+      textarea.selectionStart = textarea.selectionEnd = Math.max(lineStart, selectionStart - removable);
+    });
+  };
+
   return (
     <div className="space-y-4">
       {/* Toolbar */}
@@ -83,6 +115,7 @@ export default function MarkdownEditor({
           <textarea
             value={content}
             onChange={(e) => setContent(e.target.value)}
+            onKeyDown={handleKeyDown}
             placeholder={placeholder}
             className="w-full min-h-[400px] px-4 py-4 bg-white border border-paper-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all text-ink-800 placeholder-ink-400 font-mono text-sm resize-y"
           />
