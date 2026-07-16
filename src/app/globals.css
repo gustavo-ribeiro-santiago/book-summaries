@@ -71,6 +71,11 @@ body {
   @apply text-ink-700;
 }
 
+.markdown-content li > ul,
+.markdown-content li > ol {
+  @apply mt-1 ml-6;
+}
+
 .markdown-content blockquote {
   @apply border-l-4 border-accent-400 pl-4 py-2 my-4 bg-paper-100 italic text-ink-600;
 }
